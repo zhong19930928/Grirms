@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/Cambridgeblue"
+    android:orientation="vertical"
+    android:padding="1dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <LinearLayout
+            android:id="@+id/ll_compDialog"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <!-- <DatePicker
+                android:id="@+id/date_intable_datePicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" /> -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="@color/white"
+            android:gravity="center"
+            android:padding="5dp" >
+
+            <Button
+                android:id="@+id/date_intable_confirmBtn"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/func_new_detail_submit_btn"
+                android:padding="5dp"
+                android:text="@string/confirm"
+                android:textColor="@color/app_color"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/date_intable_cancelBtn"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/func_new_detail_submit_btn"
+                android:padding="5dp"
+                android:text="@string/cancel"
+                android:textColor="@color/app_color"
+                android:textSize="25sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

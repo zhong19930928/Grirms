@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <LinearLayout
+        android:id="@+id/ll_order3_search"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:padding="@dimen/normal_atcionbar_pading"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="vertical"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="查询订单"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+    </LinearLayout>
+
+    <com.yunhu.yhshxc.widget.pulltorefreshview.PullToRefreshView
+        android:id="@+id/pulltorefresh_order3"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/ll_order3_search"
+        android:layout_marginTop="4dip"
+        android:layout_weight="1"
+        android:background="#00000000" >
+
+        <ScrollView
+            android:id="@+id/sv_order3_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="true"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="订单客户"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                        android:textColor="@color/black" />
+
+                    <com.yunhu.yhshxc.widget.DropDown
+                        xmlns:dd="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/spinner_search"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/spinner_dropdown_selector"
+                        android:layout_marginLeft="5dp"
+                        dd:ddMode="single_choice_fuzzy_query" />
+                    
+                      <TextView
+                        android:id="@+id/tv_order3_name"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="1"
+                        android:singleLine="true"
+                        android:text="北京高森明晨信息科技有限公司"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                        android:visibility="gone" />
+                      
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="5dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="订单日期"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                        android:textColor="@color/black" />
+
+                    <Button
+                        android:id="@+id/btn_order3_data_start"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/order3_data_bg_selector"
+                        android:padding="5dp"
+                        android:text="开始日期"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                        android:textColor="@color/white"
+                         />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="~"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                        android:textColor="@color/black" />
+
+                    <Button
+                        android:id="@+id/btn_order3_data_end"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/order3_data_bg_selector"
+                        android:padding="5dp"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                        android:text="结束日期"
+                        android:textColor="@color/white"
+                         />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingTop="5dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="订单编号"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                        android:textColor="@color/black" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/order3_location_bar_bg_selctor"
+                        android:padding="0.1dp" >
+
+                        <EditText
+                            android:id="@+id/et_search"
+                            android:layout_width="match_parent"
+                            android:layout_height="35dp"
+                            android:background="@color/white"
+                            android:textCursorDrawable="@drawable/color_cursor"
+                            android:inputType="number" />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/search_ordetail_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/order3_search_bg_selector"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:text="查 找"
+                        android:textColor="@color/white"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <com.yunhu.yhshxc.widget.pulltorefreshview.MyListView
+                    android:id="@+id/lv_search_ordetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fadingEdge="none"
+                    android:divider="@color/order3_devider"
+                    android:dividerHeight="0.5dp"
+                    android:fastScrollEnabled="true"
+                    android:scrollbars="none" >
+                </com.yunhu.yhshxc.widget.pulltorefreshview.MyListView>
+            </LinearLayout>
+        </ScrollView>
+    </com.yunhu.yhshxc.widget.pulltorefreshview.PullToRefreshView>
+
+</RelativeLayout>

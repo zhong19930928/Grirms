@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:gravity="center"
+	android:padding="10dp">
+	
+	<FrameLayout
+	    android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:background="@drawable/photobg"
+		android:padding="3dp">
+		
+			<ImageView
+			    android:id="@+id/iv_image"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:minWidth="150dp"
+				android:minHeight="150dp"
+			    android:adjustViewBounds="true"
+			    android:scaleType="matrix"
+				android:layout_gravity="center" />
+		
+			<ImageView
+			    android:id="@+id/iv_editState"
+				android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+				android:src="@drawable/hook"
+				android:layout_marginTop="5dp"
+				android:layout_marginRight="5dp"
+				android:layout_gravity="top|right" />
+	</FrameLayout>
+	
+	<TextView
+		android:id="@+id/tv_ItemText"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent"
+		android:textSize="18sp"
+		android:textColor="@android:color/black" />
+</LinearLayout>

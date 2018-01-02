@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/question_bg"
+    android:padding="5dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_online_question_preview_show"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_online_question_preview_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="一、单选题"
+            android:textColor="@color/quesetion_title_first_color"
+            android:textSize="@dimen/common_text_size_middle_2" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_online_question_preview_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:visibility="gone" >
+    </ListView>
+
+</LinearLayout>

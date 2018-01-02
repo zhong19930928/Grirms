@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp
+END
+NearbyCompEditRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp/NearbyCompEditRange.java
+END
+AbsNearbyComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp/AbsNearbyComp.java
+END
+NearbyCompEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp/NearbyCompEdit.java
+END
+NearbyCompDistanceSpinner.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp/NearbyCompDistanceSpinner.java
+END
+NearbyCompMultipleSpinner.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp/NearbyCompMultipleSpinner.java
+END
+NearbyCompDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp/NearbyCompDate.java
+END
+NearbyCompSpinner.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/nearbyVisit/comp/NearbyCompSpinner.java
+END

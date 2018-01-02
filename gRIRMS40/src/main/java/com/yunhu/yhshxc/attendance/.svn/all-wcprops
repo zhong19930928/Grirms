@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance
+END
+AttendanceFuncActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceFuncActivity.java
+END
+AttendanceListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceListActivity.java
+END
+SchedulingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/SchedulingActivity.java
+END
+AttendanceFuncDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceFuncDetailActivity.java
+END
+AttendanceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceActivity.java
+END
+AttendanceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceUtil.java
+END
+Scheduling.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/Scheduling.java
+END
+AttendanceSchedulingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceSchedulingView.java
+END
+SearchSchedulingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/SearchSchedulingActivity.java
+END
+AttendanceNewListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceNewListActivity.java
+END
+SchedulingSearchResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/SchedulingSearchResultItem.java
+END
+AttendanceFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceFragment.java
+END
+SharedPrefsAttendanceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/SharedPrefsAttendanceUtil.java
+END
+AttendanceScheduling.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/AttendanceScheduling.java
+END

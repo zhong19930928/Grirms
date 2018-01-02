@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@android:color/white">
+
+	<TextView
+		android:id="@+id/title"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="@dimen/order_title_text_size"
+	    android:textColor="@android:color/white"
+	    android:background="@color/app_color"
+	    android:padding="@dimen/order_padding_title" />
+
+	<LinearLayout
+	    android:id="@+id/order"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:padding="@dimen/order_padding"
+	    android:layout_below="@+id/title"
+	    android:gravity="center_vertical">
+
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="@dimen/order_default_text_size"
+	        android:text="订单:"
+	        android:textColor="@android:color/black" />
+
+		<Spinner
+			android:id="@+id/selectOrder"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:paddingLeft="@dimen/order_padding"
+			android:paddingRight="@dimen/order_padding"
+			android:paddingTop="10dp"
+			android:paddingBottom="10dp" />
+	</LinearLayout>
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/order"
+		android:layout_above="@+id/preview">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@+id/purchaseTitle"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textColor="@android:color/black"
+				android:textSize="@dimen/order_list_title_text_size"
+				android:text="@string/order_purchase_receive"
+				android:gravity="center_vertical"
+				android:background="@color/order_list_title_bg"
+				android:drawableRight="@drawable/order_icon_shrink"
+				android:padding="@dimen/order_padding_large" />
+
+			<LinearLayout
+				android:id="@+id/purchaseContainer"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical" />
+
+			<TextView
+				android:id="@+id/returnedTitle"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textColor="@android:color/black"
+				android:textSize="@dimen/order_list_title_text_size"
+				android:text="@string/order_purchase_returned"
+				android:gravity="center_vertical"
+				android:background="@color/order_list_title_bg"
+				android:drawableRight="@drawable/order_icon_shrink"
+				android:padding="@dimen/order_padding_large" />
+
+			<LinearLayout
+				android:id="@+id/returnedContainer"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+
+				<Button
+					android:id="@+id/returned"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:textSize="@dimen/order_default_text_size"
+					android:textColor="@android:color/white"
+					android:text="@string/order_purchase_add_to_returned"
+					android:gravity="left|center_vertical"
+					android:background="@drawable/order_round_item_btn"
+					android:drawableRight="@drawable/order_add"
+					android:padding="@dimen/order_padding_large"
+					android:layout_margin="@dimen/order_padding" />
+			</LinearLayout>
+		</LinearLayout>
+	</ScrollView>
+
+	<Button
+		android:id="@+id/preview"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/order_preview"
+		android:textColor="@android:color/white"
+		android:textSize="@dimen/order_button_text_size"
+		android:background="@drawable/order_menu_click"
+		android:paddingLeft="@dimen/order_padding_large"
+		android:paddingRight="@dimen/order_padding_large"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:layout_margin="@dimen/order_padding"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" />
+</RelativeLayout>

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_color"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:gravity="center_vertical" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/btn_property_goback"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/topic_back" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="6"
+                android:gravity="center_horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_exchange_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/wechat_title_text_size" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/btn_exchange_attention"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/wechat_focus_m"
+                    android:textColor="@color/white"
+                    android:singleLine="true"
+                    android:layout_alignParentRight="true"
+                    android:textSize="@dimen/common_text_size_middle_2" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:padding="10dp" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="@string/wechat_topic_n"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <TextView
+                        android:id="@+id/activity_property_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:singleLine="true"
+                        android:text="@string/wechat_null"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:singleLine="true"
+                        android:text="@string/wechat_topic_n1"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <TextView
+                        android:id="@+id/activity_property_explain"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="5dp"
+                        android:singleLine="true"
+                        android:text="@string/wechat_null"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/wechat_topic_type"
+                        android:textColor="@color/contents_text"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <RadioGroup
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:orientation="vertical" >
+
+                        <RadioButton
+                            android:id="@+id/activity_property_exchange"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wechat_topic_chat"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+
+                        <RadioButton
+                            android:id="@+id/activity_property_survey"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wechat_topic_sur"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+
+                        <RadioButton
+                            android:id="@+id/activity_property_approval"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wechat_topic_rev"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+                    </RadioGroup>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="@string/wechat_topic_n2"
+                            android:textColor="@color/wechat_chat_text_black"
+                            android:textSize="@dimen/car_sales_debt" />
+
+                        <Button
+                            android:id="@+id/activity_property_start_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="fill_parent"
+                            android:layout_marginLeft="10dp"
+                            android:background="@null"
+                            android:textColor="@color/wechat_chat_text_black"
+                            android:textSize="@dimen/car_sales_debt" />
+
+                        <TextView
+                            android:layout_width="10dp"
+                            android:layout_height="1dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="2dp"
+                            android:layout_marginRight="2dp"
+                            android:background="@color/wechat_chat_text_black" />
+
+                        <Button
+                            android:id="@+id/activity_property_end_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="fill_parent"
+                            android:background="@null"
+                            android:text="2015-09-01"
+                            android:textColor="@color/wechat_chat_text_black"
+                            android:textSize="@dimen/car_sales_debt" />
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/btn_exchange_close_topic"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentTop="true"
+                        android:background="@drawable/wechat_send"
+                        android:text="@string/wechat_topic_n3"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/car_sales_debt"
+                        android:visibility="gone" />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="@string/wechat_topic_n4"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <TextView
+                        android:id="@+id/activity_property_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:singleLine="true"
+                        android:text="@string/wechat_null"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="@string/wechat_topic_n5"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <TextView
+                        android:id="@+id/activity_property_department"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:singleLine="true"
+                        android:text="@string/wechat_null"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="@string/wechat_topic_n6"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <TextView
+                        android:id="@+id/activity_property_date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:singleLine="true"
+                        android:text="@string/wechat_null"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+                </LinearLayout>
+
+                <com.yunhu.yhshxc.wechat.survey.MyGridView
+                    android:id="@+id/property_gridview"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:columnWidth="@dimen/gridview_width"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="4"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp"/>
+                
+                <LinearLayout
+                    android:id="@+id/ll_show_all_groupusers"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:visibility="gone"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="@string/wechat_topic_n7"
+                        android:textColor="@color/wechat_chat_text_black"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/wechat_topic_num"
+                        android:textColor="@color/contents_text"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <TextView
+                        android:id="@+id/activity_property_speakNum"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:hint="@string/wechat_topic_speak" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/wechat_topic_s1"
+                        android:textColor="@color/contents_text"
+                        android:textSize="@dimen/car_sales_debt" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:layout_width="0sp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/wechat_topic_s2"
+                        android:textColor="@color/contents_text"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <RadioGroup
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:orientation="horizontal" >
+
+                        <RadioButton
+                            android:id="@+id/activity_property_no_must"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/wechat_topic_s3"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+
+                        <RadioButton
+                            android:id="@+id/activity_property_must"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/wechat_topic_s4"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+                    </RadioGroup>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:layout_width="0sp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/wechat_topic_per"
+                        android:textColor="@color/contents_text"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <RadioGroup
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:orientation="vertical" >
+
+                        <RadioButton
+                            android:id="@+id/activity_property_everybody"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wechat_topic_per1"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+
+                        <RadioButton
+                            android:id="@+id/activity_property_owner"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wechat_topic_per2"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+                    </RadioGroup>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:layout_width="0sp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/wechat_topic_per3"
+                        android:textColor="@color/contents_text"
+                        android:textSize="@dimen/car_sales_debt" />
+
+                    <RadioGroup
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:orientation="vertical" >
+
+                        <RadioButton
+                            android:id="@+id/activity_property_to_everybody"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wechat_topic_per4"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+
+                        <RadioButton
+                            android:id="@+id/activity_property_to_owner"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wechat_topic_per5"
+                            android:textColor="@color/contents_text"
+                            android:textSize="@dimen/car_sales_debt" />
+                    </RadioGroup>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

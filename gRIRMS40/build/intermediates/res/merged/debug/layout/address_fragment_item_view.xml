@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f9f9f9"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_person"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:paddingLeft="15dp"
+        android:visibility="visible" >
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/timg"
+            android:layout_gravity="center_vertical"
+            />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center_vertical"
+                android:textSize="@dimen/leave_name_editext_size"
+                android:gravity="center_vertical"
+                android:paddingTop="5dip"
+                android:text="hhhh"
+                android:textColor="@color/meeting_user_name" />
+            <TextView
+                android:id="@+id/tv_telephone_number"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:textColor="@color/meeting_number"
+                android:text="17701050109"
+                />
+        </LinearLayout>
+        <CheckBox
+            android:id="@+id/cb_child"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:focusable="false"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_org"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#f9f9f9"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:gravity="right" >
+
+            <ImageView
+                android:id="@+id/iv_group_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/adress_dy" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/title_name"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dip"
+            android:gravity="center_vertical"
+            android:text="hhh斯蒂芬斯蒂芬h"
+            android:textSize="@dimen/leave_name_editext_size"
+            android:textColor="@color/meeting_user_name" />
+
+        <TextView
+            android:id="@+id/tv_person_number"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:text="(14）"
+            android:textSize="@dimen/leave_name_editext_size"
+            android:textColor="@color/meeting_number" />
+        <CheckBox
+            android:id="@+id/cb_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+</LinearLayout>

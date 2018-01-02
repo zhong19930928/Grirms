@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/login_main_bg"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:id="@+id/login"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="vertical" >
+
+       <EditText
+            android:id="@+id/firstUserName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:digits="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ"
+            android:hint="@string/tip_input_username"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/secondPassWord"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:hint="@string/tip_input_password"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:inputType="number"
+            android:maxLength="12"
+            android:password="true"
+            android:singleLine="true" />
+
+        <LinearLayout android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:padding="5dp"
+	        >
+	        <Button
+	            android:id="@+id/loginButton"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@drawable/func_detail_submit_btn"
+            	android:padding="5dp"
+	            android:layout_weight="1"/>
+	        <Button
+	            android:id="@+id/btn_help"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="10dp"
+	            android:layout_weight="1"
+	            android:visibility="gone"/>
+	     </LinearLayout>
+         <LinearLayout
+             	android:id="@+id/cb_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <CheckBox
+                    android:id="@+id/cb_isshow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/record_u_p" />
+            </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/register"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:layout_marginTop="120dp"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+
+        <EditText
+            android:id="@+id/registerFirstUserName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="5dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:digits="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ"
+            android:hint="@string/tip_input_username"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/registerFirstPassWord"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="5dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:hint="@string/tip_input_password"
+            android:inputType="number"
+            android:maxLength="12"
+            android:password="true"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/registerSecondPassWord"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="5dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:hint="@string/tip_input_password_too"
+            android:inputType="number"
+            android:maxLength="12"
+            android:password="true"
+            android:singleLine="true" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/registerButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/func_detail_submit_btn"
+            	android:padding="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

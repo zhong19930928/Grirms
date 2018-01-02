@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/41188/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility
+END
+PublicUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/41188/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/PublicUtils.java
+END
+Installation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/Installation.java
+END
+PositionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/PositionUtil.java
+END
+URLWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/URLWrapper.java
+END
+ApplicationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/ApplicationHelper.java
+END
+SharedPreferencesUtilForTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/SharedPreferencesUtilForTable.java
+END
+SharedPreferencesUtil2.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/SharedPreferencesUtil2.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/40722/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/DateUtil.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/41074/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/Constants.java
+END
+ScreenUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/ScreenUtil.java
+END
+UrlInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/40515/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/UrlInfo.java
+END
+FileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/FileHelper.java
+END
+HttpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/HttpHelper.java
+END
+CustomizeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/CustomizeUtil.java
+END
+NetSettingUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/NetSettingUtil.java
+END
+GIS.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/GIS.java
+END
+AmountUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/AmountUtils.java
+END
+PhoneModelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/PhoneModelManager.java
+END
+MD5Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/MD5Helper.java
+END
+RegExpvalidateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/RegExpvalidateUtils.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/Version.java
+END
+SharedPreferencesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/40673/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/SharedPreferencesUtil.java
+END
+CroutonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/CroutonUtil.java
+END
+MapDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/MapDistance.java
+END
+SIMHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/SIMHelper.java
+END
+ToastUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/ToastUtil.java
+END
+SIMCardInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/SIMCardInfo.java
+END
+SharedPreferencesUtilForNearby.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/utility/SharedPreferencesUtilForNearby.java
+END

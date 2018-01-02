@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_vertical" >
+
+    <Button
+        android:id="@+id/p_code_in_table_Comp"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/selector_btn_gray_bg"
+        android:text="@string/p_code_date_comp"
+        android:textSize="@dimen/normal_format_text_size"
+        android:gravity="center" />
+
+</LinearLayout>

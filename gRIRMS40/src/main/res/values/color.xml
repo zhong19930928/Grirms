@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="reveal_color">#1b000000</color>
+<color name="app_color_low">#4BBBC2</color>
+<!--<color name="app_color">#0E5E91</color>-->
+<color name="app_color">#323a45</color>
+<color name="app_color_press">#0b988f</color>
+
+<color name="app_color_backgroud">#FBFBFB</color>
+<color name="app_color_backgroud2">#F2F2F2</color>
+<color name="gray">#EBEBEB</color>
+<color name="gray_light">#F0F0F0</color>
+<color name="line_new1">#EBEBEB</color>
+
+<color name="gray_deep">#F3F3F3</color>
+<color name="ttt">#00000000</color>
+ <color name="triangle">#aa72d572</color>
+ <color name="shadow">#25808080</color>
+ <color name="view_bg">#00000000</color>
+   <color name="circle">#aa738ffe</color>
+    <color name="rect">#aae84e40</color>
+
+    <color name="bbs_bg">#3ecfff</color>
+    <color name="main_bg">#1F8DFB</color>
+     <color name="text_grey">#757575</color>
+    <color name="bbs_menu_blue">#00aee7</color>
+    <color name="bbs_msg">#f3f2f2</color>
+    <color name="black">#000000</color>
+    <color name="black1">#606060</color>
+    <color name="black2">#505050</color>
+    <color name="blue">#2e60b4</color>
+    <color name="blue2">#1659A6</color>
+    <color name="red">#e51400</color>
+    <color name="red2">#f84d3c</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pink">#e00074</color>
+    <color name="pink2">#fb5ebb</color>
+    <color name="yellow">#f09609</color>
+    <color name="yellow2">#F2D61F</color>
+    <color name="Cambridgeblue">#1ba1e2</color>
+    <color name="Cambridgeblue2">#1F83F2</color>
+    <color name="green">#339933</color>
+    <color name="green2">#00FF00</color>
+    <color name="purple">#a200ff</color>
+    <color name="purple2">#ba59f2</color>
+    <color name="blue_">#1ba1e2</color>
+    <color name="green_">#00aba9</color>
+    <color name="lightGray">#ADADAD</color>
+    <color name="darkGray">#575757</color>
+    <color name="orange">#FF8000</color>
+    <color name="notify_list">#54a7dd</color>
+    <color name="task_list">#2b96ba</color>
+    <color name="notify_list_line">#a0d5e7</color>
+    <color name="task_list_line">#a0d5e7</color>
+    <color name="replenishButton">#800000</color>
+    <color name="table_bg">#f8fafc</color>
+    <color name="table_line">#e1eaf1</color>
+    <color name="home_small">#57c1e4</color>
+    <color name="visitStore">#c5e8ff</color>
+    <color name="small_color1">#54a7dd</color>
+    <color name="small_color2">#2b96ba</color>
+    <color name="replenish_color1">#E0E0E0</color>
+    <color name="replenish_color2">#f7f6f6</color>
+    <color name="att_bg_color_normal">#ededed</color>
+    <color name="att_bg_color_blue">#2a77bf</color>
+    <color name="att_bg_color_yellow">#faed5c</color>
+    <color name="att_bg_color_red">#fd4d4d</color>
+    <color name="att_list_split">#c1c1c1</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="gray_sublight">#EAEAEA</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="translucent">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="pay_back">#378cc3</color>
+    <color name="Light_Blue_bg">#56c1e3</color>
+    <color name="help_orange">#f97916</color>
+    <color name="help_green">#77c221</color>
+    <color name="deep_bule">#2c79c1</color>
+    <color name="translucent2">#90000000</color>
+    <color name="photo_pupo">#fafafa</color>
+    <color name="select_yes">#272D43</color>
+    <color name="select_no">#33384B</color>
+    <color name="divider_color">#e4e4e4</color>
+
+    <!-- Common -->
+    <color name="content_bg">#FFCCD5D9</color>
+    <color name="title_bar_bg">#FF262C35</color>
+    <color name="action_bar_bg">#FF26B0CC</color>
+    <color name="button_noraml_bg">#FF26B0CC</color>
+    <color name="button_pressed_bg">#FF000000</color>
+
+    <!-- Query Table -->
+    <color name="table_header_bg">#FF1DC8A2</color>
+    <color name="table_children_bg">#FFCCD5DA</color>
+
+    <!-- Login View -->
+<!--     <color name="login_titlebar_bg">#FF323A45</color> -->
+     <color name="login_titlebar_bg">#187d85</color>
+    <color name="login_editor_border">#FF308AB7</color>
+    <color name="login_main_bg">#FFD6DDE1</color>
+    
+<!--     <color name="login_key_bg1">#FF3F9CCA</color>
+    <color name="login_key_bg2">#FF2C4983</color> -->
+    
+     <color name="login_key_bg1">#187d85</color>
+    <color name="login_key_bg2">#187d85</color>
+    
+    <color name="login_err">#FFF27B37</color>
+
+    <!-- Visit -->
+    <color name="visit_item_order">#991FBBA6</color>
+    <color name="visit_item_order_disable">#999BA8BA</color>
+    <color name="visit_item_disorder">#99001C2A</color>
+    <color name="visit_item_left_label_order">#24D9C5</color>
+    <color name="visit_item_left_label_disorder">#14B9D6</color>
+    <color name="visit_item_left_label_bg_order">#037A7B</color>
+    <color name="visit_item_left_label_bg_disorder">#001C2A</color>
+    <color name="visit_store_item_left_icon_bg_order">#037A7B</color>
+    <color name="visit_store_item_left_icon_bg_disorder">#051F2D</color>
+
+    <!-- 考勤 -->
+    <color name="kaoqin_chaxun_bg">#991B84A1</color>
+    <color name="kaoqin_chaxun_icon_bg">#9927BDD7</color>
+    <color name="gray_sl">#9BD7DB</color>
+
+    <!-- 公告 -->
+    <color name="notice_detail_title">#5e6d81</color>
+    <color name="notice_detail_del_bar">#f9fafc</color>
+    <color name="notice_detail_bg">#FFD6DDE1</color>
+    <color name="notice_detail_del_press">#323a45</color>
+    <color name="notice_item_del_button">#f27b37</color>
+    <color name="notice_item_bg_press">#939cab</color>
+
+    <!-- home -->
+    <color name="home_menu_fix_white">#ffffff</color>
+    <color name="home_menu_fix">#c9001c2a</color>
+    <color name="home_menu_custom">#c943c2af</color>
+    <color name="home_menu_pressed">#c9f27935</color>
+
+    <!-- func -->
+    <color name="func_menu_unenable">#9ba8ba</color>
+    <color name="func_menu_enable">#f9fafc</color>
+    <color name="func_menu_press">#c4cdd2</color>
+    <color name="func_menu_bg">#d5dde0</color>
+    <color name="func_menu_text">#5e6d81</color>
+    <color name="func_menu_button_click">#323a45</color>
+
+    <!-- 预览 -->
+    <color name="func_detail_submit_normal">#ffffff</color>
+    <color name="func_detail_submit_press2">#B4CDE6</color>
+    <color name="func_detail_photo">#14b9d6</color>
+    <color name="func_detail_table">#1fbba6</color>
+    <color name="func_detail_table_priview">#f27835</color>
+    <color name="func_detail_item_text">#5e6d81</color>
+    <color name="func_detail_submit">#f27835</color>
+    <color name="func_detail_submit_press">#e51400</color>
+
+    <!-- 执行 -->
+    <color name="excute_list_title">#323a45</color>
+    <color name="excute_list_bg">#d5dde0</color>
+    <color name="excute_button">#f9fafc</color>
+    <color name="excute_button_press">#5e6d81</color>
+    <color name="excute_date">#54a7dd</color>
+    <color name="excute_text_click">#14b9d6</color>
+    <color name="excute_text_content">#5e6d81</color>
+
+    <!-- 店面信息 -->
+    <color name="visit_view_title">#323a45</color>
+    <color name="visit_view_bg">#d5dde0</color>
+    <color name="visit_view_update_press">#5e6d81</color>
+    <color name="visit_view_update_text_click">#14b9d6</color>
+    <color name="visit_view_update_text">#323a45</color>
+    <color name="visit_view_update_content">#5e6d81</color>
+
+    <!-- 订单支付 -->
+    <color name="pay_bg">#d5dde0</color>
+    <color name="pay_title">#323a45</color>
+    <color name="pay_file">#eb350d</color>
+    <color name="pay_success">#0ecfb2</color>
+    <color name="pay_fukuan">#14b9d6</color>
+    <color name="pay_fukuan_press">#f27835</color>
+    <color name="pay_text">#5e6d81</color>
+
+    <!-- 录音 -->
+    <color name="record_bottom_bg">#323a45</color>
+    <color name="record_bg">#00001c2a</color>
+
+    <!-- 订单 -->
+    <color name="order_title">#323a45</color>
+    <color name="order_menu">#053988</color>
+    <color name="order_menu_press">#0c86c5</color>
+    <color name="order_menu_gary">#364146</color>
+    <color name="order_text_content">#5e6d81</color>
+    <color name="order_spinner_bg">#D9F1FE</color>
+    <color name="order_list_title_bg">#ECECEC</color>
+    <color name="order_state_right">#0FB23B</color>
+    <color name="order_state_wrong">#F33D3A</color>
+
+    <!-- 订单 -->
+    <color name="menu_usable_tip_text">#0c9d1a</color>
+    <color name="tab_indicator_text_selected">#14b9d6</color>
+    <color name="tab_indicator_text_unselected">#323a45</color>
+    <color name="page_viewer_margin_color">#007800</color>
+    <color name="order_main_bg">#eeeeee</color>
+    <color name="order_tab_line">#14b9d6</color>
+    <color name="order_title_text">#999a9a</color>
+    <color name="order_content_text">#16191e</color>
+    <color name="order_edit_line">#cdcdcd</color>
+    <color name="order_item_main_bg_open">#eeeeee</color>
+    <color name="order_item_main_bg_close">#eaf4fe</color>
+    <color name="order_item_sub_bg">#fbf0dd</color>
+    <color name="order_item_title_bg">#d6ebff</color>
+    <color name="nearby_visit_detail_btn_1">#3d70d6</color>
+    <color name="nearby_visit_detail_btn_2">#2852a9</color>
+    <color name="login_free_bg">#F5F5F5</color>
+    <color name="driver_line">#d8d8d8</color>
+    <color name="gray_main">#333333</color>
+    <color name="gray_normal">#989898</color>
+    <color name="gray_sub">#666666</color>
+
+    <!-- 订单3 -->
+    <color name="order3_menu_bar">#05d5f4</color>
+    <color name="order3_manager_text">#6d8588</color>
+    <color name="order3_manager_backgound">#f1f1f1</color>
+    <color name="order3_locationbar_bg">#187d85</color>
+    <color name="order3_locationbar_pressed">#4BBBC2</color>
+    <color name="order3_devider">#f2f2f2</color>
+    <color name="order3_price_text">#e03004</color>
+    <color name="order3_search_text">#0cb1ca</color>
+    <color name="order3_search_yulan_bg">#E5EFF0</color>
+    <color name="order3_search_num">#e03004</color>
+    <color name="order3_search_divider">#eeecec</color>
+    <color name="order3_search_btn_bg">#c6e700</color>
+    <color name="order3_search_btn_pressed">#00ea90</color>
+    <color name="order3_search_search_btn_default">#e30419</color>
+    <color name="order3_search_list_head">#e4eff0</color>
+    <color name="order3_xiadan_product_name">#8babb2</color>
+    <color name="order3_send_list_item_bg">#ecfdfd</color>
+
+    <!-- 就近拜访 -->
+    <color name="nearby_title">#05d5f4</color>
+    <color name="nearby_btn_1">#07c1e2</color>
+    <color name="nearby_btn_2">#eb7a00</color>
+    <color name="nearby_text_1">#000000</color>
+    <color name="nearby_text_2">#555454</color>
+    <color name="nearby_text_3">#d20426</color>
+    <color name="nearby_bg">#f7f7f8</color>
+    <color name="nearby_bg_line">#d9d9d9</color>
+    <color name="bg">#F5F5F5</color>
+    <color name="grid_border">#FFC6C6C6</color>
+
+    <!-- 车销 -->
+    <color name="carsales_divider">#e4e4e5</color>
+    <color name="carsales_bg">#f5f5f5</color>
+    <color name="carsales_biank">#b6b6b6</color>
+
+    <!-- 企业微信 -->
+    <color name="wechat_location_bar">#969696</color>
+    <!-- <color name="wechat_location_bar_press">#77BC34</color> -->
+    <color name="wechat_location_bar_press">#187d85</color>
+    <color name="wechat_green">#46bf18</color>
+    <color name="wechat_chat_group">#EAEAEA</color>
+    <color name="wechat_chat_group_pressed">#c9c8c7</color>
+    <color name="wechat_chat_item">#868686</color>
+    <color name="wechat_chat_divider">#dad9d9</color>
+    <color name="wechat_chat_text">#14375c</color>
+    <color name="wechat_chat_text_black">#4f5255</color>
+    <color name="wechat_chat_cheek">#bcbdbf</color>
+    <color name="wechat_menu_pressed">#000000</color>
+    <color name="top_bar_normal_bg">#4ebcd3</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="wechat_button">#4abb23</color>
+    <color name="wechat_button_select">#868686</color>
+
+    
+    <!-- 通讯录 -->
+    <color name="text_color_press">#009688</color>
+    <color name="text_color">#414040</color>
+
+    <color name="wechat_group_color">#393939</color>
+    <!-- 问卷调查 -->
+    <color name="question_bg">#fafafa</color>
+    <color name="question_title">#009688</color>
+    <color name="quesetion_title_first_color">#333333</color>
+    <color name="quesetion_title_second_color">#707070</color>
+    <color name="question_explain_title">#808080</color>
+    <color name="question_explain_content">#333333</color>
+    
+	<color name="attend_press">#f6f6f6</color>
+	<color name="attend_number_date">#808080</color>
+	<!-- 请假模块 -->
+	<color name="leave_info">#33475f</color>
+	<color name="leave_text_bg">#EFEFEF</color>
+	
+	<!-- 表格 -->
+	<color name="title_bg_form">#59b9c3</color>
+	<color name="form_line">#bfbfbf</color>
+	<color name="bar_bg_form">#e2eaf1</color>
+	<color name="photo_bg_form">#7D8A9A</color>
+	
+	<color name="near_by_search_btn">#4bbbc2</color>
+	
+	<!-- 工作计划 -->
+<color name="work_plan_text_color">#999</color>
+ <color name="title_color">#0E5E91</color>
+ <!-- 二级页面 -->
+    <color name="secbackground_right">#FCF0D4</color>
+    <color name="secbackground_left">#D7EFFC</color>
+
+ <!-- 新建工作计划页面按钮 删除和保存按钮颜色 -->
+ <color name="delete_lightcolor">#4BBBC2</color>
+ <color name="delete_deepcolor">#187D85</color>
+
+ <color name="tip_dialog_backgoung">#00060202</color>
+
+ <color name="meeting_user_name">#797979</color>
+ <color name="meeting_number">#8f8f8f</color>
+ <color name="asset_background">#060001</color>
+ <color name="zr_asset_actionbar">#1B8AFF</color>
+ <color name="home_titlte_co">#333333</color>
+ <color name="search_edit_gray">#ffcccccc</color>
+ <color name="zr_meeting_beizhu">#FFF5F6F7</color>
+ <color name="zr_address_title_bg">#b0d6fc</color>
+ <color name="Button_bg_meeting">#76D4C2</color>
+ <color name="zr_meeting_bg">#1B8AFF</color>
+ <color name="home_status_bar_color">#6383AD</color>
+ <color name="circle_black_color">#9C9C9C</color>
+</resources>

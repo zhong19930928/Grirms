@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="179dp"
+    android:layout_height="70dp"
+    android:background="@color/white">
+    <ImageView
+        android:id="@+id/iv_item1"
+        android:layout_width="62dp"
+        android:layout_height="55dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/gridview_iv1"/>
+    <TextView
+        android:id="@+id/tv_item1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:textSize="13sp"
+        android:textColor="@color/home_titlte_co"
+        android:text="今日美食"/>
+    <TextView
+        android:id="@+id/tv_item2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_item1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:maxLines="1"
+        android:textSize="10sp"
+        android:textColor="@color/home_titlte_co"
+        android:text="吃货的福利"/>
+</RelativeLayout>

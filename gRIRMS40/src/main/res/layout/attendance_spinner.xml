@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:id="@android:id/text1"  
+    android:gravity="left"  
+    android:paddingLeft="8dip"    
+    android:singleLine="true"  
+    android:textSize="@dimen/attendance_spinner"
+    android:textColor="@color/order_content_text"
+    android:layout_width="match_parent"  
+    android:layout_height="wrap_content"  
+    android:ellipsize="marquee" /> 

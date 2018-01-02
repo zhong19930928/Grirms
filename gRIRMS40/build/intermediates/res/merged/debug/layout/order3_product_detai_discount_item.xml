@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="10dp" >
+
+    <CheckBox
+        android:id="@+id/cb_order3_detail_discount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@drawable/order3_checkbox_selector"
+        android:textColor="@color/black"
+        android:textSize="@dimen/order3_xiadan_home_product_text_size" />
+
+    <TextView
+        android:id="@+id/tv_order3_cuxiao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:textColor="@color/black" />
+
+</LinearLayout>

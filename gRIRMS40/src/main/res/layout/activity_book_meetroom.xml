@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/app_color"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="5dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:text="会议预定" />
+        <ImageView
+            android:id="@+id/iv_back_bookmeetroom"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/back" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/rl_select_meettime"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        >
+        <TextView
+            android:id="@+id/tv_select_meettime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:layout_marginRight="50dp"
+            android:text="请选择会议时间"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/app_color"
+            android:gravity="center_vertical|right"
+            android:singleLine="true"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="10dp"
+            android:text="选择时间"
+            android:layout_toRightOf="@+id/iv_select_meettime"
+            android:layout_toEndOf="@+id/iv_select_meettime" />
+        <ImageView
+            android:id="@+id/iv_select_meettime"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/select_meetingtime" />
+        <ImageView
+            android:layout_width="6dp"
+            android:layout_height="12dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/meeting_right" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/zr_meeting_beizhu"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_select_address"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_height="100dp"
+        android:gravity="center_vertical"
+        >
+        <com.yunhu.android.view.loopview.LoopView
+            android:id="@+id/tv_select_address"
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:background="@null"
+            android:layout_marginRight="30dp"
+            android:text="中融A栋-2楼"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical|right" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="10dp"
+            android:text="选择地点"
+            android:layout_toRightOf="@+id/iv_select_address"
+            android:layout_toEndOf="@+id/iv_select_address" />
+        <ImageView
+            android:id="@+id/iv_select_address"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/select_meetingaddress" />
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/zr_meeting_beizhu"/>
+    <ListView
+        android:id="@+id/lv_list_room"
+        android:divider="#999999"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+    </ListView>
+</LinearLayout>

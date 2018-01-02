@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:background="@color/att_bg_color_normal"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_attendance_list_header"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/normal_actionbar_height"
+            android:background="@color/app_color"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dip"
+                android:src="@drawable/att_puls"
+                android:visibility="invisible" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center" >
+
+                <TextView
+                    android:layout_width="100dip"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingLeft="2.5dip"
+                    android:paddingRight="2.5dip"
+                    android:text="@string/date"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:layout_width="2dip"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/att_split" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingRight="50dip"
+                    android:text="@string/name"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="@color/att_list_split" />
+
+        <ExpandableListView
+            android:id="@+id/elv_search_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/att_bg_color_normal"
+            android:childDivider="@color/att_list_split"
+            android:divider="@color/att_list_split"
+            android:dividerHeight="1dip"
+            android:fadingEdge="none"
+            android:groupIndicator="@null"
+            android:scrollbars="none" >
+        </ExpandableListView>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="@color/att_list_split" />
+    </LinearLayout>
+
+</LinearLayout>

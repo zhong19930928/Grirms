@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:layout_marginLeft="20dp"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/iv_fujian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_fujian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/accessory_name"
+        android:textColor="@color/wechat_chat_item"
+        android:textSize="@dimen/wechat_chat_notice_text_size" />
+
+</LinearLayout>

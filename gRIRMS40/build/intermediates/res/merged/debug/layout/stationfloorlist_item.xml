@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/white"
+    android:minHeight="60dp">
+
+    <TextView
+        android:id="@+id/station_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="16dp"
+        android:text="D3A3"
+        android:textColor="#333333"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/can_reserve"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="18dp"
+        android:drawablePadding="6dp"
+        android:drawableRight="@drawable/click_img"
+        android:text="可预订"
+        android:textColor="#6A6A6A"
+        android:textSize="14sp"
+
+        />
+
+
+    <TextView
+        android:id="@+id/station_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="17dp"
+        android:layout_toLeftOf="@+id/can_reserve"
+        android:text="8个工位"
+        android:textColor="#248EFF"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>

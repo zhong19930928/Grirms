@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/app_color_backgroud2" >
+
+    <RelativeLayout
+        android:id="@+id/title_rl"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:padding="@dimen/normal_atcionbar_pading"
+        android:background="@color/app_color" >
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/back" />
+
+        <TextView
+            android:id="@+id/tv_attend_leave"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/attendance_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/sv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_rl" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll_order3_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical" />
+
+            <LinearLayout
+                android:id="@+id/leftL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/leave_type"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/leave_name_text_size" />
+
+                <Spinner
+                    android:id="@+id/sp_leave"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:orientation="horizontal"
+                    android:paddingLeft="2dp" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/leave_type1"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/leave_name_text_size" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="4"
+                        android:orientation="horizontal" >
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="4"
+                            android:background="@drawable/shape_bg"
+                            android:orientation="horizontal"
+                            android:padding="2dp" >
+
+                            <EditText
+                                android:id="@+id/et_leave_reason"
+                                android:layout_width="match_parent"
+                                android:layout_height="80dp"
+                                android:background="@color/white"
+                                android:textCursorDrawable="@drawable/color_cursor"
+                                android:gravity="top"
+                                android:minLines="3"
+                                android:padding="5dp"
+                                android:textColor="@color/black"
+                                android:textSize="@dimen/leave_name_editext_size" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/leave_type2"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/leave_name_text_size" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:orientation="horizontal" >
+
+                    <Button
+                        android:id="@+id/btn_starttime"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/order3_data_bg_selector"
+                        android:padding="5dp"
+                        android:text="String/date_start"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="~"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+
+                    <Button
+                        android:id="@+id/btn_endtime"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/order3_data_bg_selector"
+                        android:padding="5dp"
+                        android:text="@string/date_end"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/leave_type3"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/leave_name_text_size" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/shape_bg"
+                        android:orientation="horizontal"
+                        android:padding="2dp" >
+
+                        <EditText
+                            android:id="@+id/et_leave_data"
+                            android:layout_width="match_parent"
+                            android:layout_height="30dp"
+                            android:background="@color/white"
+                            android:gravity="center"
+                            android:inputType="number|numberDecimal"
+                            android:textCursorDrawable="@drawable/color_cursor"
+                            android:textColor="@color/black"
+                            android:numeric="integer" 
+                            android:textSize="@dimen/leave_name_editext_size" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:text="@string/leave_type4"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/leave_name_text_size" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/shape_bg"
+                        android:orientation="horizontal"
+                        android:padding="2dp" >
+
+                        <EditText
+                            android:id="@+id/tv_leave_time"
+                            android:layout_width="match_parent"
+                            android:layout_height="30dp"
+                            android:background="@color/white"
+                            android:gravity="center"
+                            android:inputType="number|numberDecimal"
+                            android:textCursorDrawable="@drawable/color_cursor"
+                            android:textColor="@color/black"
+                            android:numeric="integer" 
+                            android:textSize="@dimen/leave_name_editext_size" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:text="@string/leave_type5"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/leave_name_text_size" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:layout_weight="1"
+                    android:text="@string/leave_type6"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/leave_name_text_size" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <Button
+                            android:id="@+id/btn_picture"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/leave_picture" />
+
+                        <Button
+                            android:id="@+id/btn_photo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/leave_photo" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/iv_picture"
+                        android:layout_width="40dp"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="5dp"
+                         />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_btn_layout"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:background="@drawable/attend_leave_submit_slector"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp" >
+
+        <TextView
+            android:id="@+id/tv_yulan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/order_submit"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout>

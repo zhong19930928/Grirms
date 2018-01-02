@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/content_bg" >
+
+    <FrameLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color"
+        android:padding="@dimen/normal_atcionbar_pading" >
+
+        <TextView
+            android:id="@+id/txt_title_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/photo_"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+
+        <Button
+            android:id="@+id/btn_delete"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/photo_delete_selector" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/action_bar"
+        android:layout_below="@+id/title_bar"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:id="@+id/action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/action_bar_height"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:padding="0dp"
+        android:visibility="gone" >
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@color/action_bar_bg" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/rect_btn_bg_1"
+            android:text="@string/delete"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/action_bar_text_size" />
+    </LinearLayout>
+
+</RelativeLayout>

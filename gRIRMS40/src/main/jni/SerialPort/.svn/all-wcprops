@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SerialPort
+END
+tf_test_SerialPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SerialPort/tf_test_SerialPort.h
+END
+serialport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SerialPort/serialport.cpp
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SerialPort/Android.mk
+END
+serialport.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SerialPort/serialport.h
+END

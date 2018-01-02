@@ -1,0 +1,2267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:2:1-1133:12
+	package
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+permission#com.yunhu.yhshxc.permission.JPUSH_MESSAGE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:6:9-65
+uses-permission#android.permission.NFC
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:9:5-62
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:9:22-59
+uses-permission#com.gcg.grirms.permission.JPUSH_MESSAGE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:14:22-75
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:17:22-71
+uses-permission#android.permission.RAISED_THREAD_PRIORITY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:23:5-84
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:23:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:25:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:32:22-77
+uses-permission#android.permission.PERSISTENT_ACTIVITY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:33:5-78
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:33:22-75
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:34:22-86
+uses-permission#android.permission.ACCESS_LOCATTON_MOCK_LOCATION
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:35:22-85
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:36:5-75
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:36:22-72
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:38:5-66
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:38:22-63
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:39:5-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:39:22-69
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:40:5-88
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:40:22-85
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:41:5-73
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:41:22-70
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:42:5-65
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:42:22-62
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:43:5-68
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:43:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:44:5-74
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:44:22-71
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:45:5-68
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:45:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:46:5-73
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:46:22-70
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:47:5-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:47:22-76
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:48:22-72
+uses-feature#android.hardware.camera
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:50:5-60
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:50:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:51:5-70
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:51:19-67
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:52:5-58
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:52:19-55
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:54:5-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:54:22-66
+uses-permission#android.webkit.permission.PLUGIN
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:55:5-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:55:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:56:5-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:56:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:57:5-71
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:57:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:58:5-81
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:58:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:59:5-67
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:59:22-64
+supports-screens
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:65:5-70:39
+	android:largeScreens
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:67:9-36
+	android:smallScreens
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:70:9-36
+	android:normalScreens
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:68:9-37
+	android:resizeable
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:69:9-34
+	android:anyDensity
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:66:9-34
+application
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:73:5-1131:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\yh\.android\build-cache\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\yh\.android\build-cache\1b17d9e283d6ccbc68ee6f587c53b594ead3071e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\yh\.android\build-cache\3c4472bb0de677cfc2c0f43d44c4385b086910cb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\yh\.android\build-cache\09f17f91779388083dcf8021ba289d7a0641a619\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\yh\.android\build-cache\f3fb8321be0880c379009b74d19ed3bd96e55194\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\yh\.android\build-cache\9717f78a976452afea90a26d2da5fb935f931dc2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\yh\.android\build-cache\0ae75225606d6f1f96f431343e2dd33324a8c856\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\yh\.android\build-cache\407ca46a5212945b4d8aaf4518d1a2230312a1bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\yh\.android\build-cache\06ae16a63536d44f44adbd6c0cb9d56a5ee4df7f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\7004f9888830ebf3945e198d6f812b3e9877d24c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\yh\.android\build-cache\403920a5ceda85b0615ee5165a75e3e126dbf4f7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\yh\.android\build-cache\3b1f09410de6370dfc05adcd53a73d12c5114330\output\AndroidManifest.xml:12:5-20
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:78:9-45
+	android:label
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:77:9-47
+	android:allowBackup
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:75:9-35
+	android:icon
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:76:9-43
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:79:9-56
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:74:9-52
+meta-data#BUG_HD_SDK_GENERAL_KEY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:82:9-84:64
+	android:value
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:84:13-61
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:83:13-50
+meta-data#com.amap.api.v2.apikey
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:86:9-88:64
+	android:value
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:88:13-61
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:87:13-50
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:89:9-91:56
+	android:value
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:91:13-53
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:90:13-52
+meta-data#TencentMapSDK
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:92:9-94:67
+	android:value
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:94:13-64
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:93:13-41
+service#com.amap.api.location.APSService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:97:9-68
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:97:18-65
+activity#com.yunhu.yhshxc.activity.ApkVersionActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:99:9-65
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:99:19-62
+activity#com.yunhu.yhshxc.wechat.topic.CreateTopicActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:100:9-102:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:102:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:101:13-61
+activity#com.yunhu.yhshxc.activity.SplashNewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:120:9-129:20
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:122:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:123:13-60
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:121:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:124:13-128:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:125:17-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:125:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:127:17-77
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:127:27-74
+activity#com.yunhu.yhshxc.activity.RegistExplainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:130:9-132:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:132:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:131:13-59
+activity#com.yunhu.yhshxc.wechat.exchange.PropertyActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:133:9-136:70
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:135:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:136:13-67
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:134:13-61
+activity#com.yunhu.yhshxc.wechat.exchange.GroupUserActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:137:9-139:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:139:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:138:13-62
+activity#com.yunhu.yhshxc.wechat.content.ImageGridActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:140:9-142:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:141:13-61
+activity#com.yunhu.yhshxc.activity.questionnaire.QuestionnaireContentActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:143:9-145:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:145:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:144:13-80
+activity#com.yunhu.yhshxc.activity.questionnaire.QuestionPreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:146:9-148:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:148:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:147:13-75
+activity#com.yunhu.yhshxc.activity.questionnaire.QuestionExplainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:149:9-151:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:151:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:150:13-75
+activity#com.yunhu.yhshxc.activity.questionnaire.QuestionResultPreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:152:9-154:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:154:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:153:13-81
+activity#com.yunhu.yhshxc.activity.questionnaire.QuestionnaireActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:155:9-157:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:157:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:156:13-73
+activity#com.yunhu.yhshxc.activity.RegisterCompanyActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:163:9-165:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:164:13-61
+activity#com.yunhu.yhshxc.activity.LogInNewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:166:9-168:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:167:13-54
+activity#com.yunhu.yhshxc.activity.SplashActivity2
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:169:9-172:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:172:13-49
+	android:launchMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:171:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:170:13-53
+activity#com.yunhu.yhshxc.activity.onlineExamination.OnlineExamExplainationActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:173:9-175:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:175:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:174:13-86
+activity#com.yunhu.yhshxc.activity.onlineExamination.OnlineExamQuestionActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:176:9-178:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:178:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:177:13-82
+activity#com.yunhu.yhshxc.activity.onlineExamination.OnlineExamPreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:179:9-181:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:181:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:180:13-81
+activity#com.yunhu.yhshxc.activity.onlineExamination.OnlineExamPreviewAfterSubmitActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:182:9-184:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:184:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:183:13-92
+activity#com.yunhu.yhshxc.wechat.content.RecorderVideoActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:185:9-187:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:187:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:186:13-65
+activity#com.yunhu.yhshxc.wechat.WechatActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:188:9-190:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:190:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:189:13-50
+activity#com.yunhu.yhshxc.wechat.approval.ApprovalActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:191:9-193:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:193:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:192:13-61
+activity#com.yunhu.yhshxc.wechat.pic.PhotoAlbumActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:194:9-196:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:196:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:195:13-58
+activity#com.yunhu.yhshxc.wechat.pic.PhotoActivity2
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:197:9-199:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:199:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:198:13-54
+activity#com.yunhu.yhshxc.activity.test.MainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:200:9-202:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:202:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:201:13-55
+activity#com.yunhu.yhshxc.wechat.exchange.ExchangeActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:203:9-206:58
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:205:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:206:13-55
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:204:13-61
+activity#com.yunhu.yhshxc.wechat.exchange.PersonalWechatActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:207:9-210:58
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:209:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:210:13-55
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:208:13-67
+activity#com.yunhu.yhshxc.wechat.exchange.WechatPhotoSelectActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:211:9-213:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:213:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:212:13-70
+activity#com.yunhu.yhshxc.wechat.exchange.WechatPhotoSelectPriviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:214:9-216:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:216:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:215:13-77
+activity#com.yunhu.yhshxc.wechat.survey.SurveyActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:217:9-219:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:219:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:218:13-57
+activity#com.yunhu.yhshxc.wechat.fragments.WechatNoticeActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:220:9-222:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:222:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:221:13-66
+activity#com.yunhu.yhshxc.wechat.fragments.ToSeeAllTopicActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:223:9-225:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:225:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:224:13-67
+activity#com.yunhu.yhshxc.wechat.fragments.FocusActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:226:9-228:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:228:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:227:13-59
+activity#com.yunhu.yhshxc.wechat.fragments.HistoryTopicActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:229:9-231:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:231:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:230:13-66
+activity#com.yunhu.yhshxc.wechat.createGroup.CreateGroupActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:232:9-235:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:234:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:235:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:233:13-67
+activity#com.yunhu.yhshxc.wechat.fragments.CreateNoticeActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:236:9-239:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:238:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:239:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:237:13-66
+activity#com.yunhu.yhshxc.wechat.fragments.PersonalInformationActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:240:9-242:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:242:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:241:13-73
+activity#com.yunhu.yhshxc.wechat.fragments.UserInfomationActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:243:9-245:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:245:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:244:13-68
+activity#com.yunhu.yhshxc.attendance.SearchSchedulingActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:246:9-248:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:248:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:247:13-64
+activity#com.yunhu.yhshxc.attendance.attendCalendar.AttendanceCalendarActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:249:9-251:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:251:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:250:13-81
+activity#com.yunhu.yhshxc.attendance.SchedulingActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:252:9-254:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:254:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:253:13-58
+activity#com.yunhu.yhshxc.attendance.leave.ThroughLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:255:9-257:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:257:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:256:13-66
+activity#com.yunhu.yhshxc.attendance.leave.DoApproLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:258:9-260:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:260:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:259:13-66
+activity#com.yunhu.yhshxc.attendance.leave.ApprovalLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:261:9-263:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:263:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:262:13-67
+activity#com.yunhu.yhshxc.attendance.leave.AskForLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:264:9-266:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:266:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:265:13-65
+activity#com.yunhu.yhshxc.attendance.leave.InitiateLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:267:9-269:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:269:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:268:13-67
+activity#com.yunhu.yhshxc.attendance.leave.ReportLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:270:9-273:67
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:272:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:273:13-64
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:271:13-65
+activity#com.yunhu.yhshxc.attendance.leave.CheckLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:274:9-277:67
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:276:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:277:13-64
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:275:13-64
+activity#com.yunhu.yhshxc.attendance.leave.PreviewLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:278:9-281:67
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:280:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:281:13-64
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:279:13-66
+activity#com.yunhu.yhshxc.attendance.leave.DoDeatailLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:282:9-285:67
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:284:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:285:13-64
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:283:13-68
+activity#com.yunhu.yhshxc.attendance.leave.WaitForApproLeaveActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:286:9-288:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:288:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:287:13-71
+activity#com.yunhu.yhshxc.expand.StoreExpandActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:289:9-291:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:291:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:290:13-55
+activity#com.yunhu.yhshxc.expand.StoreExpandPriviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:292:9-294:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:294:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:293:13-62
+activity#com.yunhu.yhshxc.activity.FunctionDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:309:9-311:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:311:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:310:13-60
+activity#com.yunhu.yhshxc.activity.login.LoginActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:312:9-314:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:314:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:313:13-57
+activity#com.yunhu.yhshxc.activity.login.LoginFor4GActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:315:9-317:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:317:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:316:13-62
+activity#com.yunhu.yhshxc.activity.login.LoginForFreeActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:318:9-320:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:320:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:319:13-64
+activity#com.yunhu.yhshxc.activity.InitActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:321:9-323:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:323:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:322:13-50
+activity#com.yunhu.yhshxc.activity.ModuleFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:324:9-327:70
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:326:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:327:13-67
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:325:13-56
+activity#com.yunhu.yhshxc.activity.ZCLRFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:328:9-331:70
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:330:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:331:13-67
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:329:13-54
+activity#com.yunhu.yhshxc.activity.ChangeModuleFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:332:9-334:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:334:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:333:13-62
+activity#com.yunhu.yhshxc.activity.LinkFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:335:9-337:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:337:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:336:13-54
+activity#com.yunhu.yhshxc.activity.HomePageActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:344:9-349:67
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:347:13-49
+	android:launchMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:346:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:349:13-64
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:348:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:345:13-54
+activity#com.yunhu.yhshxc.activity.SqlBigDataActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:350:9-352:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:352:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:351:13-56
+activity#com.yunhu.yhshxc.activity.TableCompActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:353:9-356:70
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:356:13-67
+	android:configChanges
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:355:13-74
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:354:13-55
+activity#com.yunhu.yhshxc.activity.carSales.scene.sellingGoods.ProductChoiceActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:357:9-359:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:359:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:358:13-87
+activity#com.yunhu.yhshxc.activity.carSales.scene.sellingGoods.CarSaleProductDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:360:9-362:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:362:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:361:13-94
+activity#com.yunhu.yhshxc.activity.carSales.scene.sellingGoods.CarSaleShoppingCartActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:363:9-365:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:365:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:364:13-93
+activity#com.yunhu.yhshxc.activity.carSales.scene.returnGoods.ReturnListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:366:9-369:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:368:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:369:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:367:13-83
+activity#com.yunhu.yhshxc.activity.jpush.PushTestActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:370:9-373:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:372:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:373:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:371:13-60
+activity#com.yunhu.yhshxc.activity.carSales.management.LoadingListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:374:9-377:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:376:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:377:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:375:13-77
+activity#com.yunhu.yhshxc.activity.carSales.management.UnLoadingListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:378:9-381:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:380:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:381:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:379:13-79
+activity#com.yunhu.yhshxc.activity.carSales.management.StockTakingActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:382:9-384:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:384:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:383:13-77
+activity#com.yunhu.yhshxc.activity.carSales.management.StockTakingListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:385:9-388:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:387:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:388:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:386:13-81
+activity#com.yunhu.yhshxc.activity.carSales.management.ReplenishmentActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:389:9-391:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:391:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:390:13-79
+activity#com.yunhu.yhshxc.activity.carSales.management.ReplenishmentListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:392:9-395:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:394:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:395:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:393:13-83
+activity#com.yunhu.yhshxc.activity.carSales.management.RegistrationListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:396:9-399:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:398:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:399:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:397:13-82
+activity#com.yunhu.yhshxc.activity.carSales.management.RegistrationActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:400:9-403:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:402:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:403:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:401:13-78
+activity#com.yunhu.yhshxc.activity.carSales.scene.chargeArrears.ChargeArrearsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:404:9-407:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:406:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:407:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:405:13-88
+activity#com.yunhu.yhshxc.activity.carSales.scene.returnGoods.ReturnGoodsAcitivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:408:9-410:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:410:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:409:13-85
+activity#com.yunhu.yhshxc.activity.carSales.management.LoadingActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:411:9-413:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:413:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:412:13-73
+activity#com.yunhu.yhshxc.activity.carSales.management.UnloadingActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:414:9-416:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:416:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:415:13-75
+activity#com.yunhu.yhshxc.activity.carSales.management.LoadingRecordActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:417:9-419:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:419:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:418:13-79
+activity#com.yunhu.yhshxc.activity.carSales.management.UnloadingRecordActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:420:9-422:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:422:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:421:13-81
+activity#com.yunhu.yhshxc.location.LocationTipActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:423:9-425:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:425:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:424:13-57
+activity#com.yunhu.yhshxc.visit.VisitStoreActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:426:9-428:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:428:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:427:13-53
+activity#com.yunhu.yhshxc.visit.VisitWayActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:429:9-431:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:431:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:430:13-51
+activity#com.yunhu.yhshxc.visit.InfoDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:432:9-434:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:434:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:433:13-53
+activity#com.yunhu.yhshxc.visit.TableHistoryActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:435:9-437:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:437:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:436:13-55
+activity#com.yunhu.yhshxc.visit.VisitFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:438:9-440:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:440:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:439:13-52
+activity#com.yunhu.yhshxc.visit.VisitFuzzQueryActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:441:9-443:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:443:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:442:13-57
+activity#com.yunhu.yhshxc.visit.UpdateStoreFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:444:9-446:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:446:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:445:13-58
+activity#com.yunhu.yhshxc.nearbyVisit.NearbyVisitActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:447:9-449:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:449:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:448:13-60
+activity#com.yunhu.yhshxc.nearbyVisit.NearbyVisitStoreDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:450:9-452:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:452:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:451:13-71
+activity#com.yunhu.yhshxc.nearbyVisit.NearbyVisitStoreMapForBDActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:453:9-455:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:455:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:454:13-73
+activity#com.yunhu.yhshxc.nearbyVisit.NearbyVisitStoreInfoActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:456:9-458:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:458:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:457:13-69
+activity#com.yunhu.yhshxc.nearbyVisit.NearbyVisitFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:459:9-461:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:461:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:460:13-64
+activity#com.yunhu.yhshxc.nearbyVisit.NearbyVisitHistoryActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:462:9-464:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:464:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:463:13-67
+activity#com.yunhu.yhshxc.pay.OrderListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:465:9-467:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:467:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:466:13-50
+activity#com.unionpay.uppay.PayActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:468:9-473:50
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:472:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:471:13-46
+	android:configChanges
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:470:13-63
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:473:13-47
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:469:13-58
+activity#com.yunhu.yhshxc.report.ReportListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:474:9-476:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:476:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:475:13-54
+activity#com.yunhu.yhshxc.report.ReportActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:477:9-479:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:479:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:478:13-50
+activity#com.yunhu.yhshxc.report.ReportPreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:480:9-482:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:482:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:481:13-57
+activity#com.yunhu.yhshxc.webReport.WebViewUtilActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:483:9-485:77
+	android:configChanges
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:485:13-74
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:484:13-58
+activity#com.yunhu.yhshxc.list.activity.TableListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:486:9-488:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:488:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:487:13-60
+activity#com.yunhu.yhshxc.list.activity.TableListActivityNew
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:489:9-491:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:491:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:490:13-63
+activity#com.yunhu.yhshxc.list.activity.ShowImageActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:492:9-494:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:494:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:493:13-60
+activity#com.yunhu.yhshxc.list.activity.ShowTableActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:495:9-497:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:497:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:496:13-60
+activity#com.yunhu.yhshxc.list.activity.RecordAuditionActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:498:9-500:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:500:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:499:13-65
+activity#com.yunhu.yhshxc.activity.ModuleActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:501:9-503:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:503:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:502:13-52
+activity#com.yunhu.yhshxc.activity.PhotoPreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:504:9-506:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:506:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:505:13-58
+activity#com.yunhu.yhshxc.activity.PhotoActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:507:9-509:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:509:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:508:13-51
+activity#com.yunhu.yhshxc.activity.PhotoPreActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:510:9-512:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:512:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:511:13-54
+activity#com.yunhu.yhshxc.attendance.AttendanceActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:513:9-515:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:515:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:514:13-58
+activity#com.yunhu.yhshxc.attendance.AttendanceFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:516:9-518:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:518:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:517:13-62
+activity#com.yunhu.yhshxc.attendance.AttendanceFuncDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:524:9-526:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:526:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:525:13-68
+activity#com.yunhu.yhshxc.attendance.AttendanceListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:527:9-529:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:529:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:528:13-62
+activity#com.yunhu.yhshxc.attendance.AttendanceNewListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:530:9-532:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:532:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:531:13-65
+activity#com.yunhu.yhshxc.activity.FuncDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:533:9-535:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:535:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:534:13-56
+activity#com.yunhu.yhshxc.notify.NotifyListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:536:9-539:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:539:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:538:13-46
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:537:13-54
+activity#com.yunhu.yhshxc.notify.NotifyDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:540:9-542:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:542:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:541:13-56
+activity#com.yunhu.yhshxc.doubletask.DoubleWayActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:543:9-546:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:546:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:545:13-46
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:544:13-57
+activity#com.yunhu.yhshxc.doubletask.DoubleDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:547:9-549:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:549:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:548:13-60
+activity#com.yunhu.yhshxc.doubletask2.NewDoubleDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:550:9-552:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:552:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:551:13-64
+activity#com.yunhu.yhshxc.doubletask2.NewDoubleListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:553:9-555:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:555:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:554:13-62
+activity#com.yunhu.yhshxc.doubletask2.ChildrenListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:556:9-558:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:558:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:557:13-61
+activity#com.yunhu.yhshxc.module.replenish.PreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:559:9-561:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:561:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:560:13-61
+activity#com.yunhu.yhshxc.module.replenish.QueryFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:562:9-564:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:564:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:563:13-63
+activity#com.yunhu.yhshxc.activity.TaskListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:565:9-568:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:568:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:567:13-46
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:566:13-54
+activity#com.yunhu.yhshxc.func.PaintActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:569:9-572:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:572:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:571:13-46
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:570:13-47
+activity#com.yunhu.yhshxc.activity.TaskDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:573:9-575:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:575:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:574:13-56
+activity#com.yunhu.yhshxc.dialog.DialogLocationRuleActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:576:9-580:50
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:579:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:578:13-46
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:580:13-47
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:577:13-62
+activity#com.yunhu.yhshxc.http.download.apk.DialogInstallActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:581:9-585:50
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:584:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:583:13-46
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:585:13-47
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:582:13-68
+activity#com.yunhu.yhshxc.dialog.DialogLawActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:586:9-590:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:589:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:588:13-46
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:590:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:587:13-53
+activity#com.yunhu.yhshxc.dialog.DialogGetOrgActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:591:9-595:50
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:594:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:593:13-46
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:595:13-47
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:592:13-56
+activity#com.yunhu.yhshxc.dialog.CloseAppDialogActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:596:9-600:50
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:599:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:598:13-46
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:600:13-47
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:597:13-58
+activity#com.yunhu.yhshxc.dialog.DialogNoticeActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:601:9-605:50
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:604:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:603:13-46
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:605:13-47
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:602:13-56
+activity#com.yunhu.yhshxc.activity.RelayActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:606:9-608:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:608:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:607:13-51
+activity#com.yunhu.yhshxc.module.bbs.BBSMainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:609:9-611:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:611:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:610:13-55
+activity#com.yunhu.yhshxc.module.bbs.BBSGroupActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:612:9-614:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:614:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:613:13-56
+activity#com.yunhu.yhshxc.module.bbs.BBSMessageListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:615:9-617:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:617:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:616:13-62
+activity#com.yunhu.yhshxc.module.bbs.BBSPublishActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:618:9-620:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:620:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:619:13-58
+activity#com.yunhu.yhshxc.module.bbs.BBSContentDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:621:9-623:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:623:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:622:13-64
+activity#com.google.zxing.activity.CaptureActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:624:9-629:63
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:627:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:629:13-60
+	android:configChanges
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:626:13-63
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:628:13-71
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:625:13-69
+activity#com.yunhu.yhshxc.help.LoadingHelpActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:630:9-632:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:632:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:631:13-53
+activity#com.yunhu.yhshxc.help.QuestionActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:633:9-635:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:635:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:634:13-50
+activity#com.yunhu.yhshxc.help.QuestionActivity2
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:636:9-638:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:638:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:637:13-51
+activity#com.yunhu.yhshxc.help.QuestionDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:639:9-641:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:641:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:640:13-56
+activity#com.yunhu.yhshxc.help.HelpInstructionsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:642:9-644:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:644:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:643:13-58
+activity#com.yunhu.yhshxc.widget.VideoPlayer
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:645:9-647:66
+	android:configChanges
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:647:13-63
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:646:13-47
+activity#com.yunhu.yhshxc.order.MenuOrderActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:648:9-650:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:650:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:649:13-52
+activity#com.yunhu.yhshxc.order.CreateOrderActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:651:9-653:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:653:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:652:13-54
+activity#com.yunhu.yhshxc.order.CreateOrderDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:654:9-656:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:656:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:655:13-60
+activity#com.yunhu.yhshxc.order.OrderQueryActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:657:9-659:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:659:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:658:13-53
+activity#com.yunhu.yhshxc.order.OrderPurchaseActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:660:9-662:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:662:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:661:13-56
+activity#com.yunhu.yhshxc.order.OrderPurchasePreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:663:9-665:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:665:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:664:13-63
+activity#com.yunhu.yhshxc.order.OrderReturnedListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:666:9-668:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:668:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:667:13-60
+activity#com.yunhu.yhshxc.order.OrderSaleActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:669:9-671:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:671:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:670:13-52
+activity#com.yunhu.yhshxc.order.OrderSalePreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:672:9-674:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:674:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:673:13-59
+activity#com.yunhu.yhshxc.order.OrderReturnedActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:675:9-677:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:677:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:676:13-56
+activity#com.yunhu.yhshxc.order.OrderStockList
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:678:9-680:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:680:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:679:13-49
+activity#com.yunhu.yhshxc.order.OrderStockUpdate
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:681:9-683:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:683:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:682:13-51
+activity#com.yunhu.yhshxc.dragimage.PhotoPriviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:684:9-686:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:686:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:685:13-59
+activity#com.yunhu.yhshxc.order2.Order2MainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:687:9-689:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:689:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:688:13-54
+activity#com.yunhu.yhshxc.order2.Order2WidgetMainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:690:9-692:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:692:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:691:13-60
+activity#com.yunhu.yhshxc.order2.Order2LinkWidgetMainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:693:9-695:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:695:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:694:13-64
+activity#com.yunhu.yhshxc.order2.OrderWidgetCreateActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:696:9-698:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:698:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:697:13-61
+activity#com.yunhu.yhshxc.order2.OrderLinkWidgetCreateActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:699:9-701:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:701:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:700:13-65
+activity#com.yunhu.yhshxc.order2.OrderCreateActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:702:9-704:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:704:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:703:13-55
+activity#com.yunhu.yhshxc.order2.OrderSearchDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:705:9-707:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:707:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:706:13-61
+activity#com.yunhu.yhshxc.order2.OrderCreateEditActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:708:9-710:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:710:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:709:13-59
+activity#com.yunhu.yhshxc.order2.OrderSearchListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:711:9-713:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:713:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:712:13-59
+activity#com.yunhu.yhshxc.order2.OrderWidgetSearchListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:714:9-716:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:716:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:715:13-65
+activity#com.yunhu.yhshxc.order3.Order3MainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:717:9-719:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:719:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:718:13-54
+activity#com.yunhu.yhshxc.order3.send.Order3SendActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:720:9-723:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:722:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:723:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:721:13-59
+activity#com.yunhu.yhshxc.order3.send.Order3SendPriviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:724:9-726:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:726:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:725:13-66
+activity#com.yunhu.yhshxc.order3.Order3HomeActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:727:9-729:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:729:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:728:13-54
+activity#com.yunhu.yhshxc.order3.Order3FuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:730:9-732:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:732:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:731:13-54
+activity#com.yunhu.yhshxc.order3.Order3FuncDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:733:9-735:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:735:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:734:13-60
+activity#com.yunhu.yhshxc.order3.Order3SearchActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:736:9-739:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:738:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:739:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:737:13-56
+activity#com.yunhu.yhshxc.order3.Order3SyncInfoActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:740:9-742:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:742:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:741:13-58
+activity#com.yunhu.yhshxc.order3.ShoppingCarActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:743:9-745:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:745:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:744:13-55
+activity#com.yunhu.yhshxc.order3.ProductDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:746:9-749:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:748:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:749:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:747:13-57
+activity#com.yunhu.yhshxc.order3.Order3SearDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:750:9-752:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:752:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:751:13-60
+activity#com.yunhu.yhshxc.order3.Order3ManagerActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:753:9-755:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:755:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:754:13-57
+activity#com.yunhu.yhshxc.activity.carSales.CarSalesMainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:756:9-758:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:758:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:757:13-67
+activity#com.yunhu.yhshxc.activity.carSales.manager.ApplyForReimbursementActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:759:9-761:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:761:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:760:13-84
+activity#com.yunhu.yhshxc.activity.carSales.manager.CarSalesSubmitManagerActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:762:9-764:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:764:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:763:13-84
+activity#com.yunhu.yhshxc.activity.carSales.manager.CarSalesSyncInfoActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:765:9-767:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:767:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:766:13-79
+activity#com.yunhu.yhshxc.activity.carSales.statistics.CarSalesSaleStatisticsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:768:9-770:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:770:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:769:13-88
+activity#com.yunhu.yhshxc.activity.carSales.statistics.CarSalesDebtStatisticsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:771:9-773:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:773:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:772:13-88
+activity#com.yunhu.yhshxc.activity.carSales.statistics.CarSalesStockNewStatisticsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:774:9-776:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:776:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:775:13-92
+activity#com.yunhu.yhshxc.submitManager.SubmitManagerActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:777:9-779:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:779:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:778:13-64
+activity#com.yunhu.yhshxc.activity.todo.TodoListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:780:9-782:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:782:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:781:13-59
+activity#com.yunhu.yhshxc.style.DialogGetStyleActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:783:9-787:60
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:786:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:785:13-46
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:787:13-57
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:784:13-57
+activity#com.yunhu.yhshxc.activity.synchrodata.SyncDataActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:788:9-790:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:790:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:789:13-66
+activity#com.yunhu.yhshxc.activity.addressBook.AddressBookActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:791:9-795:67
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:793:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:795:13-64
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:794:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:792:13-69
+activity#com.yunhu.yhshxc.activity.addressBook.AddressBookDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:796:9-798:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:798:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:797:13-75
+activity#com.yunhu.yhshxc.activity.CompanyWebActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:799:9-801:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:801:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:800:13-56
+activity#com.yunhu.yhshxc.activity.CompanyFilesActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:802:9-804:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:804:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:803:13-58
+activity#com.yunhu.yhshxc.activity.ReportPreviewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:805:9-807:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:807:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:806:13-59
+activity#com.yunhu.yhshxc.workplan.WorkPlanActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:808:9-811:75
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:810:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:811:13-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:809:13-54
+activity#com.yunhu.yhshxc.workplan.WorkPlanDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:812:9-815:75
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:814:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:815:13-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:813:13-60
+activity#com.yunhu.yhshxc.workplan.WorkPlanNewPlanActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:816:9-819:75
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:818:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:819:13-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:817:13-61
+activity#com.yunhu.yhshxc.workplan.WorkpLanTipActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:820:9-823:75
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:822:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:823:13-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:821:13-57
+service#com.yunhu.yhshxc.workplan.WorkPlanCheckService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:825:9-66
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:825:18-63
+activity#com.yunhu.yhshxc.workSummary.WorkSummaryMainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:827:9-830:75
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:829:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:830:13-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:828:13-64
+activity#com.yunhu.yhshxc.workSummary.WorkSummaryCreateActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:831:9-835:67
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:833:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:835:13-64
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:834:13-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:832:13-66
+activity#com.yunhu.yhshxc.kt40.KT40ScanActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:836:9-59
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:836:19-56
+activity#com.yunhu.yhshxc.s200.ScanS200Activity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:837:9-59
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:837:19-56
+activity#com.yunhu.yhshxc.list.activity.ShowImageTableActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:838:9-74
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:838:19-71
+activity#com.yunhu.yhshxc.activity.NfcFuncActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:839:9-62
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:839:19-59
+activity#com.yunhu.yhshxc.activity.WebBackStageActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:840:9-843:57
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:842:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:843:13-54
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:841:13-58
+activity#com.yunhu.yhshxc.activity.PersonalActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:844:9-846:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:846:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:845:13-54
+activity#com.yunhu.yhshxc.activity.PersonalSettingActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:847:9-849:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:849:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:848:13-61
+activity#com.yunhu.yhshxc.activity.ImageShowActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:850:9-852:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:852:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:851:13-55
+activity#com.yunhu.yhshxc.inspection.SmartInspectionActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:853:9-855:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:855:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:854:13-63
+activity#com.yunhu.yhshxc.inspection.InspectionTaskActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:856:9-858:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:858:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:857:13-62
+activity#com.yunhu.yhshxc.inspection.InspectionMenuActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:859:9-861:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:861:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:860:13-62
+activity#com.yunhu.yhshxc.activity.fragment.AddressDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:862:9-864:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:864:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:863:13-68
+activity#com.yunhu.yhshxc.visitors.ContractActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:866:9-869:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:869:13-54
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:868:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:867:13-54
+activity#com.yunhu.yhshxc.activity.HomeSecondActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:870:9-872:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:872:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:871:13-56
+activity#com.yunhu.yhshxc.activity.HomepageWebViewActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:873:9-875:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:875:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:874:13-61
+service#com.baidu.location.f
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:877:9-880:41
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:879:13-35
+	android:process
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:880:13-38
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:878:13-48
+service#com.yunhu.yhshxc.aidl.AidlService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:881:9-885:19
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:881:18-50
+intent-filter#com.gcg.grirms.aidl.AidlServiceAction
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:882:13-884:29
+action#com.gcg.grirms.aidl.AidlServiceAction
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:883:17-80
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:883:25-77
+service#com.yunhu.yhshxc.service.LocationService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:886:9-60
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:886:18-57
+service#com.yunhu.yhshxc.service.CheckExitAppService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:887:9-64
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:887:18-61
+service#com.yunhu.yhshxc.push.GetPushService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:888:9-56
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:888:18-53
+service#com.yunhu.yhshxc.http.download.apk.DownApkBackstageService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:889:9-78
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:889:18-75
+service#com.yunhu.yhshxc.location.backstage.BackstageLocationService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:890:9-80
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:890:18-77
+service#com.yunhu.yhshxc.weather.WeatherService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:891:9-59
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:891:18-56
+service#com.yunhu.yhshxc.submitManager.core.SubmitWorkService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:892:9-73
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:892:18-70
+service#com.yunhu.yhshxc.attendance.backstage.AttendanceLocationService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:893:9-83
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:893:18-80
+service#com.yunhu.yhshxc.attendance.backstage.AttendanceAutoLocationService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:894:9-87
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:894:18-84
+receiver#com.yunhu.yhshxc.push.PushBroadcastReceiver
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:896:9-902:20
+	android:exported
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:898:13-37
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:897:13-55
+intent-filter#com.gcg.grirms.PNARRIVE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:899:13-901:29
+action#com.gcg.grirms.PNARRIVE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:900:17-66
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:900:25-63
+receiver#com.yunhu.yhshxc.service.BootBroadcastReceiver
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:903:9-907:20
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:903:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:904:13-906:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:905:17-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:905:25-76
+activity#cn.jpush.android.ui.PushActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:910:9-920:20
+	android:exported
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:913:13-37
+	android:configChanges
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:912:13-63
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:911:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.gcg.grirms
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:914:13-919:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:915:17-75
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:915:25-72
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:917:17-76
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:917:27-73
+category#com.gcg.grirms
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:918:17-59
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:918:27-56
+service#cn.jpush.android.service.DownloadService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:922:9-925:40
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:924:13-35
+	android:exported
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:925:13-37
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:923:13-68
+service#cn.jpush.android.service.PushService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:928:9-938:19
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:930:13-35
+	android:exported
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:931:13-37
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:929:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:932:13-937:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:933:17-75
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:933:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:934:17-73
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:934:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:935:17-78
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:935:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:936:17-76
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:936:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:942:9-951:19
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:944:13-35
+	android:exported
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:945:13-36
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:943:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.gcg.grirms
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:946:13-950:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:947:17-80
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:947:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:954:9-974:20
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:956:13-35
+	android:exported
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:957:13-37
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:955:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.gcg.grirms
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:958:13-962:29
+	android:priority
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:958:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:959:17-94
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:959:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:963:13-966:29
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:964:17-77
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:964:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:965:17-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:965:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:968:13-973:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:969:17-78
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:969:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:970:17-80
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:970:25-77
+data
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:972:17-50
+	android:scheme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:972:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:977:9-75
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:977:19-72
+receiver#com.yunhu.yhshxc.activity.jpush.JPushBaseReceiver
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:980:9-1000:20
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:982:13-35
+	android:exported
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:983:13-37
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:981:13-61
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION+com.gcg.grirms
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:984:13-999:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:985:17-79
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:985:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:987:17-81
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:987:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:988:17-83
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:988:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:990:17-88
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:990:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:992:17-86
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:992:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:994:17-91
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:994:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:996:17-77
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:996:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1003:9-1005:49
+	android:value
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1005:13-46
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1004:13-41
+meta-data#JPUSH_APPKEY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1006:9-1008:56
+	android:value
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1008:13-53
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1007:13-40
+service#com.yunhu.yhshxc.location.backstage.WatchLocationService1
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1010:9-1012:38
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1012:13-35
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1011:13-69
+service#com.yunhu.yhshxc.location.backstage.WatchLocationService2
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1013:9-1016:56
+	android:enabled
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1015:13-35
+	android:process
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1016:13-53
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1014:13-69
+receiver#com.yunhu.yhshxc.location.backstage.BackLocationReceiver
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1019:9-1024:20
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1019:19-74
+intent-filter#watchlocationservice1_destroy+watchlocationservice2_destroy
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1020:13-1023:29
+action#watchlocationservice1_destroy
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1021:17-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1021:25-69
+action#watchlocationservice2_destroy
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1022:17-72
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1022:25-69
+service#com.yunhu.yhshxc.service.StyleDownLoadService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1026:9-65
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1026:18-62
+service#com.yunhu.yhshxc.service.DownSlidePicService
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1027:9-64
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1027:18-61
+activity#com.yunhu.yhshxc.MeetingAgenda.MeetingagendaListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1029:9-1031:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1031:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1030:13-68
+activity#com.yunhu.yhshxc.MeetingAgenda.MeetingBoomJumpActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1032:9-1035:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1035:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1034:13-52
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1033:13-66
+activity#com.yunhu.yhshxc.MeetingAgenda.AgendaPlanActivty
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1036:9-1038:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1038:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1037:13-60
+service#com.yunhu.yhshxc.MeetingAgenda.notification.NotificationServices
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1040:9-84
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1040:18-81
+service#com.yunhu.yhshxc.MeetingAgenda.notification.NotificationSubmit
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1041:9-1047:19
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1041:18-79
+intent-filter#action.TIME_CANCEL+action.TIME_DELAY+action.TIME_OK
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1042:13-1046:29
+action#action.TIME_DELAY
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1043:17-60
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1043:25-57
+action#action.TIME_CANCEL
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1044:17-61
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1044:25-58
+action#action.TIME_OK
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1045:17-57
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1045:25-54
+activity#com.yunhu.yhshxc.MeetingAgenda.MeeTingDateActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1049:9-1051:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1051:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1050:13-62
+activity#com.yunhu.yhshxc.MeetingAgenda.MeetingUserActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1052:9-1055:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1055:13-54
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1054:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1053:13-62
+activity#com.yunhu.yhshxc.activity.SearchChooseActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1056:9-1058:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1058:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1057:13-58
+activity#com.yunhu.yhshxc.activity.zrmenu.ZRModuleActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1059:9-1061:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1061:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1060:13-61
+activity#com.yunhu.yhshxc.activity.zrmenu.ZRMyBillsDetailsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1062:9-1064:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1064:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1063:13-69
+activity#com.yunhu.yhshxc.activity.zrmenu.ZRMyBillsDetailsActivity_new
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1065:9-1067:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1067:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1066:13-73
+activity#com.yunhu.yhshxc.activity.zrmenu.ZRMyBillsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1068:9-1070:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1070:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1069:13-62
+activity#com.yunhu.yhshxc.activity.zrmenu.ZRModuleDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1071:9-1073:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1073:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1072:13-67
+activity#com.yunhu.yhshxc.MeetingAgenda.BuildingNewAgenda
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1074:9-1076:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1076:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1075:13-60
+activity#com.yunhu.yhshxc.MeetingAgenda.NoticeMeetingTime
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1077:9-1079:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1079:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1078:13-60
+activity#com.yunhu.yhshxc.MeetingAgenda.RecycleTimesActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1080:9-1082:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1082:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1081:13-63
+activity#com.yunhu.yhshxc.MeetingAgenda.BookingMeetingRoom
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1083:9-1085:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1085:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1084:13-61
+activity#com.yunhu.yhshxc.MeetingAgenda.BookMroomDetails
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1086:9-1088:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1088:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1087:13-59
+activity#com.yunhu.yhshxc.activity.ConfirmSupLibrayActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1089:9-71
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1089:19-68
+activity#com.yunhu.yhshxc.MeetingAgenda.MeetingRoomDetails
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1090:9-1092:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1092:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1091:13-61
+activity#com.yunhu.yhshxc.MeetingAgenda.AgendaDetailsActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1093:9-1095:52
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1095:13-49
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1094:13-64
+activity#com.yunhu.yhshxc.activity.zrmenu.AssetDiscoveryActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1096:9-1098:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1098:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1097:13-67
+activity#com.yunhu.yhshxc.activity.zrmenu.AssetInventoryActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1099:9-1101:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1101:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1100:13-67
+activity#com.yunhu.yhshxc.activity.zrmenu.AssetAlterActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1102:9-1104:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1104:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1103:13-63
+activity#com.yunhu.yhshxc.activity.zrmenu.AssetSurplusActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1105:9-1107:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1107:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1106:13-65
+activity#com.yunhu.yhshxc.activity.stationReserve.StationReserveMainActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1108:9-1110:72
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1110:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1109:13-79
+activity#com.yunhu.yhshxc.activity.stationReserve.StationMiddleActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1111:9-83
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1111:19-80
+activity#com.yunhu.yhshxc.activity.stationReserve.ReserveStationActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1112:9-84
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1112:19-81
+activity#com.yunhu.yhshxc.visitors.TXRActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1113:9-1116:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1116:13-54
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1115:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1114:13-49
+activity#com.yunhu.yhshxc.visitors.TXRListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1117:9-1120:57
+	android:windowSoftInputMode
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1120:13-54
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1119:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1118:13-53
+activity#com.yunhu.yhshxc.visitors.VisitorListActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1121:9-1123:47
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1123:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1122:13-57
+activity#com.yunhu.yhshxc.visitors.VisitorDetailActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1124:9-1126:47
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1126:13-44
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1125:13-59
+activity#com.yunhu.yhshxc.activity.ZRLoginActivity
+ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1127:9-1130:15
+	android:screenOrientation
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1128:13-49
+	android:theme
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1129:13-69
+	android:name
+		ADDED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml:1127:19-59
+uses-sdk
+INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\yh\.android\build-cache\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\yh\.android\build-cache\1b17d9e283d6ccbc68ee6f587c53b594ead3071e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\yh\.android\build-cache\3c4472bb0de677cfc2c0f43d44c4385b086910cb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\0e3ae306b8723245dceece2ccc80852ec04f1d29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\yh\.android\build-cache\09f17f91779388083dcf8021ba289d7a0641a619\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\yh\.android\build-cache\f3fb8321be0880c379009b74d19ed3bd96e55194\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\yh\.android\build-cache\9717f78a976452afea90a26d2da5fb935f931dc2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\yh\.android\build-cache\0ae75225606d6f1f96f431343e2dd33324a8c856\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\yh\.android\build-cache\407ca46a5212945b4d8aaf4518d1a2230312a1bf\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\yh\.android\build-cache\06ae16a63536d44f44adbd6c0cb9d56a5ee4df7f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\7004f9888830ebf3945e198d6f812b3e9877d24c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\yh\.android\build-cache\75780c90793745010f2826213e920f76108a046c\output\AndroidManifest.xml:18:5-42
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\yh\.android\build-cache\31029bf0edecbebaa54cf735d5e34cc123afacce\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\yh\.android\build-cache\441cd75f3e66c6d7d8fe7cc14860917cd72c841d\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\yh\.android\build-cache\403920a5ceda85b0615ee5165a75e3e126dbf4f7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\yh\.android\build-cache\d7947e1201bc8a06116a387a4ca33df94d7cd9eb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.blankj:utilcode:1.3.4] C:\Users\yh\.android\build-cache\d0e171384583467623d34d72fc4019ae85194fd4\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\yh\.android\build-cache\3b1f09410de6370dfc05adcd53a73d12c5114330\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\yh\.android\build-cache\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yh\Desktop\Grirms_ZR\gRIRMS40\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\yh\.android\build-cache\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\yh\.android\build-cache\1b17d9e283d6ccbc68ee6f587c53b594ead3071e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\yh\.android\build-cache\3c4472bb0de677cfc2c0f43d44c4385b086910cb\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\0e3ae306b8723245dceece2ccc80852ec04f1d29\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\yh\.android\build-cache\09f17f91779388083dcf8021ba289d7a0641a619\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\yh\.android\build-cache\f3fb8321be0880c379009b74d19ed3bd96e55194\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\yh\.android\build-cache\9717f78a976452afea90a26d2da5fb935f931dc2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\yh\.android\build-cache\0ae75225606d6f1f96f431343e2dd33324a8c856\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\yh\.android\build-cache\407ca46a5212945b4d8aaf4518d1a2230312a1bf\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\yh\.android\build-cache\06ae16a63536d44f44adbd6c0cb9d56a5ee4df7f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\yh\.android\build-cache\7004f9888830ebf3945e198d6f812b3e9877d24c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\yh\.android\build-cache\403920a5ceda85b0615ee5165a75e3e126dbf4f7\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\yh\.android\build-cache\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\yh\.android\build-cache\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\output\AndroidManifest.xml:26:9-47

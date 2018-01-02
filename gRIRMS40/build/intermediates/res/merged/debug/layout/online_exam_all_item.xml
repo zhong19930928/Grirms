@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="5dp"
+    android:orientation="vertical" >
+
+    <!--
+    <TextView
+        android:id="@+id/online_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="【试卷】品牌形象的调查"
+        android:textColor="@color/black" 
+        android:padding="5dp"/>
+    <TextView
+        android:id="@+id/online_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10天前"
+        android:paddingLeft="5dp" />
+    <TextView
+        android:id="@+id/online_explian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="试卷说明"
+        android:paddingLeft="5dp" />
+    -->
+
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/online_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="【试卷】品牌形象的调查"
+            android:textSize="@dimen/common_text_size_middle_2" />
+
+        <TextView
+            android:id="@+id/online_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="2dp"
+            android:text="8小时前"
+            android:textSize="@dimen/common_text_size_small" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/online_explian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="试卷说明"
+            android:paddingLeft="5dp"
+            android:textSize="@dimen/common_text_size_small" />
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="已有15份"
+            android:visibility="gone"
+            android:textSize="@dimen/common_text_size_small_2"/>
+    </RelativeLayout>
+</LinearLayout>

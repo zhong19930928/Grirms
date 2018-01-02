@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Spinner
+            android:id="@+id/other_select"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/spinner_dropdown_selector"
+            android:layout_marginTop="1dp" />
+
+        <EditText
+            android:id="@+id/other_editText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" 
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:visibility="gone"
+            android:maxLength="100"
+            android:layout_marginTop="10dp">
+        </EditText>
+    </LinearLayout>
+
+</LinearLayout>

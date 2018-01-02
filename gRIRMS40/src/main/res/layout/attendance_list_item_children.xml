@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/att_bg_color_normal"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="5dip"
+    android:paddingRight="-5dip" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/att_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="2.5dip"
+                android:layout_marginTop="2.5dip"
+                android:gravity="center"
+                android:text="@string/start_work"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_time"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dip"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_attendance_item_children_location"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2.5dip"
+            android:layout_marginTop="2.5dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="2.5dip"
+                android:layout_marginTop="2.5dip"
+                android:gravity="center"
+                android:text="@string/position"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_location"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dip"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_attendance_item_children_lon"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2.5dip"
+            android:layout_marginTop="2.5dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="2.5dip"
+                android:layout_marginTop="2.5dip"
+                android:gravity="center"
+                android:text="@string/lon"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_lon"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dip"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_attendance_item_children_lat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2.5dip"
+            android:layout_marginTop="2.5dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="5dip"
+                android:paddingRight="5dip"
+                android:text="@string/lat"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_lat"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dip"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+            
+           <LinearLayout
+            android:id="@+id/ll_attendance_item_children_gisType"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2.5dip"
+            android:layout_marginTop="2.5dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="5dip"
+                android:paddingRight="5dip"
+                android:text="@string/type"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_gisType"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dip"
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+        </LinearLayout> 
+            
+        <LinearLayout
+            android:id="@+id/ll_attendance_item_children_des"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2.5dip"
+            android:layout_marginTop="2.5dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="5dip"
+                android:paddingRight="5dip"
+                android:text="@string/explain"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_des"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dip"
+                
+                android:textColor="@color/darkGray"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+      
+
+        <LinearLayout
+            android:id="@+id/ll_attendance_item_children_image"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2.5dip"
+            android:layout_marginTop="2.5dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="2.5dip"
+                android:layout_marginTop="2.5dip"
+                android:gravity="center"
+                android:text="@string/photo"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tv_attendance_item_children_image"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dip"
+                android:text="@string/click_to_see_photo"
+                android:textColor="@color/blue"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

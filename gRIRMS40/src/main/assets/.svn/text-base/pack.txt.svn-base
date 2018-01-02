@@ -1,0 +1,17 @@
+
+打包说明:
+ 正常版本:包名:com.gcg.grirms  签名文件为:Distribution.keystore
+
+ 标准合并版
+ 修改PublicUtils.ISCOMBINE = true;
+
+ 字符值代表对应版本的类型:
+ PublicUtils.COMBINE_TYPE = "xj";
+
+ 云狐销售:包名:com.vee.beauty   版本号:2.9.3            versionCode:185   签名文件:beauty.key
+ 云狐派工:包名:com.vee.ddpg     版本号:1.1              versionCode: 1    签名文件:Distribution.keystore
+ 云狐售后:包名:com.vee.zuimei   版本号:3.01.20170405    versionCode:192   签名文件:beauty.key
+ 云狐巡检:包名:com.fox.sports   版本号:3.20             versionCode:90    签名文件:sports.key
+ 云狐石化:包名:com.yunhu.yhshxc 版本号:1.1              versionCode:1     签名文件:Distribution.keystore
+ 云狐安监:包名:com.yunhu.safety 版本号:1.1              versionCode:1     签名文件:Distribution.keystore
+

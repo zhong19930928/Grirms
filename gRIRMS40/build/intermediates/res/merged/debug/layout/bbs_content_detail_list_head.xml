@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/iv_bbs_detail_list_head_userhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip"
+            android:src="@drawable/bbs_user" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/iv_bbs_detail_list_head_userhead"
+            android:layout_below="@id/iv_bbs_detail_list_head_userhead"
+            android:layout_marginLeft="5dip"
+            android:background="@drawable/score_bj"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:text="@string/bbs_jifen"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/tv_bbs_detail_list_head_userscore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_bbs_detail_list_head_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_bbs_detail_list_head_userhead"
+            android:paddingBottom="5dip"
+            android:paddingTop="5dip"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_bbs_detail_list_head_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_bbs_detail_list_head_user"
+            android:layout_below="@id/tv_bbs_detail_list_head_user"
+            android:paddingBottom="5dip"
+            android:textColor="@color/darkGray"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/iv_bbs_detail_list_head_userleve"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/iv_bbs_detail_list_head_userhead"
+            android:layout_marginLeft="15dip"
+            android:layout_alignParentRight="true"
+            android:padding="5dip"
+            android:src="@drawable/bbs_leve_1" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_bbs_detail_list_head_time"
+            android:layout_below="@id/tv_bbs_detail_list_head_time"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dip"
+                android:background="@color/bbs_msg"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_bbs_detail_list_head_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dip"
+                    android:textColor="@android:color/black" />
+
+                <LinearLayout
+                    android:id="@+id/ll_bbs_detail_list_head_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bbs_imageclick"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <ImageView
+                        android:id="@+id/iv_bbs_detail_list_head_image"
+                        android:layout_width="140dip"
+                        android:layout_height="140dip"
+                        android:src="@drawable/empty_photo" />
+
+                    <ProgressBar
+                        android:id="@+id/bbs_msg_content_iv_pb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="-50dp"
+                        android:visibility="gone" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="0.5dp"
+                        android:background="@color/lightGray" >
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_bbs_detail_list_head_location"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dip"
+                android:paddingTop="5dip" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="5dip"
+                    android:src="@drawable/bbs_location" />
+
+                <TextView
+                    android:id="@+id/tv_bbs_detail_list_head_location"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dip"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:id="@+id/tv_bbs_detail_list_head_time_r"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="5dip"
+                    android:paddingTop="5dip"
+                    android:textColor="@color/darkGray" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center_vertical"
+                    android:padding="5dip" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bbs_review" />
+
+                    <TextView
+                        android:id="@+id/bbs_msg_review_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="@string/bbs_pinglun"
+                        android:textColor="@color/blue" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="@string/bbs_l"
+                        android:textColor="@color/blue" />
+
+                    <TextView
+                        android:id="@+id/tv_bbs_detail_list_head_repty_count"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/blue" />
+
+                    <TextView
+                        android:id="@+id/bbs_msg_reviewNumber_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dip"
+                        android:text="@string/bbs_r"
+                        android:textColor="@color/blue" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

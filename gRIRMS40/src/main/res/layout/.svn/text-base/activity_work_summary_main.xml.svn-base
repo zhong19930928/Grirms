@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color" >
+
+        <ImageView
+            android:id="@+id/worksummary_back"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/work_s_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/work_summary_left"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="&lt;"
+                android:textColor="@color/app_color"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/work_summary_date"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@null"
+                android:orientation="horizontal"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/work_summary_right"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text=">"
+                android:textColor="@color/app_color"
+                android:textSize="16dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/app_color_low" >
+        </LinearLayout>
+
+        <com.yunhu.yhshxc.widget.DropDown
+            xmlns:dd="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/work_summary_mine"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/spinner_newbg"
+            dd:ddMode="single_choice_fuzzy_query" />
+    </LinearLayout>
+    <!-- 日历星期的标题 -->
+
+    <LinearLayout
+        android:id="@+id/summary_linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:background="@drawable/shape_corner_appcolor"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/work_summary_weektitle"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/work_sunday"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/work_mon"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/work_tue"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/work_wen"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/work_thr"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/work_fri"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/work_sat"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <!-- 日历的布局 -->
+
+        <LinearLayout
+            android:id="@+id/worksummary_calendarcontainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <com.yunhu.yhshxc.workSummary.view.CalendarLayout
+                android:id="@+id/worksummary_calendarlayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <com.yunhu.yhshxc.workSummary.view.CalendarDateView
+                    android:id="@+id/calendarDateView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <ScrollView
+                    android:id="@+id/list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#f9f9f9"
+                    android:fillViewport="true" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/worksummary_plantitle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="5dp"
+                            android:text="@string/work_info"
+                            android:textColor="@color/app_color"
+                            android:textSize="14dp"
+                            android:visibility="gone" />
+
+                        <LinearLayout
+                            android:id="@+id/work_plan_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical" />
+
+                        <TextView
+                            android:id="@+id/worksummary_summarytitle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="5dp"
+                            android:text="@string/work_info1"
+                            android:textColor="@color/app_color"
+                            android:textSize="14dp"
+                            android:visibility="gone" />
+
+                        <LinearLayout
+                            android:id="@+id/work_summary_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical" />
+
+                        <TextView
+                            android:id="@+id/worksummary_accesstitle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginTop="5dp"
+                            android:text="@string/work_info2"
+                            android:textColor="@color/app_color"
+                            android:textSize="14dp"
+                            android:visibility="gone" />
+
+                        <LinearLayout
+                            android:id="@+id/work_summaryaccess_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical" />
+                    </LinearLayout>
+                </ScrollView>
+            </com.yunhu.yhshxc.workSummary.view.CalendarLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

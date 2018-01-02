@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="50dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/app_color"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp" >
+
+                <Button
+                    android:id="@+id/btn_survey_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/topic_back" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_weight="5"
+                android:gravity="center_horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_survey_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:singleLine="true"
+                    android:text="@string/wechat_topic_n8"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/wechat_title_text_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="5dp"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/btn_survey_notice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/topic_gg"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btn_survey_property2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/shezhi" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <com.yunhu.android.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/lv_survey_chat"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:cacheColorHint="#00000000"
+            android:divider="#00000000"
+            android:dividerHeight="4dp"
+            android:fadingEdge="none"
+            ptr:ptrHeaderTextColor="@color/notice_detail_del_press" >
+        </com.yunhu.android.pulltorefresh.library.PullToRefreshListView>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_survey_anwer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/wechat_topic_n9" />
+
+</RelativeLayout>

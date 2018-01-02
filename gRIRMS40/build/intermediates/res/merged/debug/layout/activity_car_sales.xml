@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color"
+        android:orientation="vertical"
+        android:padding="@dimen/normal_atcionbar_pading" >
+
+        <TextView
+            android:id="@+id/ll_homeClock"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="车销现场"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!-- 车销现场展示 -->
+
+            <LinearLayout
+                android:id="@+id/ll_carsales_site"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <!-- 选择客户下拉列表 -->
+
+                    <com.yunhu.yhshxc.widget.DropDown
+                        xmlns:dd="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/sp_carsales_customer"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3sp"
+                        android:layout_weight="3.3"
+                        dd:ddMode="single_choice_fuzzy_query" />
+
+                    <!-- 筛选按钮 -->
+
+                    <Spinner
+                        android:id="@+id/sp_carsales_screen"
+                        android:layout_width="0sp"
+                        android:layout_height="41sp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="1sp"
+                        android:layout_weight="0.9"
+                        android:background="@drawable/screen" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 向客户卖货按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_sales_to_customer"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="向客户卖货"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 客户退货按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_sales_return"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="客户退货"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 收取欠款按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_collect_money"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="收取欠款"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- 库存管理展示 -->
+
+            <LinearLayout
+                android:id="@+id/ll_carsales_stock_manager"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10sp"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 装车按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_load"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_load"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 查看装车记录按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_load_record"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_load_record"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 卸车按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_unload"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_unload"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 查看卸车记录按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_unload_record"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_unload_record"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 补货申请按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_replenishment"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_replenishment"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 缺货登记按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_stockout"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_stockout"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 库存盘点按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_take_stock"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_take_stock"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- 销售统计展示 -->
+
+            <LinearLayout
+                android:id="@+id/ll_carsales_sale"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 库存统计按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_stock_statistics"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_stock_statistics"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 销售统计按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_sale_statistics"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_sale_statistics"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 缺货统计按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_stockout_statistics"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_stockout_statistics"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 欠款统计按钮 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_debt_statistics"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_debt_statistics"
+                        android:textSize="18sp" />
+                </LinearLayout>
+            </LinearLayout>
+            <!-- 数据管理展示 -->
+
+            <LinearLayout
+                android:id="@+id/ll_carsales_manager"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 未上报车销数据 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_unreport"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_unreport"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 同步促销信息 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_sysn_sales"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_sysn_sales"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 查看促销信息 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_show_sales"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_show_sales"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 同步产品信息 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_sysn_product"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_sysn_product"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 同步客户信息 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_sysn_customer"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_sysn_customer"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <!-- 费用报销 -->
+
+                    <Button
+                        android:id="@+id/btn_carsales_reimburse"
+                        android:layout_width="0sp"
+                        android:layout_height="50sp"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_btn_carsales"
+                        android:gravity="left|center_vertical"
+                        android:text="@string/str_carsales_sysn_reimburse"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal" >
+
+            <!-- 车销_车销现场按钮 -->
+
+            <LinearLayout
+                android:id="@+id/btn_carsales_site"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/app_color_bg_selector"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/bottom_carsales_one" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bottom_carsales_site"
+                    android:textColor="@drawable/text_color_selector" />
+            </LinearLayout>
+
+            <!-- 车销_库存管理按钮 -->
+
+            <LinearLayout
+                android:id="@+id/btn_carsales_stock"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0.5dp"
+                android:layout_weight="1"
+                android:background="@drawable/app_color_bg_selector"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/bottom_carsales_two" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bottom_carsales_stock"
+                    android:textColor="@drawable/text_color_selector" />
+            </LinearLayout>
+
+            <!-- 车销_销售统计按钮 -->
+
+            <LinearLayout
+                android:id="@+id/btn_carsales_sale"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0.5dp"
+                android:layout_weight="1"
+                android:background="@drawable/app_color_bg_selector"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/bottom_carsales_three" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bottom_carsales_sale"
+                    android:textColor="@drawable/text_color_selector" />
+            </LinearLayout>
+
+            <!-- 车销_管理按钮 -->
+
+            <LinearLayout
+                android:id="@+id/btn_carsales_manager"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0.5dp"
+                android:layout_weight="1"
+                android:background="@drawable/app_color_bg_selector"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/bottom_carsales_four" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bottom_carsales_data"
+                    android:textColor="@drawable/text_color_selector" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

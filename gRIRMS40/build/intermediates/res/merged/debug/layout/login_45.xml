@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/login_main_bg" >
+
+    <LinearLayout
+        android:id="@+id/login"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="240dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <EditText
+            android:id="@+id/firstUserName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:digits="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ"
+            android:hint="@string/tip_input_username"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/secondPassWord"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:hint="@string/tip_input_password"
+            android:inputType="number"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:maxLength="12"
+            android:password="true"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/func_detail_submit_btn"
+            android:padding="5dp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <CheckBox
+                android:id="@+id/cb_isshow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/record_u_p" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/register"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="240dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:visibility="visible">
+
+        <EditText
+            android:id="@+id/registerFirstUserName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:digits="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ"
+            android:hint="@string/tip_input_username"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/registerFirstPassWord"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:hint="@string/tip_input_password"
+            android:inputType="number"
+            android:maxLength="12"
+            android:password="true"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/registerSecondPassWord"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:hint="@string/tip_input_password_too"
+            android:inputType="number"
+            android:maxLength="12"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:password="true"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/registerButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/func_detail_submit_btn"
+            android:padding="5dp" />
+    </LinearLayout>
+
+</FrameLayout>

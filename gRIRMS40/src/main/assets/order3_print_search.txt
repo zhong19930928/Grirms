@@ -1,0 +1,608 @@
+[
+  {
+    "loop": 0,
+    "data":[
+      {
+        "bold": 1,
+        "sort": 37,
+        "rate": 30.875,
+        "name": "1",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 37,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 62,
+        "rate": 1.625,
+        "name": "===============================",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 34.875,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 34.875,
+        "name": "2",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 2.25,
+        "name": "订单编号：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 160,
+        "rate": 2.25,
+        "name": "订单客户：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 160,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 161,
+        "rate": 5.25,
+        "name": "4",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 161,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 196,
+        "rate": 34.875,
+        "name": "5",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 196,
+        "rate": 2.25,
+        "name": "联系人：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 196,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },      
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 34.875,
+        "name": "25",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 2.25,
+        "name": "订单金额：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 217,
+        "rate": 2.25,
+        "name": "6",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 2.125,
+        "name": "订单明细",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 285,
+        "rate": 0.625,
+        "name": "0",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 314,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 314,
+        "rate": 2.215,
+        "name": "商品名称",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 314,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 361,
+        "rate": 2.625,
+        "name": "价格",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 360,
+        "rate": 70,
+        "name": "数量",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 384,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 384,
+        "rate": 2.625,
+        "name": "小计",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 410,
+        "rate": 70,
+        "name": "折扣",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 410,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 432,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 440
+  },
+  {
+    "loop": 1,
+    "data": [
+      {
+        "bold": 0,
+        "sort": 445,
+        "rate": 2.375,
+        "name": "8",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 446,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 447,
+        "rate": 70,
+        "name": "9",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 448,
+        "rate": 2.25,
+        "name": "11",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 448,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 490,
+        "rate": 2.75,
+        "name": "12",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 512,
+        "rate": 70,
+        "name": "13",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 512,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 520
+  },
+  {
+    "loop": 0,
+    "data": [
+    	{
+        "bold": 0,
+        "sort": 525,
+        "rate": 101,
+        "name": "0",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 526,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 527,
+        "rate": 2.875,
+        "name": "赠品折扣情况",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 528,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 529
+  },
+  {
+    "loop": 2,
+    "data": [
+      {
+        "bold": 0,
+        "sort": 529,
+        "rate": 2.875,
+        "name": "14",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 529,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 530,
+        "rate": 5.875,
+        "name": "15",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 530,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+      
+    ],
+    "heit": 560
+  },
+  {
+    "loop": 0,
+    "data": [
+    	{
+        "bold": 0,
+        "sort": 565,
+        "rate": 101,
+        "name": "0",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 566,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 567,
+        "rate": 2.875,
+        "name": "26",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 568,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 569
+  },
+  {
+    "loop": 3,
+    "data": [
+      {
+        "bold": 0,
+        "sort": 569,
+        "rate": 2.875,
+        "name": "17",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 569,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 574,
+        "rate": 5.875,
+        "name": "18",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 574,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+      
+    ],
+    "heit": 580
+  },
+  {
+    "loop": 0,
+    "data": [
+      {
+        "bold": 0,
+        "sort": 585,
+        "rate": 0.625,
+        "name": "0",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 586,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 587,
+        "rate": 36.875,
+        "name": "19",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 587,
+        "rate": 2.875,
+        "name": "收款",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 588,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 590,
+        "rate": 36.375,
+        "name": "20",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 591,
+        "rate": 2.375,
+        "name": "减免：",
+        "size": 0
+      },
+      
+      {
+        "bold": 0,
+        "sort": 591,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      
+      {
+        "bold": 0,
+        "sort": 615,
+        "rate": 2.375,
+        "name": "留言：",
+        "size": 0
+      },
+       {
+        "bold": 0,
+        "sort": 616,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 616,
+        "rate": 5.375,
+        "name": "21",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 617,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 617,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 607,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 660,
+        "rate": 0.625,
+        "name": "客户签字",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 661,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 661,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 661,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 700,
+        "rate": 0.625,
+        "name": "下单人签字",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 701,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 701,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 701,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 750,
+        "rate": 0.625,
+        "name": "===============================",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 751,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 760
+  }
+]

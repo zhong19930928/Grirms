@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog
+END
+DialogLawActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/DialogLawActivity.java
+END
+CloseAppDialogActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/CloseAppDialogActivity.java
+END
+DialogGetOrgActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/DialogGetOrgActivity.java
+END
+LocationDialogForCheckIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/LocationDialogForCheckIn.java
+END
+LocationDialogForCheckOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/LocationDialogForCheckOut.java
+END
+MyProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/MyProgressDialog.java
+END
+LocationDialogForFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/LocationDialogForFunc.java
+END
+DialogLocationRuleActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/DialogLocationRuleActivity.java
+END
+AbsLocationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/AbsLocationDialog.java
+END
+DialogNoticeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/DialogNoticeActivity.java
+END
+LocationDialogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/dialog/LocationDialogListener.java
+END

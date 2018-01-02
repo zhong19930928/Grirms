@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f9f9"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp" >
+
+    <LinearLayout
+        android:id="@+id/ll_content_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/workplan_selctor"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:text="@string/evaluate"
+                android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_item_assess_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical"
+            android:text="@string/evaluate_content"
+            android:textColor="@color/work_plan_text_color"
+            android:textSize="@dimen/work_plan_content_text_size" />
+
+        <TextView
+            android:id="@+id/tv_item_assess_person"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical"
+            android:text="@string/evaluate_person"
+            android:textColor="@color/work_plan_text_color"
+            android:textSize="@dimen/work_plan_content_text_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_edit_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/workplan_selctor"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:visibility="visible" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/evaluate"
+                    android:textColor="@color/work_plan_text_color"
+                    android:textSize="@dimen/work_plan_content_text_size" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/assess_item_content_et"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="@string/input_evaluate_content"
+                android:minHeight="50dp"
+                android:paddingLeft="10dp"
+                android:textCursorDrawable="@drawable/color_cursor"
+                android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/btn_submit_assess"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/nearby_store_search_btn"
+                android:padding="5dp"
+                android:text="@string/order_submit"
+                android:textColor="@color/white"
+                android:textSize="14dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

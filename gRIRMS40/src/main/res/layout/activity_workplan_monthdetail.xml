@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f9f9"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color" >
+
+        <ImageView
+            android:id="@+id/workplan_detail_back"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:id="@+id/workplan_detail_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="3dp"
+            android:layout_centerInParent="true"
+            android:text="@string/work_plan_name15"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+    </RelativeLayout>
+
+    <view.DateSelectorView
+        android:id="@+id/workplan_detail_dateview"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:id="@+id/workplan_type_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/work_plan_name16"
+        android:layout_marginLeft="8dp"
+        android:textColor="@color/app_color"
+        android:textSize="14dp" />
+    <!-- 内容展示 -->
+
+    <ListView
+        android:id="@+id/lv_by_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:divider="@null"
+        android:background="#f9f9f9"
+        android:dividerHeight="0dp"
+        android:scrollbars="none"
+        android:listSelector="@android:color/transparent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f9f9f9" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/workplan_detail_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f9f9f9"
+                android:orientation="vertical" />
+
+            <!-- 添加工作计划 -->
+
+            <Button
+                android:id="@+id/workplan_detail_addplan"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@null"
+                android:text="@string/work_plan_name17"
+                android:textColor="@color/app_color_low"
+                android:textSize="@dimen/work_plan_content_text_size"
+                android:visibility="invisible" />
+            <!-- 评价数据容器 -->
+
+            <LinearLayout
+                android:id="@+id/workplan_Assess_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#f9f9f9"
+                android:orientation="vertical" />
+            <!-- 提交按钮 -->
+
+            <Button
+                android:id="@+id/workplan_detail_submit"
+                android:visibility="invisible"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/nearby_store_search_btn"
+                android:padding="3dp"
+                android:text="@string/work_info6"
+                android:textColor="@color/white"
+                android:textSize="16dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

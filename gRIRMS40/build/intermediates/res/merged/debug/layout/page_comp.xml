@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_paging_comp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_page_tip_comp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/paging_tip_down"
+            android:orientation="horizontal" />
+
+        <LinearLayout
+            android:id="@+id/ll_paging2_comp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll_page_mid_list_comp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/translucent2"
+                android:orientation="vertical"
+                android:padding="20dp"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundedpg_top" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundedpg_mid" >
+
+                    <ListView
+                        android:id="@+id/lv_page_mid_list_view_comp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="100dp"
+                        android:fadingEdge="none"
+                        android:scrollbars="none" >
+                    </ListView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundedpg_bottom" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_paging_cotrol_comp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/translucent2"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/ll_page_left_comp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="15"
+                    android:background="@drawable/click_paging"
+                    android:orientation="horizontal"
+                    android:padding="10dp" >
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/paging_left" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="19"
+                    android:src="@drawable/att_split" />
+
+                <LinearLayout
+                    android:id="@+id/ll_page_mid_comp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="12"
+                    android:background="@drawable/click_paging"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/tv_paging_count_comp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/paging_search" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="19"
+                    android:src="@drawable/att_split" />
+
+                <LinearLayout
+                    android:id="@+id/ll_page_right_comp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="15"
+                    android:background="@drawable/click_paging"
+                    android:orientation="horizontal"
+                    android:padding="10dp" >
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/paging_right" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

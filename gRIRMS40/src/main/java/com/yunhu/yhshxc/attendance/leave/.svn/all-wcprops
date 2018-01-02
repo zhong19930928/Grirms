@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave
+END
+PreviewLeaveAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/PreviewLeaveAdapter.java
+END
+InitiateLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/InitiateLeaveActivity.java
+END
+ReportLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/ReportLeaveActivity.java
+END
+CheckLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/CheckLeaveActivity.java
+END
+WaitForApproLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/WaitForApproLeaveActivity.java
+END
+LeaveInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/LeaveInfo.java
+END
+ThroughLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/ThroughLeaveActivity.java
+END
+PreviewLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/PreviewLeaveActivity.java
+END
+LeaveUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/LeaveUtils.java
+END
+LeaveInfoDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/LeaveInfoDB.java
+END
+AskForLeaveInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/AskForLeaveInfo.java
+END
+ApprovalLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/ApprovalLeaveActivity.java
+END
+AskForLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/AskForLeaveActivity.java
+END
+DoDeatailLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/DoDeatailLeaveActivity.java
+END
+AskForLeaveInfoDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/AskForLeaveInfoDB.java
+END
+LeaveAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/LeaveAdapter.java
+END
+ImageViewUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/ImageViewUtils.java
+END
+DoApproLeaveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/attendance/leave/DoApproLeaveActivity.java
+END

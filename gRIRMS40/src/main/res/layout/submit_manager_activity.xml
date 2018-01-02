@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/ll_title"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/normal_atcionbar_pading" >
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/back" />
+
+        <TextView
+            android:id="@+id/tv_titleName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:singleLine="true"
+             android:layout_gravity="center_vertical"
+            android:text="@string/manage_no_submit_data"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+
+        <ImageView
+            android:id="@+id/iv_submit_manager_all"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_gravity="right|center_vertical"
+            android:background="@drawable/submit_manage_all" />
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/lv_submit_manager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/notice_item_bg_press"
+        android:dividerHeight="1dp"
+        android:fadingEdge="none"
+        android:listSelector="#00000000"
+        android:scrollbars="none" />
+
+</LinearLayout>

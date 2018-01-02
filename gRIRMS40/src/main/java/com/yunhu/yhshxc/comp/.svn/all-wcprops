@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/40300/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp
+END
+ScanInputCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/ScanInputCode.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/Component.java
+END
+TextComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/TextComp.java
+END
+EditComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/EditComp.java
+END
+SqlInComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/SqlInComp.java
+END
+CheckboxComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/CheckboxComp.java
+END
+TitleBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/TitleBar.java
+END
+ScanInputCodeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/ScanInputCodeTable.java
+END
+TimeInTableComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/TimeInTableComp.java
+END
+TaskListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/TaskListItem.java
+END
+CompDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/CompDialog.java
+END
+EditCompFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/EditCompFunc.java
+END
+EditRangeComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/EditRangeComp.java
+END
+NotifyListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/NotifyListItem.java
+END
+DoubleListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/DoubleListItem.java
+END
+PreviewTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/PreviewTable.java
+END
+DatePickerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/DatePickerComp.java
+END
+DateInTableComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/DateInTableComp.java
+END
+CameraCompForLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/CameraCompForLink.java
+END
+ScanInTableComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/ScanInTableComp.java
+END
+PhotoInTableComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/PhotoInTableComp.java
+END
+CameraComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/CameraComp.java
+END
+DatePickerRangeComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/DatePickerRangeComp.java
+END
+HiddenCompInTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/HiddenCompInTable.java
+END
+MediaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/MediaManager.java
+END
+TimePickerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/TimePickerComp.java
+END
+ProductCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/ProductCode.java
+END
+DoubleDetailItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/DoubleDetailItem.java
+END
+RadiobtnComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/RadiobtnComp.java
+END
+ProductCodeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/ProductCodeTable.java
+END
+ProductCodeInTableComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/ProductCodeInTableComp.java
+END
+TimeRangeComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/TimeRangeComp.java
+END
+AbsCameraComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/AbsCameraComp.java
+END

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:81
+-keep class com.yunhu.yhshxc.application.SoftApplication { <init>(...); }
+

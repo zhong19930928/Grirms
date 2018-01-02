@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="185dp"
+    android:orientation="vertical"
+    android:background="@color/app_color_backgroud2"
+    android:paddingTop="25dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    >
+    <RelativeLayout android:layout_width="match_parent"
+        android:background="@drawable/circle_shape_bg_secpageleft"
+        android:layout_height="160dp">
+
+        <ImageView
+            android:layout_marginLeft="25dp"
+            android:id="@+id/leftIcon"
+            android:layout_width="150dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/rightIcon"
+            android:layout_toEndOf="@+id/rightIcon" />
+
+
+        <TextView
+            android:id="@+id/label"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="test"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:background="@drawable/secpage_button_bg"
+            android:layout_marginRight="25dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <ImageView
+            android:id="@+id/rightIcon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:visibility="gone"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/right" />
+    </RelativeLayout>
+</LinearLayout>

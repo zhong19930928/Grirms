@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/40300/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner
+END
+SingleSpinnerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/SingleSpinnerComp.java
+END
+SingleSpinner.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/SingleSpinner.java
+END
+FuzzySingleChoiceSpinnerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/FuzzySingleChoiceSpinnerComp.java
+END
+MultiChoiceSpinnerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/MultiChoiceSpinnerComp.java
+END
+AbsSelectComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grirms4/!svn/ver/40300/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/AbsSelectComp.java
+END
+OnMuktiChiceSelecteLister.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/OnMuktiChiceSelecteLister.java
+END
+SingleChoiceSpinnerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/SingleChoiceSpinnerComp.java
+END
+FuzzyMultiChoiceSpinnerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/FuzzyMultiChoiceSpinnerComp.java
+END
+OnSingleSpinnerSeclectLisner.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/OnSingleSpinnerSeclectLisner.java
+END
+SpinnerComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/comp/spinner/SpinnerComp.java
+END

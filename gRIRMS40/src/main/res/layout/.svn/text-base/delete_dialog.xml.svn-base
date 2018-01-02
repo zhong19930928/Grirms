@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/home_menu_fix_white"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_medium" >
+
+    <TextView
+        android:id="@+id/txt_pop_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/TIP"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/padding_large"
+        android:layout_marginTop="@dimen/padding_large" >
+
+        <TextView
+            android:id="@+id/txt_pop_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/do_delete"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dialog_btn_parent_height"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="5dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_pop_ok"
+            style="@style/dialogConfirmButton"
+            android:text="@string/confirm" />
+
+        <Button
+            android:id="@+id/btn_pop_cancel"
+            style="@style/dialogCancleButton"
+            android:layout_toLeftOf="@+id/btn_pop_ok"
+            android:text="@string/cancel" />
+    </RelativeLayout>
+
+</LinearLayout>

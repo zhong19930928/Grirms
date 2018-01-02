@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F0EEEF"
+    tools:context="com.yunhu.yhshxc.inspection.InspectionTaskActivity">
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#4e87ca">
+
+        <RelativeLayout
+            android:id="@+id/person_back"
+            android:layout_width="50dp"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/activity_back" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="巡检任务"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/task_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:divider="#eceaea"
+        android:dividerHeight="1dp"
+        ></ListView>
+
+
+</LinearLayout>

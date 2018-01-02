@@ -1,0 +1,35 @@
+10
+
+dir
+0
+http://192.168.101.7/svn/grirms4/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/values-v19
+http://192.168.101.7/svn/grirms4
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+40db2b6d-9648-4fb4-b5dc-c8fa41e7a6e8
+
+styles.xml
+file
+
+
+
+add
+

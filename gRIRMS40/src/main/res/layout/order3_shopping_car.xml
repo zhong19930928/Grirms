@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+    <LinearLayout
+        android:id="@+id/ll_shopping_car_order3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/app_color"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="购物车"
+                android:textColor="@color/white"
+                android:textSize="28sp" />
+        </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_shopping_car"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:divider="@color/order3_search_divider"
+        android:dividerHeight="0.5dp"
+        android:layout_below="@+id/ll_shopping_car_order3"
+        android:layout_above="@+id/tv_shopping_car_allmoney" >
+    </ListView>
+
+ 
+
+    <TextView
+        android:id="@+id/tv_shopping_car_allmoney"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:paddingTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="18sp"
+        android:paddingLeft="5dp"
+        android:textColor="@color/order3_search_num"
+        android:text="共计: ￥ 0.00" />
+
+</RelativeLayout>

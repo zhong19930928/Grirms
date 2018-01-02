@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_search_ordetail_item_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center_vertical"
+            android:lines="2"
+            android:text="客户名称"
+            android:textColor="@color/black"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+
+        <TextView
+            android:id="@+id/tv_search_ordetail_item_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="2015-06-01"
+            android:textColor="@color/black"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_search_ordetail_item_bianhao"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:gravity="center_vertical"
+            android:text="1506010000000001"
+            android:textColor="@color/black"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+
+        <TextView
+            android:id="@+id/tv_search_ordetail_item_status"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="@color/black"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+
+        <TextView
+            android:id="@+id/tv_search_ordetail_item_money"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center_vertical|right"
+            android:textColor="@color/black"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size" />
+    </LinearLayout>
+
+</LinearLayout>

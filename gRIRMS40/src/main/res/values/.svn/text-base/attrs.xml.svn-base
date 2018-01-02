@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MaterialTextView">
+        <attr name="maskColor" format="color" />
+    </declare-styleable>
+    <!-- <string name="back">返回</string> -->
+
+    <string name="index_apply_order">申请订单</string>
+    <string name="index_library_order">出库订单</string>
+    <string name="index_slide_message">消息管理</string>
+    <string name="index_slide_set">系统设置</string>
+    <string name="login_account">帐号</string>
+    <string name="login_pwd">密码</string>
+    <string name="login_factory">厂区选择</string>
+    <string name="login_login">登录</string>
+
+    <declare-styleable name="LoadingView">
+        <attr name="loadingText" format="string" />
+        <attr name="loadingTextAppearance" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="RatingBar">
+
+        <!-- 尺寸值 -->
+        <attr name="starImageSize" format="dimension" />
+        <!-- 星星间距 -->
+        <attr name="starPadding" format="dimension" />
+        <!-- 星星总数 -->
+        <attr name="starCount" format="integer" />
+        <!-- 空白的星星资源文件值 -->
+        <attr name="starEmpty" format="reference" />
+        <!-- 满星资源文件值 -->
+        <attr name="starFill" format="reference" />
+        <!-- 半星资源文件值 -->
+        <attr name="starHalf" format="reference" />
+        <!-- 是否可点击boolean值 -->
+        <attr name="clickable" format="boolean" />
+        <!-- 当前进度float值 -->
+        <attr name="starStep" format="float" />
+        <!-- 每次进度方式的值，整星还是半星 -->
+        <attr name="stepSize">
+            <enum name="Half" value="0" />
+            <enum name="Full" value="1" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="DateSelectorView">
+
+        <!-- 前面日期spinner的字体颜色 -->
+        <attr name="spinner_textcolor" format="color" />
+        <!-- 日期类型字体颜色 -->
+        <attr name="number_textcolor" format="color" />
+    </declare-styleable>
+
+    <attr name="cbd_calendar_row" format="integer" />
+
+    <declare-styleable name="CalendarDateView">
+        <attr name="cbd_calendar_row" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="androidWheelView">
+        <attr name="awv_textsize" format="integer" />
+        <attr name="awv_lineSpace" format="float" />
+        <attr name="awv_centerTextColor" format="integer" />
+        <attr name="awv_outerTextColor" format="integer" />
+        <attr name="awv_dividerTextColor" format="integer" />
+        <attr name="awv_itemsVisibleCount" format="integer" />
+        <attr name="awv_isLoop" format="boolean" />
+        <attr name="awv_initialPosition" format="integer" />
+        <attr name="awv_scaleX" format="float" />
+    </declare-styleable>
+
+
+    <declare-styleable name="SeatTableView">
+        <attr name="seat_checked_top" format="reference" />
+        <attr name="seat_checked_bottom" format="reference" />
+        <attr name="seat_checked_left" format="reference" />
+        <attr name="seat_checked_right" format="reference" />
+        <attr name="seat_sold_top" format="reference" />
+        <attr name="seat_sold_bottom" format="reference" />
+        <attr name="seat_sold_left" format="reference" />
+        <attr name="seat_sold_right" format="reference" />
+        <attr name="seat_available_top" format="reference" />
+        <attr name="seat_available_bottom" format="reference" />
+        <attr name="seat_available_left" format="reference" />
+        <attr name="seat_available_right" format="reference" />
+        <attr name="seat_fix_top" format="reference" />
+        <attr name="lseat_checked_top" format="reference" />
+        <attr name="lseat_sold_top" format="reference" />
+        <attr name="lseat_available_top" format="reference" />
+        <attr name="lseat_fix_top" format="reference" />
+
+        <attr name="overview_sold" format="color" />
+        <attr name="overview_checked" format="color" />
+        <attr name="txt_color" format="color"/>
+    </declare-styleable>
+
+</resources>

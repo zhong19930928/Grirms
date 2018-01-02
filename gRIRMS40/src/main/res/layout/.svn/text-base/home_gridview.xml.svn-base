@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="315dp"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tv_home_gr"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_marginLeft="15dp"
+        android:gravity="center_vertical"
+        android:text="职场生活"
+        android:textStyle="bold"
+        android:textColor="@color/home_titlte_co"
+        android:textSize="16sp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray_deep"/>
+    <GridView
+        android:id="@+id/home_gridview1"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:background="@color/gray_deep"
+        android:horizontalSpacing="0.5dp"
+        android:verticalSpacing="0.5dp"
+        android:numColumns="2">
+    </GridView>
+</LinearLayout>

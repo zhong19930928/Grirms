@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <LinearLayout
+            android:id="@+id/ll_send_mark_amount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="订单金额"
+                android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/tv_order3_send_mark_amount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                android:textColor="@color/red" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="收款"
+                android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                android:textColor="@color/black" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:background="@color/gray_main"
+                android:orientation="horizontal"
+                android:padding="0.1dp" >
+
+                <EditText
+                    android:id="@+id/et_order3_send_sk"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:inputType="number|numberDecimal"
+                    android:background="@color/white" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="元"
+                android:visibility="gone"
+                android:textSize="@dimen/order3_xiadan_yulan_text_size"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="留言"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size"
+            android:textColor="@color/black" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@color/gray_main"
+            android:orientation="horizontal"
+            android:padding="0.1dp" >
+
+            <EditText
+                android:id="@+id/et_order3_send_message"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:textCursorDrawable="@drawable/color_cursor"
+                android:gravity="top"
+                android:background="@color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

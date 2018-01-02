@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f9f9f9"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:id="@+id/ll_title_txl"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:padding="@dimen/normal_atcionbar_pading"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="horizontal"
+        android:gravity="center_vertical" >
+        <ImageView
+            android:id="@+id/iv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:src="@drawable/activity_back"
+            android:layout_marginLeft="10dp"
+            android:paddingRight="20dp"
+            android:visibility="visible"/>
+        <TextView
+            android:id="@+id/tv_title_address"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="添加同行人"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+        <TextView
+            android:id="@+id/tv_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/confirm"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/leave_name_text_size"
+            android:visibility="invisible"/>
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:paddingLeft="10dp"
+         >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:layout_margin="20dp"
+            android:orientation="vertical" >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:textSize="14sp"
+                    android:text="同行人"/>
+                <EditText
+                    android:id="@+id/et_txr_name"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:hint="姓名"
+                    android:paddingLeft="10dp"
+                    android:textSize="14sp"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:textSize="14sp"
+                    android:text="+86"/>
+                <EditText
+                    android:id="@+id/et_txr_number"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:hint="手机号"
+                    android:textSize="14sp"
+                    android:paddingLeft="10dp"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/iv_txl_lxr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/txl_txr"
+            android:layout_margin="20dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn_cancel_txr"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="取消 "
+            android:padding="3dp"
+
+            android:textSize="14sp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:background="@drawable/btn_selector_blue3"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"/>
+        <Button
+            android:id="@+id/btn_confirm_txr"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:text="确定 "
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:background="@drawable/btn_selector_blue1"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="40dp"/>
+    </LinearLayout>
+
+
+</LinearLayout>

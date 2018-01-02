@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp" >
+
+    <TextView
+        android:id="@+id/tv_weekday"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/contents_text" />
+
+    <Spinner
+        android:id="@+id/sp_attendance"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/pic_attend_select" />
+
+    <LinearLayout
+        android:id="@+id/attendance_item_worktime"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="2.5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <Button
+            android:id="@+id/tv_worktime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:textColor="@color/contents_text"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_offtime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:textColor="@color/contents_text"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/attendance_item_leave"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="2.5"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:visibility="visible" >
+
+        <RadioGroup
+            android:id="@+id/rg_aaaa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/btn_all_day"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@drawable/rb_select"
+                android:text="@string/attendance_shedul_allday"
+                android:gravity="center"
+                android:layout_marginLeft="10dp"
+                android:checked="true"
+                android:textColor="@color/contents_text" />
+
+            <RadioButton
+                android:id="@+id/btn_half_day"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@drawable/rb_select"
+                android:text="@string/attendance_shedul_half_day"
+                android:gravity="center"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/contents_text" />
+        </RadioGroup>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|bottom"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/popupwindowbg"
+        android:orientation="vertical"
+        android:padding="20dp" >
+
+        <Button
+            android:id="@+id/btn_nearby_visit_history_pup_search"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/nearby_btn_bg"
+            android:padding="5dp"
+            android:text="@string/attendance_search"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_nearby_visit_history_pup_update"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/nearby_btn_bg"
+            android:padding="5dp"
+            android:text="@string/change_"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_nearby_visit_history_pup_verify"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/nearby_btn_bg"
+            android:padding="5dp"
+            android:text="@string/audit_"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

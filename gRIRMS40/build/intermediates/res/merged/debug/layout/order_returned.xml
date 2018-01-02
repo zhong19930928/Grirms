@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@android:color/white">
+
+	<TextView
+		android:id="@+id/title"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="@dimen/order_title_text_size"
+	    android:textColor="@android:color/white"
+	    android:background="@color/app_color"
+	    android:padding="@dimen/order_padding_title" />
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/title"
+		android:layout_above="@+id/order">
+
+		<LinearLayout
+			android:id="@+id/container"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+
+			<Button
+				android:id="@+id/returned"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textSize="@dimen/order_button_text_size"
+				android:textColor="@android:color/white"
+				android:text="@string/order_returned_add"
+				android:gravity="left|center_vertical"
+				android:background="@drawable/order_round_item_btn"
+				android:drawableRight="@drawable/order_add"
+				android:padding="@dimen/order_padding_large"
+				android:layout_margin="@dimen/order_padding" />
+		</LinearLayout>
+	</ScrollView>
+
+	<TextView
+		android:id="@+id/order"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	    android:textSize="@dimen/order_default_text_size"
+	    android:textColor="@android:color/black"
+		android:paddingLeft="@dimen/order_padding"
+		android:paddingTop="@dimen/order_padding"
+		android:paddingBottom="@dimen/order_padding"
+		android:layout_above="@+id/submit"
+		android:layout_marginBottom="1dp" />
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:layout_below="@+id/order"
+		android:background="@android:color/darker_gray" />
+	
+	<Button
+		android:id="@+id/submit"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/order_submit"
+		android:textColor="@android:color/white"
+		android:textSize="@dimen/order_button_text_size"
+		android:background="@drawable/order_menu_click"
+		android:paddingLeft="@dimen/order_padding_large"
+		android:paddingRight="@dimen/order_padding_large"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:layout_margin="@dimen/order_padding"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" />
+</RelativeLayout>

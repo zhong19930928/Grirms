@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/et_pCode"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:hint="@string/input_code"
+            android:layout_marginRight="5dp"
+            android:background="@color/gray_light"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890" />
+         <ImageButton 
+            android:id="@+id/btn_pCode_scanf"
+            android:layout_width="wrap_content"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/scan_ontouch_selector"           
+            android:layout_height="wrap_content"/> 
+ 
+<!--         <Button
+            android:id="@+id/btn_pCode_scanf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/scan_app_color"
+            android:padding="5dp"
+            android:text="@string/product_code_scan"
+            android:textColor="@color/white"
+            android:textSize="24sp" /> -->
+    </LinearLayout>
+
+</LinearLayout>

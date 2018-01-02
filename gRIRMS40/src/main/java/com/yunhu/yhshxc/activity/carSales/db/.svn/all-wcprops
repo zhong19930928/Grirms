@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db
+END
+CarSalesContactsDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesContactsDB.java
+END
+CarSalesDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesDB.java
+END
+CarSalesShoppingCartDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesShoppingCartDB.java
+END
+CarSalesStockDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesStockDB.java
+END
+CarSalesProductCtrlDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesProductCtrlDB.java
+END
+CarSalesProductConfDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesProductConfDB.java
+END
+CarSalesPromotionDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesPromotionDB.java
+END
+CarSalesProductDataDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/db/CarSalesProductDataDB.java
+END

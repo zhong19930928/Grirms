@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/ll_func_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/func_menu_onclick" >
+
+        <RelativeLayout
+            android:id="@+id/rela_v1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:minHeight="60dp" >
+
+            <ImageView
+                android:id="@+id/iv_func_icon"
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/icon_upload" />
+
+            <TextView
+                android:id="@+id/tv_func_cnName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="8dp"
+                android:layout_toRightOf="@id/iv_func_icon"
+                android:ems="6"
+                android:gravity="left"
+                android:singleLine="false"
+                android:text=""
+                android:textColor="@color/func_menu_button_click"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/tv_func_content"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="16dp"
+                android:gravity="right|center"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#808080"
+                android:textSize="14dp" />
+
+            <ImageView
+                android:id="@+id/iv_func_check_mark"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/hook"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/iv_func_photo"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:visibility="gone" />
+
+            <RelativeLayout
+                android:id="@+id/iv_func_photo_container"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="16dp"
+                android:gravity="right"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_menu_table_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rela_v1"
+            android:orientation="vertical" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/line_new1" />
+
+</LinearLayout>

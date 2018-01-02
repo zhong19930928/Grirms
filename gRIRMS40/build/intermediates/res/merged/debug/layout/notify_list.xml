@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="vertical"
+        android:padding="@dimen/normal_atcionbar_pading" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/notify_list_head_ch"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/notify_list_listView"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="6"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/notice_item_bg_press"
+        android:dividerHeight="1dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="true"
+        android:scrollbars="none" />
+
+</LinearLayout>

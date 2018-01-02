@@ -1,0 +1,355 @@
+[
+  {
+    "loop": 0,
+    "data":[
+      {
+        "bold": 1,
+        "sort": 37,
+        "rate": 37.875,
+        "name": "1",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 37,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 62,
+        "rate": 1.625,
+        "name": "===============================",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 34.875,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 34.875,
+        "name": "2",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 2.25,
+        "name": "订单编号：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 86,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 122,
+        "rate": 34.875,
+        "name": "3",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 123,
+        "rate": 2.25,
+        "name": "订单时间：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 123,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      
+      {
+        "bold": 0,
+        "sort": 161,
+        "rate": 2.25,
+        "name": "订单客户：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 161,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 161,
+        "rate": 7.25,
+        "name": "4",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 161,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+     
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 2.125,
+        "name": "订单明细",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 280,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 249,
+        "rate": 0.625,
+        "name": "0",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 249,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 314,
+        "rate": 2.215,
+        "name": "商品名称",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 350,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 360,
+        "rate": 2.215,
+        "name": "数量",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 360,
+        "rate": 70,
+        "name": "单位",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 384,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+    
+      {
+        "bold": 0,
+        "sort": 432,
+        "rate": 0.625,
+        "name": "0",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 432,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 440
+  },
+  {
+    "loop": 1,
+    "data": [
+      {
+        "bold": 0,
+        "sort": 445,
+        "rate": 2.375,
+        "name": "8",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 450,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 447,
+        "rate": 2.375,
+        "name": "9",
+        "size": 0
+      },
+     {
+        "bold": 0,
+        "sort": 447,
+        "rate": 70,
+        "name": "11",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 512,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 520
+  },
+ 
+  {
+    "loop": 0,
+    "data": [
+      {
+        "bold": 0,
+        "sort": 565,
+        "rate": 0.625,
+        "name": "0",
+        "size": 0
+      },
+      
+      {
+        "bold": 0,
+        "sort": 581,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+     
+      {
+        "bold": 0,
+        "sort": 606,
+        "rate": 2.375,
+        "name": "留言：",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 607,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+       {
+        "bold": 0,
+        "sort": 606,
+        "rate": 7.375,
+        "name": "18",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 607,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 607,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 660,
+        "rate": 0.625,
+        "name": "客户签字",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 661,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 661,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 661,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 700,
+        "rate": 0.625,
+        "name": "下单人签字",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 701,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 701,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 701,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 750,
+        "rate": 0.625,
+        "name": "===============================",
+        "size": 0
+      },
+      {
+        "bold": 0,
+        "sort": 751,
+        "rate": 101,
+        "name": "10",
+        "size": 0
+      }
+    ],
+    "heit": 760
+  }
+]

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="5dp"
+    android:background="#f9f9f9"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp" >
+    
+ 
+
+        <LinearLayout
+            android:id="@+id/ll_gz_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/workplan_selctor"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/work_summary"
+                android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+            <TextView
+                android:id="@+id/tv_summary_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@null"
+                android:gravity="top|left"
+                android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />              
+            </LinearLayout>
+
+          
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:id="@+id/ll_summary_photo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            
+
+            <LinearLayout
+                android:id="@+id/ll_summay_voice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_gz_create"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/workplan_selctor"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="10dp" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:text="@string/add_work_summary"
+                android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+            
+        </LinearLayout>
+    
+</LinearLayout>

@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll_home "
+            android:layout_width="wrap_content"
+   			
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:paddingTop="5dip"
+            android:background="@drawable/nearby_visit_detail_btn"
+            android:onClick="LayoutOnclickMethod"
+            android:orientation="vertical"
+            android:paddingBottom="5dp" >
+
+            <ImageView
+                android:id="@+id/img_collection "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_collection "
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                
+                android:text="首页"
+                android:gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <include layout="@layout/order3_location_bar_yulan" />
+
+        <include layout="@layout/order3_location_bar" />
+    </LinearLayout>
+
+</LinearLayout>

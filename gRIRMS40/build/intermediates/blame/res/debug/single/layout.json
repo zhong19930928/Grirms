@@ -1,0 +1,2782 @@
+[
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\popmenu_list_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\popmenu_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_scheduling.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_attendance_scheduling.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wechat_content_videoview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_wechat_content_videoview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\water_mark.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\water_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_order_back.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\confirm_order_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmroomdetails2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_bookmroomdetails2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_dialog_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_dialog_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\apply_for_reimbursement_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\apply_for_reimbursement_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\actiity_question_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\actiity_question_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\select_photo_review.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\select_photo_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_approval.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_approval.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_1.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_view3.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_view3.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_content_item_more_button.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_content_item_more_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_group_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_group_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\chat_view_right.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\chat_view_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\photo.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\popwindows_goback.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\popwindows_goback.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scans200.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_scans200.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_for_leave_check.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_for_leave_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_content_detail_list_head.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_content_detail_list_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_msg_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_msg_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_edittext_range_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_edittext_range_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\card_popupwindow.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\card_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_sales_main_shopping_car.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_sales_main_shopping_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_photo_items.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_photo_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\push_progress_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\push_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\time_wheel.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\time_wheel.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_gridview_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\zr_module_mine_item2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\zr_module_mine_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\help_question_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\help_question_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\submit_store_loc_fail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\submit_store_loc_fail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_meetingagenda_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_meetingagenda_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notify_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\notify_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notify_list_loading.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\notify_list_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mybills_details_new.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_mybills_details_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_store_map_tuba_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_store_map_tuba_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_survey_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_survey_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_stock_update.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_stock_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_notice.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_chanpinxinxi.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_chanpinxinxi.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_book_all.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_book_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\new_double_btn_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\new_double_btn_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\pics_preview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\pics_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_personal_edit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_personal_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\date__spinner_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\date__spinner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wechat_content_voiceview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_wechat_content_voiceview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_approval_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_approval_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_contact.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_gathering_message.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_gathering_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\todo_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\todo_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_leave_item_shenpi.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_leave_item_shenpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_store_detail_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_store_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\work_summary_detail_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\work_summary_detail_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\record_audition.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\record_audition.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_product_code_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_product_code_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_notice_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_notice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\carsales_debt_search_result_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\carsales_debt_search_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\module_item_left3.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\module_item_left3.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\screen_spinner_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\screen_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\show_big_pic.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\show_big_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_work_plan_assess.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_work_plan_assess.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\new_double_btn_more.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\new_double_btn_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\location_tip.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\location_tip.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\loading_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\login_yili.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\login_yili.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\stationlist_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\stationlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\custom_drop_down_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\custom_drop_down_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\question_common_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\question_common_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_stencil_prompt.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_stencil_prompt.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_questionnaire.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_questionnaire.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inspection_task.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_inspection_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_data_view_c.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_data_view_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notify_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\notify_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\checkout_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\checkout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_scale_shopping_car.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_scale_shopping_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_message.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_list_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_create.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\web_view_util_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\web_view_util_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_search_explain_fragmen.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_search_explain_fragmen.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_detail_fragment.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\show_image.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\show_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\search_list_new.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\search_list_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_asset.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exchange_wechat.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_exchange_wechat.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\delelte_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\delelte_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\init.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\init.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_comp_date.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_comp_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\new_double_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\new_double_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_content_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_content_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_sales_loading_record.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_sales_loading_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_zengpin_order_detail_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_zengpin_order_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_returned.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_returned.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_spinner_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_main_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wechat_content_fileview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_wechat_content_fileview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_xiaomi.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_xiaomi.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_content.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_fuzzy_multi_choice_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_fuzzy_multi_choice_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_book_zhiwei.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_book_zhiwei.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_calendar_card.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_calendar_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_chat_item_one.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_chat_item_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zrmodule_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_zrmodule_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoalbum.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_photoalbum.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_over.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\homepage_notice_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\homepage_notice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\sdcard_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\sdcard_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\func_layout_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\func_layout_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\func_.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\func_.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\txr_item_contract.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\txr_item_contract.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_publish.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_topic.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_create_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\new_double_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\new_double_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\card_row.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\card_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\slidingmenu_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_notice_item_fujian.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_notice_item_fujian.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_focus.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_store_map_bd_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_store_map_bd_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_comp_multiple_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_comp_multiple_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notice_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_notice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\card_popupwindow_title.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\card_popupwindow_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_product_info.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_product_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visitor_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_visitor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_xiangxi.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_xiangxi.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_detail_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_detail_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order2_main_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order2_main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\multi_choice_search_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\multi_choice_search_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mybills.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_mybills.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_zrmodule_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_zrmodule_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\cbk_list_item_calendar.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\cbk_list_item_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\double_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\double_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carsales_stock_statistics_new.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_carsales_stock_statistics_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\syncdata_item_view_group.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\syncdata_item_view_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\todo_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\todo_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_mybills_listview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_mybills_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\paging_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\paging_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_sales_loading_record_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_sales_loading_record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\module_layout_history.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\module_layout_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_book.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\product_code_show_info_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\product_code_show_info_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wechat_submit_content.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_wechat_submit_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\title_flow_indicator_v2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\title_flow_indicator_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\scrollviewitem.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\scrollviewitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_location_bar.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_location_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\load.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\load.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\location_gps_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\location_gps_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_search_list_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_search_list_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_listview_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_group_view_header.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_group_view_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_search_ordetail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_search_ordetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_meetroom.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_meetroom.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zrlogin.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_zrlogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\link_priview_data_item_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\link_priview_data_item_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_question_preview_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_question_preview_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\link_priview_data_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\link_priview_data_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_txr_contract.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_txr_contract.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\choose_griditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\date_intable_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\date_intable_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_inspection.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_listview_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\web_report_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\web_report_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_stencil_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_stencil_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\manager_report_trip_detail_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\manager_report_trip_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_query.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_book_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_book_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_search_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_search_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\txr_item_listview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\txr_item_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\foot_listview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\foot_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_order.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\confirm_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_drable.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_drable.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\timepickercomp_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\timepickercomp_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_main_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_calendar.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newagenda.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_newagenda.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_company_file.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_company_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_store_detail_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_store_detail_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_for_leave_report.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_for_leave_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_manager_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_manager_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\visit_fuzz_query.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\visit_fuzz_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_storeinfo.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_storeinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\tip_layout_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\tip_layout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\select_images_from_local1.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\select_images_from_local1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\double_detail_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\double_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_chat.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\sprinner_check_item2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\sprinner_check_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\meetinglist_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\meetinglist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_date_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_date_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_linechart_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_linechart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delte_tempstore.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_delte_tempstore.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\reprot_item_loudou.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\reprot_item_loudou.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_asset_inventory.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_asset_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\layout_camera_control.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\layout_camera_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\scan_in_table_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\scan_in_table_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_store_map_gd_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_store_map_gd_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_product_detai_discount_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_product_detai_discount_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\checkoutlayout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\checkoutlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_location_rule.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_location_rule.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\task_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\task_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_location_bar.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_location_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_station_reserve_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_station_reserve_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_question_preview_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_question_preview_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\load_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\load_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\module_item_gvitem.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\module_item_gvitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workplan_create_new_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_workplan_create_new_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_inspection.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_gridview_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_kh.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_kh.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\confirmsup_listitem.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\confirmsup_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_invebtory.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_invebtory.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\actiity_question_result_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\actiity_question_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_content_item_edit_text.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_content_item_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_scale_selling_goods_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_scale_selling_goods_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\video_priview_data_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\video_priview_data_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\button_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\button_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_list_item_children.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_list_item_children.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_table_delete.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_table_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\date_in_table_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\date_in_table_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_defined.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\spinner_item_defined.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\photo_in_table_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\photo_in_table_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\record_priview_data_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\record_priview_data_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\txr_item_contract_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\txr_item_contract_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\replenish_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\replenish_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\commom_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_multi_choice_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_multi_choice_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\chat_view_left.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\chat_view_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\carsales_sale_condition_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\carsales_sale_condition_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\search_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_carsales_stock_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_carsales_stock_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_yulan.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_yulan.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_setting.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_personal_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_list_item_children.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_list_item_children.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_product_detai.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_product_detai.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_date_range_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_date_range_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmroomdetails.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_bookmroomdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wechat_exchange_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_wechat_exchange_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_zengpin_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_zengpin_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_stock_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_stock_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\record_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\record_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\photo_review_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\photo_review_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_preview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_meeting_user.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_meeting_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_spinner_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_spinner_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\replenish_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\replenish_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_choose.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_search_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_content.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\delete_prompt.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\delete_prompt.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\card_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_sales_charge_arrears_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_sales_charge_arrears_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_scale_loading_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_scale_loading_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\query_table.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\query_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\radiobtn_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\radiobtn_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\func_btn_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\func_btn_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_new.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_scale_return_goods_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_scale_return_goods_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_store.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_add_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_gridview2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_gridview2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_fuzzy_single_choice_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_fuzzy_single_choice_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\help_instructions.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\help_instructions.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\get_push_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\get_push_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\stationfloorlist_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\stationfloorlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\net_exception_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\net_exception_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\apk_version.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\apk_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_question_preview_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_question_preview_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\slidingmenu_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_left_menu_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_left_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\videoplay.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\videoplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workplan_tip.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_workplan_tip.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_photo.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\init_nearby_store_location_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\init_nearby_store_location_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_show.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_image_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_search_result_fragment.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_search_result_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_work_summary_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_work_summary_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_products_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_products_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\help_popupwindow.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\help_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dmax_spots_dialog.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\3b1f09410de6370dfc05adcd53a73d12c5114330\\output\\res\\layout\\dmax_spots_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_p_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_p_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_text_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\spinner_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\pcode_info_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\pcode_info_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_demo.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\select_comp_single.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\select_comp_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_user.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_group_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kt40_scaning.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_kt40_scaning.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_work_summary_assess.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_work_summary_assess.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\items_jumpgridview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\items_jumpgridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_search_ordetail_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_search_ordetail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_topic_history.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_topic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_pomenu_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_pomenu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\location_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\location_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\syncdata_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\syncdata_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\mybills_items_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\mybills_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_info_sync_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_info_sync_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_choose_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_choose_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notify_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\notify_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\date_range_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\date_range_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_list_item_children_new.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_list_item_children_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_view5.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_view5.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\message_itme.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\message_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\seatinfopop_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\seatinfopop_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wechat_exchange_gridview_tiem.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_wechat_exchange_gridview_tiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_activity_main_shopping_car.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_activity_main_shopping_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\card_cell.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\card_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_shopping_car.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_shopping_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abs_car_sales_statistics.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\abs_car_sales_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist_company.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_regist_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\single_choice_view_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\single_choice_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_expalination.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_expalination.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_show_photo.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_show_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales_statistics.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_sales_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_date_range_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_date_range_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\back_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\back_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\syncdata_item_view_group_head.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\syncdata_item_view_group_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_survey.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_survey.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\list_func_view_t1.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\list_func_view_t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homesecond.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_homesecond.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\pay_order_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\pay_order_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_asset_surplus.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_asset_surplus.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\push_test.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\push_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_search_result_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_search_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_order_back_head.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\confirm_order_back_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mee_ting_date.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_mee_ting_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\add_approval_sub_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\add_approval_sub_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_sigle_chat.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_sigle_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\sprinner_check_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\sprinner_check_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\zrmodule_menu_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\zrmodule_menu_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_all_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_all_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\search_result_item_t1.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\search_result_item_t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\ask_for_off_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\ask_for_off_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_group.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\popupwindow_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\double_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\double_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_person_info.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\fragment_person_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_select_photo_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_select_photo_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_title_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_message_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_message_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\scheduling_search_result.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\scheduling_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_sales_charge_arrears_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_sales_charge_arrears_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_info_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_info_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abs_nearby_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\abs_nearby_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_address_book.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\fragment_address_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_approval_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_approval_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\addstation_popupwindow.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\addstation_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_meetroom.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_book_meetroom.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\info_detail_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\info_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_zengpin.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_zengpin.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_store_map_mb_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_store_map_mb_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_view1.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_view1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_time_range_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_time_range_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\login_45.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\login_45.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_chat_topic.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_chat_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_data_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment_questions.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_comment_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_txr_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_txr_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\multi_choice_search_itme.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\multi_choice_search_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_txr.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_txr.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_combine_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_combine_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\submit_fail_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\submit_fail_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\search_list_dialogview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\search_list_dialogview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist_explain.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_regist_explain.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\titled_fragment_tab_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\titled_fragment_tab_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\sql_big_data_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\sql_big_data_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_sale_create.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_sale_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_scale_gethering_message.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_scale_gethering_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_da_yin_ding_dan.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_da_yin_ding_dan.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_content_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_content_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_for_leave.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_for_leave.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_3.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_viewpager.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_selet.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_selet.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_down_photo_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_down_photo_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_content_preview_after_sbumit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_content_preview_after_sbumit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_barchart_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_barchart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_preview_item_select_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_preview_item_select_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_content_item_view_one.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_content_item_view_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\udb_tip_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\udb_tip_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\page_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\page_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_single_choice_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_single_choice_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_all_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_all_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\syncdata_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\syncdata_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\photo_popupwindow.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\photo_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\photoalbum_gridview_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\photoalbum_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\selector_btn_cycle_blue.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\selector_btn_cycle_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_list_item_children_unit_new.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_list_item_children_unit_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_agendadatepege.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_agendadatepege.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\time_range_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\time_range_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fileupload.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_fileupload.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_location_bar_yulan.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_location_bar_yulan.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_companyweb.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_companyweb.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_get_org.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_get_org.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zrmodule.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_zrmodule.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\drag_priview_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\drag_priview_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_edittext_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_edittext_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\location_checkin_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\location_checkin_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_stock_control_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_stock_control_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_survey_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_survey_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_for_leave_do.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_for_leave_do.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_shopping_car_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_shopping_car_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notify_attachment.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\notify_attachment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_comp_edit_range.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_comp_edit_range.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\other_select_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\other_select_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_product_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\time_intable_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\time_intable_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_gethering_message_include.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_gethering_message_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_menu_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\init_yili.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\init_yili.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_search_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bluetooth_search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workplan_newplan.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_workplan_newplan.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\addpopup_window.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\addpopup_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notifi_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\notifi_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_phone_report.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\fragment_phone_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\show_table.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\show_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_content_preview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_content_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_approval_others_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_approval_others_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\module_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\module_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_asset_discovery.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_asset_discovery.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_left_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_left_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\text_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\text_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\help_question.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\help_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workplan_monthdetail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_workplan_monthdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_time_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_time_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_trace_title.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_trace_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\module_item_gvitem_left.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\module_item_gvitem_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_info_sync.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_info_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_survey_others_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_survey_others_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\pull_refresh_empty.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\pull_refresh_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recycletimes.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_recycletimes.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_search_detail_fragment.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_search_detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\photoalbum_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\photoalbum_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qusetion_content_item_radio_button.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_qusetion_content_item_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\date_selectview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\date_selectview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_bumen_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_bumen_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\image_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_function_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_function_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_piechart_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_piechart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\page.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\page.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_create_group_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_create_group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\info_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\info_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_combine_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_combine_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_zengpin_zhekou_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_zengpin_zhekou_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_preview_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_preview_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendtance_scheduling_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_attendtance_scheduling_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_detail_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_detail_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_agendadetails.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_agendadetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_xiadan_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_xiadan_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\comp_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\comp_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\title_flow_indicator.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\title_flow_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wechat_survey_checkbox.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_wechat_survey_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_location_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_location_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_pending_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_pending_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\pay_order_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\pay_order_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\single_choice_view_white.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\single_choice_view_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\ptr_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\ptr_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\summary_card_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\summary_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reserve_station.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_reserve_station.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\shape_cycle_gray.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\shape_cycle_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_personal.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_priview_avtivity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_priview_avtivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newlogin_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_newlogin_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\record_button_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\record_button_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\meeting_address_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\meeting_address_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_user_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_group_user_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_view2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notice.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_explain.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_explain.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_attachment_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_attachment_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_create_group.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_create_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_sale_preview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_sale_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_leave_report.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_leave_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_sales_charge_arrears.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_sales_charge_arrears.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_view4.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_view4.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_law.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_law.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_bumen_content.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_bumen_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_comp_edit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_comp_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\product_code_in_table_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\product_code_in_table_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\priview_data_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\priview_data_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\noticemeeting.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\noticemeeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_comp_distance_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_comp_distance_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu_clock.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\layout_menu_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_free.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\login_for_free.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_group.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_card_item_simple.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_card_item_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\worksummar_add_summary.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\worksummar_add_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_popmenu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_popmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_purchase.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_purchase.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poupwindow.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_poupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_touxiangxuanze.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_touxiangxuanze.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_meetingname_gridview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_meetingname_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_gridview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\surecancle_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\surecancle_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\query.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\query.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_visitor.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_list_visitor.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_purchase_preview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_purchase_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_menu_item_topgridview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_menu_item_topgridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_smart_inspection.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_smart_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company_files.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_company_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\func_view_list_one.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\func_view_list_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_shopping_car_data.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_shopping_car_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_now_dicount.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_now_dicount.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\func_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\func_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workplan.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_workplan.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_comp_spinner.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_comp_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_view6.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_view6.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attachment_priview_data_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attachment_priview_data_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\zrmodule_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\zrmodule_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_get_style.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_get_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_survey_myself_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_survey_myself_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_list_item_unit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_list_item_unit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\module_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\module_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_result_preview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_result_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoalbum_gridview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_photoalbum_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_dialog_edit_nc.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_dialog_edit_nc.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\layout_group.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\layout_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_content_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_content_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_chat_notice.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_chat_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\checkbox_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\checkbox_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\page_last.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\page_last.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_priview_list_fragment.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_priview_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nfc_func.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nfc_func.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\add_survey_sub_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\add_survey_sub_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\store_expand_priview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\store_expand_priview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_create_notice.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_create_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_approval_myself_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_approval_myself_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_send_mark.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_send_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_xiadan.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_xiadan.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_create_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_create_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\near_visit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\near_visit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_sup_libray.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_confirm_sup_libray.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_fragment_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_fragment_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\delete_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\delete_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\visit_way.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\visit_way.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_property.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_property.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order3_take_photo_popupwindow.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order3_take_photo_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\ggmm_check_dialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\ggmm_check_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mybills_details.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_mybills_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\layout_small_bbs.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\layout_small_bbs.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_visitor_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_visitor_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_preview_item_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_preview_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_to_see_all_topic.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_to_see_all_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\home_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\submit_manager_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\submit_manager_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\date_selectorview_number.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\date_selectorview_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_survey.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_add_survey.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_preview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_report_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_add_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_add_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dl_listview_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dl_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\card_item_simple.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\card_item_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\libraycontent.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\libraycontent.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_preview_item_selected_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_preview_item_selected_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\list_func_item_t1.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\list_func_item_t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\car_sales_return_goods_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\car_sales_return_goods_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_drable_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_drable_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\replenish_list_item_unit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\replenish_list_item_unit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\address_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\address_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_work_summary_new_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_work_summary_new_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\exchange_gridview_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\exchange_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_asset_alter.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_asset_alter.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\editrange_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\editrange_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\menu_usable_tip_fragment.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\menu_usable_tip_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\report_detail.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\report_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\double_way_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\double_way_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\item_trace.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\item_trace.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\meeting_address_group_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\meeting_address_group_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\scan.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_loadview.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_loadview.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\select_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\select_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_group_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\recorder_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attendance_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\datepickercomp_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\datepickercomp_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_explain_fragmen.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_explain_fragmen.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_search_scheduling.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_attendance_search_scheduling.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_list_item_children_unit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_list_item_children_unit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_card_popupwindow_title.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_card_popupwindow_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_footer.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\wechat_group.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\wechat_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\time_in_table_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\time_in_table_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qusetion_content_item_more_button.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_qusetion_content_item_more_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_order_head.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\confirm_order_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inspection_menu.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_inspection_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_menu_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\button_small_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\button_small_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_approval.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_add_approval.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\attend_leave_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\attend_leave_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_visit_history_popupwindow2.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\nearby_visit_history_popupwindow2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_activity_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_activity_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\login_4g_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\login_4g_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\zr_module_mine_item1.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\zr_module_mine_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview_fillparens.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_webview_fillparens.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\sipnner_item_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\sipnner_item_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\photo_review.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\photo_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\sql_big_data_activity.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\sql_big_data_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\module_item_right3.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\module_item_right3.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_order_unit.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\confirm_order_unit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_content_item_view_one.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_question_content_item_view_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exchange.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_exchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_new_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\dialog_new_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\online_exam_content_item_radio_button.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\online_exam_content_item_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\custom_drop_down_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\custom_drop_down_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_car_sales.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_car_sales.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\order_returned_list.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\order_returned_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_work_summary_new_create.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_work_summary_new_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\notifi_message_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\notifi_message_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_survey_others_item_chenhui.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_survey_others_item_chenhui.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_station_middle.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_station_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\bbs_content_detail_list_item.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\bbs_content_detail_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\single_choice_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\single_choice_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\loading_progressdialog.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\loading_progressdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_meetingbookshow.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_meetingbookshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\table_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\table_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enter_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_enter_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\checkinlayout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\checkinlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paint_view.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_paint_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\visit_store.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\visit_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\edit_comp.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\edit_comp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debt_statistics.xml",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\layout\\activity_debt_statistics.xml"
+    }
+]

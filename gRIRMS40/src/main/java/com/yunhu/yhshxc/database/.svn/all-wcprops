@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/40896/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database
+END
+SlidePictureDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/SlidePictureDB.java
+END
+PushItemDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/40837/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/PushItemDB.java
+END
+StyleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/StyleDB.java
+END
+SubmitDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/SubmitDB.java
+END
+QueryDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/QueryDB.java
+END
+MenuShiHuaDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/MenuShiHuaDB.java
+END
+MainMenuDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/MainMenuDB.java
+END
+TableStencilDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/TableStencilDB.java
+END
+OrderContactsDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/OrderContactsDB.java
+END
+VisitFuncDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/VisitFuncDB.java
+END
+PSSConfDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/PSSConfDB.java
+END
+VisitStoreDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/VisitStoreDB.java
+END
+LocationPendingDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/LocationPendingDB.java
+END
+PushDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/PushDB.java
+END
+FuncCacheDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/FuncCacheDB.java
+END
+VisitWayDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/VisitWayDB.java
+END
+NoticeDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/NoticeDB.java
+END
+ModuleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/ModuleDB.java
+END
+QuestionAnswerDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/QuestionAnswerDB.java
+END
+FuncDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/40265/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/FuncDB.java
+END
+TablePendingDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/TablePendingDB.java
+END
+FuncControlDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/FuncControlDB.java
+END
+DatabaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/40108/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/DatabaseHelper.java
+END
+OrderCacheDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/OrderCacheDB.java
+END
+RoleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/RoleDB.java
+END
+TaskDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/TaskDB.java
+END
+OrgStoreDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/OrgStoreDB.java
+END
+TodoDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/TodoDB.java
+END
+SubmitItemTempDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/SubmitItemTempDB.java
+END
+DoubleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/DoubleDB.java
+END
+PSSProductConfDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/PSSProductConfDB.java
+END
+OrderSaleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/OrderSaleDB.java
+END
+SubmitItemDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/SubmitItemDB.java
+END
+DictDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/40896/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/DictDB.java
+END
+NewDoubleDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/NewDoubleDB.java
+END
+NewOrderDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/NewOrderDB.java
+END
+OrgUserDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/OrgUserDB.java
+END
+OrgDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/database/OrgDB.java
+END

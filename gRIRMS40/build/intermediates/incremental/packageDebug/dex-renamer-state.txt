@@ -1,0 +1,7 @@
+#Thu Dec 28 14:38:31 CST 2017
+base.0=C\:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_977cdf4ff7494700a02d02e76a4b2b7bcf906e37
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f348e17d621c4c072f09925f8ff73f29f0df2fcb\\classes.dex
+base.1=C\:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f348e17d621c4c072f09925f8ff73f29f0df2fcb
+file.0=C\:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_977cdf4ff7494700a02d02e76a4b2b7bcf906e37\\classes.dex

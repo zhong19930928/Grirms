@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="crouton">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gRIRMS40/libs/crouton.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

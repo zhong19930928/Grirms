@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:orientation="vertical"
+     android:background="@drawable/shape_square_whitebg" >
+   <!--  <SearchView 
+        android:id="@+id/dl_search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="请输入搜索条件"
+        /> -->
+    <!-- <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/muti_search_bg"
+         > -->
+
+        <com.yunhu.yhshxc.wechat.view.sortListView.ClearEditText
+            android:id="@+id/dl_search_view"
+           android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dip"
+            android:background="@drawable/address_search_bg"
+            android:drawableLeft="@drawable/search_bar_icon_normal"
+            android:hint="@string/input_key_word"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textSize="15.0dip" />
+  <!--   </LinearLayout> -->
+     <ListView 
+         android:id="@+id/dl_listview"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:dividerHeight="1dp"
+         android:divider="@color/gray_sl"
+         
+         />
+</LinearLayout>

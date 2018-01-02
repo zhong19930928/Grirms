@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white" >
+
+	<TextView
+		android:id="@+id/title"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="@dimen/order_title_text_size"
+	    android:textColor="@android:color/white"
+	    android:background="@color/app_color"
+	    android:padding="@dimen/order_padding_title" />
+
+	<ListView
+		android:id="@+id/lst"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/title"
+		android:layout_above="@+id/submit"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="true"
+        android:scrollbars="none"
+        android:cacheColorHint="#00000000" />
+
+	<Button
+		android:id="@+id/submit"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="@drawable/order_menu_click"
+		android:textSize="@dimen/order_default_text_size"
+		android:textColor="@android:color/white"
+		android:text="@string/order_submit"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:paddingLeft="@dimen/order_padding_large"
+		android:paddingRight="@dimen/order_padding_large"
+		android:layout_toLeftOf="@+id/create"
+		android:layout_margin="@dimen/order_padding"
+		android:layout_alignParentBottom="true" />
+
+	<Button
+		android:id="@+id/create"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="@drawable/order_menu_click"
+		android:textSize="@dimen/order_default_text_size"
+		android:textColor="@android:color/white"
+		android:text="@string/order_sale_create"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:paddingLeft="@dimen/order_padding_large"
+		android:paddingRight="@dimen/order_padding_large"
+		android:layout_margin="@dimen/order_padding"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" />
+</RelativeLayout>

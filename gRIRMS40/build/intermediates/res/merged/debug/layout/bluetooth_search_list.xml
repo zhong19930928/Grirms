@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+    
+    <LinearLayout
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+		android:background="@android:color/black">
+        
+		<TextView
+		    android:id="@+id/title"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/bluetooth_title"
+		    android:textSize="16sp"
+		    android:padding="10dp"
+		    android:textColor="@android:color/white" />
+
+		<ProgressBar
+		    android:id="@+id/progress"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+            style="?android:attr/progressBarStyleSmall"
+            android:background="@android:color/transparent"
+		    android:indeterminate="true" />
+    </LinearLayout>
+	
+	<ScrollView
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/titlebar"
+	    android:layout_above="@+id/btnBar">
+	    
+	    <LinearLayout
+	    	android:id="@+id/list"
+	    	android:layout_width="match_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical" />
+	</ScrollView>
+	
+	<LinearLayout
+	    android:id="@+id/btnBar"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:orientation="horizontal"
+	    android:gravity="center"
+	    android:padding="10dp">
+	    
+	    <Button
+		    android:id="@+id/search"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/order_menu_click"
+		    android:textColor="@android:color/white"
+		    android:layout_weight="1"
+		    android:padding="10dp"
+		    android:layout_marginRight="10dp"
+		    android:text="@string/bluetooth_title1" />
+	    
+	    <Button
+		    android:id="@+id/cancel"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/order_menu_click"
+		    android:textColor="@android:color/white"
+		    android:layout_weight="1"
+		    android:padding="10dp"
+		   	android:text="@string/Cancle" />
+	</LinearLayout>
+</RelativeLayout>

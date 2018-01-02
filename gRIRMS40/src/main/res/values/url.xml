@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+		正式（非伊利） (不包含帮助)
+		http://phone.gcgcloud.com/com.grandison.grirms.phone.web-1.0.0/;
+		http://219.148.162.111/com.grandison.grirms.phone.web-1.0.0/;
+		
+		4.5
+		http://phone45.gcgcloud.com/com.grandison.grirms.phone.web-1.0.0/;
+	
+	http://phone.gcgcloud.com/com.grandison.grirms.phone.web-1.0.0/
+	
+	
+	模拟环境
+		http://219.148.162.70/com.grandison.grirms.phone.web-1.0.0/
+		http://219.148.162.74:8080/com.grandison.grirms.phone.web-1.0.0/
+		
+		http://219.148.162.89:9090/com.grandison.grirms.phone.web-1.0.0/
+    -->
+    
+    <string name="BASE_URL">http://phone.zritc.com/com.grandison.grirms.phone.web-1.0.0/</string>
+    <string name="TEST_URL">http://219.148.162.96:9090/com.grandison.grirms.phone.web-1.0.0/</string>
+    <string name="ZR_URL">http://219.148.162.96:8080/com.grandison.grirms.phone.web-1.0.0/</string>
+    <string name="SIMULATE_URL">http://219.148.162.74:8080/com.grandison.grirms.phone.web-1.0.0/</string>
+    <string name="JieSiRui_URL">http://123.57.50.6/com.grandison.grirms.phone.web-1.0.0/</string>
+    <!-- 上传图片 -->
+    <string name="URL_UPLOAD_PHOTO">http://image.zritc.com:9090/grirmsImage/</string>
+    <string name="URL_UPLOAD_PHOTO_2">http://image.zritc.com:9090/grirmsImage/</string>
+    <string name="URL_UPLOAD_PHOTO_JieSiRui">http://123.57.50.6/grirmsImage/</string>
+    <!-- 手机端日志 -->
+    <string name="URL_UPLOAD_LOG">http://image.zritc.com:9090/grirmsImage/uploadLogInfo.do</string>
+    <!-- 帮助文档 -->
+    <string name="URL_DOWNLOAD_HELP">http://help.gcgcloud.com:8080/grirms4_help_upload/GetHelpFileUrl</string>
+    
+    <!-- 企业微信上传附件 -->
+    <string name="URL_WECHAT">http://image.zritc.com:9090/grirmsImage/</string>
+    
+     <!--  手机使用活跃度统计 -->
+    <string name="URL_PHONE_ACTION">http://bnet.gcgchina.com/opsys/interface/phoneaction.php</string>
+
+    <!--  会议日程模块url -->
+    <string name="MEETAGENDA_BASE_URL">http:// download.zritc.com/kupao.php?</string>
+    <string name="MEETAGENDA_TEST_URL">http:// download.zritc.com/kupao.php?</string>
+
+
+    <!--netAddress-->
+    <string name="bai_du">http://www.baidu.com</string>
+    <string name="ali">http://www.taobao.com</string>
+</resources>

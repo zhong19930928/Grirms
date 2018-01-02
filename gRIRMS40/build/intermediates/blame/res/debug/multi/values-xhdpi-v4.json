@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 49,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 45,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 45,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 46,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 46,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 46,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 46,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 50,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 50,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 49,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 987,
+                        "endColumn": 49,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 44,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 44,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 48,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 48,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 63,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 63,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 62,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 62,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 67,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 67,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 64,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 64,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 60,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 60,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 46,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 46,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 47,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 47,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 46,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 46,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 46,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 46,
+                        "endOffset": 263
+                    }
+                }
+            }
+        ]
+    }
+]

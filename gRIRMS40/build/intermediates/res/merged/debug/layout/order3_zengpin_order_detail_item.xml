@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:paddingTop="5dp"
+    android:gravity="center_vertical"
+    android:layout_marginBottom="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp" 
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/zengpin_order_detail_tv_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="1"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size"
+            android:textColor="@color/order3_search_text" />
+
+        <TextView
+            android:id="@+id/zengpin_order_detail_tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="联想xxxx"
+            android:textSize="@dimen/order3_xiadan_home_product_text_size"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="1"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size"
+            android:textColor="@color/order3_search_text"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/zengpin_order_detail_tv_data"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="数量3台"
+             android:textSize="@dimen/order3_xiadan_home_product_text_size"
+            android:textColor="@color/black" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/order3_price" />
+
+            <TextView
+                android:id="@+id/zengpin_order_detail_tv_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:text="2000元"
+                 android:textSize="@dimen/order3_xiadan_home_product_text_size"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="1"
+            android:textSize="@dimen/order3_xiadan_yulan_text_size"
+            android:textColor="@color/order3_search_text"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/zengpin_order_detail_tv_jine"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="金额6000元"
+             android:textSize="@dimen/order3_xiadan_home_product_text_size"
+            android:textColor="@color/black" />
+
+        <LinearLayout
+            android:id="@+id/ll_zhekou"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/order3_dis" />
+
+            <TextView
+                android:id="@+id/zengpin_order_detail_tv_discount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:text="无"
+                 android:textSize="@dimen/order3_xiadan_home_product_text_size"
+                android:textColor="@color/order3_search_num" />
+        </LinearLayout>
+    </LinearLayout>
+	<TextView 
+	    android:layout_width="match_parent"
+	    android:layout_height="0.5dp"
+	    android:background="@color/order3_search_divider"/>
+</LinearLayout>

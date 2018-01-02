@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/Cambridgeblue"
+    android:orientation="vertical"
+    android:padding="1dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/home_menu_fix_white"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <LinearLayout
+            android:id="@+id/ll_compDialog"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+<!--             <timepicker -->
+<!--                 android:id="@+id/timepicker_intable_comp" -->
+<!--                 android:layout_width="wrap_content" -->
+<!--                 android:layout_height="wrap_content" /> -->
+            
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+           
+            android:background="@color/home_menu_fix_white"
+               >
+
+<!--             <Button
+                android:id="@+id/time_intable_confirmBtn"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/func_new_detail_submit_btn"
+                android:padding="5dp"
+                android:text="@string/confirm"
+                android:textColor="@color/orange"
+                android:textSize="25sp" /> -->
+            <Button
+                android:id="@+id/time_intable_confirmBtn"
+                style="@style/dialogConfirmButton"
+                android:text="@string/confirm"
+                 />
+            <Button
+                android:id="@+id/time_intable_cancelBtn"
+                android:layout_toLeftOf="@+id/time_intable_confirmBtn"
+                 style="@style/dialogCancleButton"
+                android:text="@string/cancel"
+               />
+<!--             <Button
+                android:id="@+id/time_intable_cancelBtn"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/func_new_detail_submit_btn"
+                android:padding="5dp"
+                android:text="@string/cancel"
+                android:textColor="@color/orange"
+                android:textSize="25sp" /> -->
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

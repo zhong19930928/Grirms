@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/content_bg"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color"
+        android:padding="@dimen/normal_atcionbar_pading" >
+
+        <TextView
+            android:id="@+id/txt_title_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:text="@string/attendance_search"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+
+        <ImageView
+            android:id="@+id/img_query"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_gravity="center_vertical|right"
+            android:paddingRight="@dimen/padding_medium"
+            android:src="@drawable/chaxun" />
+    </FrameLayout>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/header"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/table_header_height"
+                android:background="@color/table_header_bg"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="@dimen/table_icon_column_width"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/icon_plus"
+                    android:visibility="invisible" />
+            </LinearLayout>
+
+            <ExpandableListView
+                android:id="@+id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/att_bg_color_normal"
+                android:childDivider="@color/att_list_split"
+                android:divider="@color/att_list_split"
+                android:dividerHeight="1dp"
+                android:fadingEdge="none"
+                android:groupIndicator="@null"
+                android:scrollbars="none"
+                android:scrollingCache="true" >
+            </ExpandableListView>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>

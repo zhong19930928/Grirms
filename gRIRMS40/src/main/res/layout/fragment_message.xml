@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:orientation="vertical"
+                    android:background="@color/app_color"
+        android:padding="@dimen/normal_atcionbar_pading" >
+
+        <TextView
+            android:id="@+id/ll_homeClock"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/message"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+
+
+        <RelativeLayout
+            android:id="@+id/my_order"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:background="@android:color/white"
+            android:gravity="center|left" >
+
+            <ImageView
+                android:id="@+id/image_order"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/image_order"
+                android:gravity="center"
+                android:text="@string/no_message"
+                android:textColor="@color/text_grey" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_deep" />
+
+        <ListView
+            android:id="@+id/message_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout>

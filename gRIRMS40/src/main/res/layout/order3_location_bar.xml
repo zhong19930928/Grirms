@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:id="@+id/ll_location_bar"
+    
+    android:background="@color/white"
+   >
+  	
+	 <LinearLayout
+	      android:orientation="horizontal" 
+	      android:layout_width="fill_parent"
+    	  android:layout_height="wrap_content"
+    	  
+    	  >
+		 <LinearLayout
+		     
+		        android:id="@+id/layout_order"
+		        style="@style/Buttom_Item_Style"
+		        android:orientation="vertical" 
+		        android:background="@drawable/app_color_bg_selector"
+		        android:paddingTop="5dip"
+		        android:gravity="center"
+		        >
+		
+		        <ImageView
+		            
+		            android:id="@+id/img_order"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:visibility="visible"
+		            android:src="@drawable/order3_home"
+		            />
+		
+		        <TextView
+		            android:id="@+id/tv_order"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		           android:textSize="10sp"
+		           android:textColor="@color/white"
+		            android:text="首页" />
+		    </LinearLayout>
+		
+		    <LinearLayout
+		        android:id="@+id/layout_discount"
+		        style="@style/Buttom_Item_Style" 
+		        android:orientation="vertical" 
+		        android:background="@drawable/app_color_bg_selector"
+		        android:paddingTop="5dip"
+		        android:gravity="center"
+		         android:layout_marginLeft="0.5dp"
+		        >
+		        <ImageView
+		            android:id="@+id/img_discount"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		             android:visibility="visible"
+		             android:src="@drawable/order3_skly"/>
+		        <TextView
+		            android:id="@+id/tv_discount"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textColor="@color/white"
+		             android:textSize="10sp"
+		            android:text="收款/留言" />
+		    </LinearLayout>
+		
+		    <LinearLayout
+		        android:id="@+id/layout_collection "
+		        style="@style/Buttom_Item_Style" 
+		        android:orientation="vertical" 
+		        android:background="@drawable/app_color_bg_selector"
+		        android:paddingTop="5dip"
+		        android:gravity="center"
+		         android:layout_marginLeft="0.5dp"
+		        >
+		        <ImageView
+		            android:id="@+id/img_collection "
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		           android:visibility="visible"
+		           android:src="@drawable/order3_zp"/>
+		        <TextView
+		            android:id="@+id/tv_collection "
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		           android:textSize="10sp"
+		           android:textColor="@color/white"
+		            android:text="赠品折扣" />
+		    </LinearLayout>
+		    <LinearLayout
+		        android:id="@+id/layout_shopping_car"
+		        style="@style/Buttom_Item_Style" 
+		        android:orientation="vertical" 
+		        android:background="@drawable/app_color_bg_selector"
+		        android:paddingTop="5dp"
+		        android:layout_marginLeft="0.5dp"
+		        >
+		        <ImageView
+		            android:id="@+id/img_shopping_car"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:visibility="visible"
+		            android:src="@drawable/order3_yulan"/>
+		        <TextView
+		            android:id="@+id/tv_shopping_car"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		          android:textSize="10sp"
+		          android:textColor="@color/white"
+		            android:text="订单预览" />
+		    </LinearLayout>
+		    
+	         
+	 </LinearLayout>
+	 
+</LinearLayout>

@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+     >
+
+    <LinearLayout
+        android:id="@+id/ll_home_order3"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:padding="@dimen/normal_atcionbar_pading"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="horizontal"
+        android:gravity="center_vertical" >
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/quxiao"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/leave_name_text_size" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="请选择会议参与人"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+        <TextView
+            android:id="@+id/tv_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/confirm"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/leave_name_text_size" />
+    </LinearLayout>
+
+
+
+        <!--<ListView-->
+            <!--android:id="@+id/lv_meeting_user"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/ll_home_order3"-->
+            <!--android:cacheColorHint="#00000000"-->
+            <!--android:divider="@color/order3_devider"-->
+            <!--android:dividerHeight="1dp"-->
+            <!--android:fadingEdge="none"-->
+            <!--android:fastScrollEnabled="true"-->
+            <!--android:scrollbars="none"-->
+            <!--android:visibility="visible" >-->
+        <!--</ListView>-->
+    <com.yunhu.yhshxc.wechat.view.sortListView.ClearEditText
+        android:id="@+id/meeting_filter_edit"
+        android:layout_width="fill_parent"
+        android:layout_height="32dp"
+        android:layout_margin="5dp"
+        android:layout_below="@id/ll_home_order3"
+        android:background="@drawable/address_search_bg"
+        android:drawableLeft="@drawable/search_bar_icon_normal"
+        android:hint="@string/address_book_hint"
+        android:textColorHint="#dbd8d8"
+        android:paddingLeft="10dp"
+        android:singleLine="true"
+        android:textSize="15.0dip" />
+    <com.yunhu.yhshxc.activity.addressBook.PinnedHeaderExpandableListView
+        android:id="@+id/elistview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/meeting_filter_edit"
+        android:childDivider="#dbd8d8"
+        android:divider="#dbd8d8"
+        android:dividerHeight="0.5dp"
+        android:groupIndicator="@null"
+        android:visibility="visible" />
+
+</RelativeLayout>

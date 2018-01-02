@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+  <string name="ww_log">0</string>
+  
+  <!-- 更新内容,若无内容,请输入"#" -->
+  <string name="TIP_WHAT_NEW_MSG">#</string>
+  
+  <!-- 本地版本升级到最新版本时,需要初始化的最近本地版本号-->
+  <string name="IS_NEED_INIT_VERSION">421</string>
+
+  <string name="PROJECT_VERSIONS">4.7</string><!-- 程序名   4.0电信版销售管家  4.5执掌销售  4.7通用版销售管家-->
+  
+</resources>
+

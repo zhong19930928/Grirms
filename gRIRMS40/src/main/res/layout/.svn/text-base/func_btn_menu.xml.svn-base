@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:id="@+id/ll_func_btn_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       android:background="@android:color/transparent"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:id="@+id/ll_btn_first"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+
+            android:background="@drawable/shape_cycle_blue"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/iv_btn_first"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/func_btn_custom1" />
+
+            <TextView
+                android:id="@+id/tv_btn_first"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:textSize="@dimen/little_title"
+                android:text=""
+                android:textColor="@color/white"
+                 
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_btn_second"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            
+            android:background="@drawable/shape_cycle_blue"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/iv_btn_second"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/func_btn_custom1" />
+
+            <TextView
+                android:id="@+id/tv_btn_second"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:textSize="@dimen/little_title"
+                android:text=""
+                android:textColor="@color/white"
+                 
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_btn_third"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            
+            android:background="@drawable/shape_cycle_blue"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/iv_btn_third"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/func_btn_custom1" />
+
+            <TextView
+                android:id="@+id/tv_btn_third"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:text=""
+                android:textSize="@dimen/little_title"
+                android:textColor="@color/white"
+                 
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_btn_four"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            
+            android:background="@drawable/shape_cycle_blue"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp"
+            android:visibility="invisible" >
+
+            <ImageView
+                android:id="@+id/iv_btn_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/func_btn_priview1" />
+
+            <TextView
+                android:textColor="@color/white"
+                android:id="@+id/tv_btn_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text=""
+                android:textSize="@dimen/little_title"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_btn_five"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/shape_cycle_blue"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="3dp"
+            android:paddingTop="3dp" >
+
+            <ImageView
+                android:id="@+id/iv_btn_five"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/func_btn_more1" />
+
+            <TextView
+                android:id="@+id/tv_btn_five"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:text=""
+                android:textSize="@dimen/little_title"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

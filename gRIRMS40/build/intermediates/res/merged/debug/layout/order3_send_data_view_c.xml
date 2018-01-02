@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_order3_send_data_view_c"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/tv_order3_send_data_view_c_order_num"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="151234567890"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/order3_xiadan_home_product_text_size" />
+
+        <TextView
+            android:id="@+id/tv_order3_send_data_view_c_order_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="2015-12-03"
+            android:textColor="@color/black"
+            android:textSize="@dimen/order3_xiadan_home_product_text_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/tv_order3_send_data_view_c_amount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="256633"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/order3_xiadan_home_product_text_size" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="未送:"
+                android:textColor="@color/orange"
+                android:textSize="@dimen/order3_xiadan_home_product_text_size" />
+
+            <TextView
+                android:id="@+id/tv_order3_send_data_view_c_unsend"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:lines="2"
+                android:text="9"
+                android:textColor="@color/orange"
+                android:textSize="@dimen/order3_xiadan_home_product_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/gray_main"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="0.1dp" >
+
+            <EditText
+                android:id="@+id/et_order3_send_data_view_c_send"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/white"
+                android:gravity="center"
+                android:textCursorDrawable="@drawable/color_cursor"
+                android:inputType="number|numberDecimal"
+                android:singleLine="true"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

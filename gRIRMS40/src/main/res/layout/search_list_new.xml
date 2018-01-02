@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/func_menu_bg"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color"
+        android:padding="@dimen/normal_atcionbar_pading">
+
+        <TextView
+            android:id="@+id/txt_title_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/attendance_search"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+
+        <FrameLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|right"
+
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/img_query"
+                android:layout_width="@dimen/normal_title_back_width"
+                android:layout_height="@dimen/normal_title_back_height"
+                android:layout_gravity="center_vertical|right"
+                android:src="@drawable/query" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" >
+
+        <!--<HorizontalScrollView-->
+            <!--android:id="@+id/hsv_search"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="fill_parent"-->
+            <!--android:background="#f4f4f4"-->
+            <!--android:fadingEdge="none"-->
+            <!--&gt;-->
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@android:color/black"
+
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/table_header_height"
+                    android:background="@color/table_header_bg"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/iv_table_list_title_isExpanded"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dip"
+                        android:src="@drawable/icon_plus"
+                        android:visibility="invisible" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_search_list_header"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="8dp"
+                    android:background="@color/white">
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:text="默认排序"
+
+                        android:textColor="@color/gray_normal"
+                        android:background="@null"/>
+                    <TextView
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:background="@color/gray_main"
+                       />
+                    <Button
+                        android:id="@+id/search_btn"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:text="筛选条件"
+                        android:textColor="@color/gray_normal"
+                        android:background="@null"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="8dp"
+                    android:visibility="gone"
+                    android:background="#f4f4f4">
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:text="领用"
+
+                        android:layout_marginLeft="30dp"
+                        android:layout_marginRight="20dp"
+                        android:padding="5dp"
+                        android:textColor="@color/gray_normal"
+                        android:background="@drawable/table_list_shape_menu"/>
+
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="30dp"
+                        android:padding="5dp"
+                        android:layout_height="wrap_content"
+                        android:text="退库"
+                        android:textColor="@color/gray_normal"
+                        android:background="@drawable/table_list_shape_menu"/>
+                </LinearLayout>
+
+                <com.yunhu.android.pulltorefresh.library.PullToRefreshListView
+                    xmlns:aa="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/elv_search_list_new"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/att_bg_color_normal"
+                    aa:ptrAnimationStyle="flip"
+                    aa:ptrHeaderSubTextColor="@color/notice_item_bg_press"
+                    aa:ptrHeaderTextColor="@color/notice_item_bg_press"
+                    aa:ptrMode="both"
+                    android:divider="@null"
+                    android:fadingEdge="none"
+                    android:scrollbars="none" />
+            </LinearLayout>
+        <!--</HorizontalScrollView>-->
+
+        <LinearLayout
+            android:id="@+id/ll_paging"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:id="@+id/ll_page_tip"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/paging_tip_down"
+                android:onClick="onClickPage"
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:id="@+id/ll_paging2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/ll_page_mid_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/translucent2"
+                    android:orientation="vertical"
+                    android:padding="20dp"
+                    android:visibility="gone" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/roundedpg_top" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/roundedpg_mid" >
+
+                        <ListView
+                            android:id="@+id/lv_page_mid_list_view"
+                            android:layout_width="fill_parent"
+                            android:layout_height="100dp"
+                            android:fadingEdge="none"
+                            android:scrollbars="none" >
+                        </ListView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/roundedpg_bottom" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_paging_cotrol"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/translucent2"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/ll_page_left"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="15"
+                        android:background="@drawable/click_paging"
+                        android:onClick="onClickPage"
+                        android:orientation="horizontal"
+                        android:padding="10dp" >
+
+                        <ImageView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/paging_left" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="19"
+                        android:src="@drawable/att_split" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_page_mid"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="12"
+                        android:background="@drawable/click_paging"
+                        android:gravity="center"
+                        android:onClick="onClickPage"
+                        android:orientation="horizontal"
+                        android:padding="10dp" >
+
+                        <TextView
+                            android:id="@+id/tv_paging_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:textSize="16sp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:src="@drawable/paging_search" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="19"
+                        android:src="@drawable/att_split" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_page_right"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="15"
+                        android:background="@drawable/click_paging"
+                        android:onClick="onClickPage"
+                        android:orientation="horizontal"
+                        android:padding="10dp" >
+
+                        <ImageView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/paging_right" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/seach_add_bg"
+            android:layout_gravity="bottom|right"
+            android:layout_marginRight="20dp"
+            android:visibility="gone"
+            android:layout_marginBottom="20dp"/>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/41121/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser
+END
+ParsePSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/ParsePSS.java
+END
+AttendanceParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/AttendanceParse.java
+END
+BBSParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/BBSParse.java
+END
+TableParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/TableParse.java
+END
+OrgParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/OrgParser.java
+END
+ReplenishParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/ReplenishParse.java
+END
+ReportParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/ReportParse.java
+END
+GetOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/GetOrg.java
+END
+CarSalesParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/CarSalesParse.java
+END
+Order3Parse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/Order3Parse.java
+END
+AttendanceParseNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/AttendanceParseNew.java
+END
+DefaultValueParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/DefaultValueParse.java
+END
+CacheData.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/41121/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/parser/CacheData.java
+END

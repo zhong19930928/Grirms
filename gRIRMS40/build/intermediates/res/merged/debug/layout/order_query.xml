@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@android:color/white">
+    
+	<TextView
+	    android:id="@+id/title"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="@dimen/order_title_text_size"
+	    android:textColor="@android:color/white"
+	    android:background="@color/app_color"
+	    android:padding="@dimen/order_padding_title" />
+	
+	<ExpandableListView
+	    android:id="@+id/list"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/title"
+	    android:layout_above="@+id/buttonContainer"
+	    android:cacheColorHint="@android:color/transparent"
+	    android:listSelector="@android:color/transparent"
+	    android:background="@android:color/white"
+	    android:groupIndicator="@null"
+	    android:dividerHeight="1dp"
+	    android:divider="@android:color/darker_gray"
+	    android:layout_marginBottom="1dp" />
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:layout_above="@+id/buttonContainer"
+		android:background="@android:color/darker_gray" />
+
+	<LinearLayout
+		android:id="@+id/buttonContainer"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentBottom="true"
+		android:gravity="right"
+		android:padding="@dimen/order_padding">
+
+		<Button
+		    android:id="@+id/more"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/order_query_more"
+		    android:textSize="@dimen/order_default_text_size"
+		    android:textColor="@android:color/white"
+		    android:background="@drawable/order_menu_click"
+		    android:paddingLeft="@dimen/order_padding"
+		    android:paddingRight="@dimen/order_padding"
+		    android:paddingTop="10dp"
+		    android:paddingBottom="10dp"
+		    android:layout_marginRight="@dimen/order_padding" />
+
+		<Button
+		    android:id="@+id/update"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/order_update"
+		    android:textSize="@dimen/order_default_text_size"
+		    android:textColor="@android:color/white"
+		    android:background="@drawable/order_menu_click"
+		    android:paddingLeft="32dp"
+		    android:paddingRight="32dp"
+		    android:paddingTop="10dp"
+		    android:paddingBottom="10dp" />
+	</LinearLayout>
+</RelativeLayout>

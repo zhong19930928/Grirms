@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/photo_pup_bg"
+    android:orientation="horizontal"
+    android:padding="3dp" >
+
+    <LinearLayout
+        android:id="@+id/ll_photo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:onClick="onClickForHelp"
+        android:orientation="vertical"
+        android:padding="3dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/photo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/take_photo"
+            android:textColor="@color/darkGray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_photo_album"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:onClick="onClickForHelp"
+        android:orientation="vertical"
+        android:padding="3dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/photo_album" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/picture_"
+            android:textColor="@color/darkGray" />
+    </LinearLayout>
+
+</LinearLayout>

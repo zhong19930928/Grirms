@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/table_children_bg"
+    android:paddingBottom="@dimen/padding_medium" >
+
+    <LinearLayout
+        android:id="@+id/ll_table_list_item_children"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/padding_medium"
+        android:layout_marginRight="@dimen/padding_medium"
+        android:layout_marginTop="@dimen/padding_large"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ll_table_list_item_children"
+        android:layout_below="@+id/ll_table_list_item_children"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bt_table_list_item_children_do"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_medium"
+            android:text="@string/caozuo" />
+
+        <Button
+            android:id="@+id/bt_table_list_item_children_copy"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_marginTop="@dimen/padding_medium"
+            android:text="@string/caozuo" />
+    </LinearLayout>
+
+</RelativeLayout>

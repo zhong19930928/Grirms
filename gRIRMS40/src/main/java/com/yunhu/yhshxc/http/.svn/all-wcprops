@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/40326/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/http
+END
+GcgHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/http/GcgHttpClient.java
+END
+CoreHttpAbstractChances.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/http/CoreHttpAbstractChances.java
+END
+HttpResponseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/http/HttpResponseListener.java
+END
+CoreHttpQueryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/http/CoreHttpQueryRequest.java
+END
+CoreHttpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/http/CoreHttpHelper.java
+END

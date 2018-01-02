@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/attendance_date"
+            android:textColor="@color/app_color"
+            android:textSize="@dimen/car_sales_debt_d" />
+
+        <Button
+            android:id="@+id/btn_start_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="#e8e8e8"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:text="09:00"
+            android:textColor="@color/black"
+            android:textSize="@dimen/car_sales_debt_d" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:text="~" />
+
+        <Button
+            android:id="@+id/btn_end_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#e8e8e8"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:text="18:00"
+            android:textColor="@color/black"
+            android:textSize="@dimen/car_sales_debt_d" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/attendance_date1"
+            android:textColor="@color/app_color"
+            android:textSize="@dimen/car_sales_debt_d" />
+
+        <Button
+            android:id="@+id/btn_work_start_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="#e8e8e8"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:text="09:00"
+            android:textColor="@color/black"
+            android:textSize="@dimen/car_sales_debt_d" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:text="~" />
+
+        <Button
+            android:id="@+id/btn_work_end_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#e8e8e8"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:text="18:00"
+            android:textColor="@color/black"
+            android:textSize="@dimen/car_sales_debt_d" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/attendance_date2"
+            android:textColor="@color/app_color"
+            android:textSize="@dimen/car_sales_debt_d" />
+
+        <EditText
+            android:id="@+id/edit_reason"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="2.2"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:background="#e8e8e8"
+            android:gravity="top"
+            android:lines="3" />
+    </LinearLayout>
+
+</LinearLayout>

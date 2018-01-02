@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yunhu.yhshxc"
+    android:versionCode="430"
+    android:versionName="2.0.7.6.2" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <permission
+        android:name="com.yunhu.yhshxc.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.NFC" />
+    <!-- Required  一些系统要求的权限，如访问网络等 -->
+    <uses-permission android:name="com.gcg.grirms.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <!-- 允许程序读取所有者数据 -->
+    <uses-permission android:name="android.permission.READ_OWNER_DATA" />
+    <!-- 改变线程优先级 -->
+    <uses-permission android:name="android.permission.RAISED_THREAD_PRIORITY" />
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_UPDATES" />
+    <uses-permission android:name="android.permission.PERSISTENT_ACTIVITY" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATTON_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.wifi" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.webkit.permission.PLUGIN" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- 读联系人权限 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- 写联系人权限 -->
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" /> <!-- <instrumentation android:name="android.test.InstrumentationTestRunner" android:targetPackage="com.gcg.grirms" android:label="my app test"/> -->
+    <application
+        android:name="com.yunhu.yhshxc.application.SoftApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_main"
+        android:label="@string/app_normalname"
+        android:screenOrientation="portrait"
+        android:theme="@android:style/Theme.NoTitleBar" >
+
+        <!-- BugHd -->
+        <meta-data
+            android:name="BUG_HD_SDK_GENERAL_KEY"
+            android:value="66775acc55821a36d3884bbc400da2aa" />
+        <!-- 高德定位 发布key 6899f3e74748083256833689b7d267f5  调试key  51f9e6d3e55e16a04a16bc75f89a2111 -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="ac70e6f5640e3df84cd18a6ab41e8f44" />
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="SOZLZCzxdXia1pSKMozEEiGr" />
+        <meta-data
+            android:name="TencentMapSDK"
+            android:value="2F5BZ-JTXH5-LBMIB-QVHER-APGG5-PPBTT" />
+
+        <!-- <uses-library android:name="android.test.runner" /> -->
+        <service android:name="com.amap.api.location.APSService" />
+
+        <activity android:name="com.yunhu.yhshxc.activity.ApkVersionActivity" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.topic.CreateTopicActivity"
+            android:screenOrientation="portrait" />
+        <!-- questionnaire.QuestionnaireActivity -->
+        <!-- onlineExamination.OnlineExaminationActivity -->
+
+
+        <!--
+          <activity
+            android:name=".activity.questionnaire.QuestionnaireActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        -->
+
+        <activity
+            android:name="com.yunhu.yhshxc.activity.SplashNewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yunhu.yhshxc.activity.RegistExplainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.exchange.PropertyActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.exchange.GroupUserActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.content.ImageGridActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.questionnaire.QuestionnaireContentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.questionnaire.QuestionPreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.questionnaire.QuestionExplainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.questionnaire.QuestionResultPreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.questionnaire.QuestionnaireActivity"
+            android:screenOrientation="portrait" />
+        <!--
+             <activity  
+            android:name=".activity.onlineExamination.OnlineExaminationActivity"
+            android:screenOrientation="portrait" />
+        -->
+        <activity
+            android:name="com.yunhu.yhshxc.activity.RegisterCompanyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.LogInNewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.SplashActivity2"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.onlineExamination.OnlineExamExplainationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.onlineExamination.OnlineExamQuestionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.onlineExamination.OnlineExamPreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.onlineExamination.OnlineExamPreviewAfterSubmitActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.content.RecorderVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.WechatActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.approval.ApprovalActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.pic.PhotoAlbumActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.pic.PhotoActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.test.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.exchange.ExchangeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.exchange.PersonalWechatActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.exchange.WechatPhotoSelectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.exchange.WechatPhotoSelectPriviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.survey.SurveyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.fragments.WechatNoticeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.fragments.ToSeeAllTopicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.fragments.FocusActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.fragments.HistoryTopicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.createGroup.CreateGroupActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.fragments.CreateNoticeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.fragments.PersonalInformationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.wechat.fragments.UserInfomationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.SearchSchedulingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.attendCalendar.AttendanceCalendarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.SchedulingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.ThroughLeaveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.DoApproLeaveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.ApprovalLeaveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.AskForLeaveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.InitiateLeaveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.ReportLeaveActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.CheckLeaveActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.PreviewLeaveActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.DoDeatailLeaveActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.leave.WaitForApproLeaveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.expand.StoreExpandActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.expand.StoreExpandPriviewActivity"
+            android:screenOrientation="portrait" />
+
+        <!--
+        <activity
+            android:name="com.gcg.grirms.order3.Order3MainActivity"
+             android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity >
+        -->
+
+        <activity
+            android:name="com.yunhu.yhshxc.activity.FunctionDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.login.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.login.LoginFor4GActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.login.LoginForFreeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.InitActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.ModuleFuncActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.ZCLRFuncActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.ChangeModuleFuncActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.LinkFuncActivity"
+            android:screenOrientation="portrait" />
+        <!--
+        <activity
+            android:name=".activity.HomeMenuActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        -->
+        <activity
+            android:name="com.yunhu.yhshxc.activity.HomePageActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.SqlBigDataActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.TableCompActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.scene.sellingGoods.ProductChoiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.scene.sellingGoods.CarSaleProductDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.scene.sellingGoods.CarSaleShoppingCartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.scene.returnGoods.ReturnListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.jpush.PushTestActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.LoadingListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.UnLoadingListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.StockTakingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.StockTakingListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.ReplenishmentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.ReplenishmentListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.RegistrationListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.RegistrationActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.scene.chargeArrears.ChargeArrearsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.scene.returnGoods.ReturnGoodsAcitivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.LoadingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.UnloadingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.LoadingRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.management.UnloadingRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.location.LocationTipActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.visit.VisitStoreActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.visit.VisitWayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.visit.InfoDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.visit.TableHistoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.visit.VisitFuncActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.visit.VisitFuzzQueryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.visit.UpdateStoreFuncActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.nearbyVisit.NearbyVisitActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.nearbyVisit.NearbyVisitStoreDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.nearbyVisit.NearbyVisitStoreMapForBDActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.nearbyVisit.NearbyVisitStoreInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.nearbyVisit.NearbyVisitFuncActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.nearbyVisit.NearbyVisitHistoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.pay.OrderListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.unionpay.uppay.PayActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.UPPay" />
+        <activity
+            android:name="com.yunhu.yhshxc.report.ReportListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.report.ReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.report.ReportPreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.webReport.WebViewUtilActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.yunhu.yhshxc.list.activity.TableListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.list.activity.TableListActivityNew"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.list.activity.ShowImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.list.activity.ShowTableActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.list.activity.RecordAuditionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.ModuleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.PhotoPreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.PhotoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.PhotoPreActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.AttendanceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.AttendanceFuncActivity"
+            android:screenOrientation="portrait" />
+        <!--
+             <activity
+            android:name=".attendance.AttendanceNewActivity"
+            android:screenOrientation="portrait" />
+        -->
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.AttendanceFuncDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.AttendanceListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.attendance.AttendanceNewListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.FuncDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.notify.NotifyListActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.notify.NotifyDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.doubletask.DoubleWayActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.doubletask.DoubleDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.doubletask2.NewDoubleDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.doubletask2.NewDoubleListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.doubletask2.ChildrenListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.module.replenish.PreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.module.replenish.QueryFuncActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.TaskListActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.func.PaintActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.TaskDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.dialog.DialogLocationRuleActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/photoDialog" />
+        <activity
+            android:name="com.yunhu.yhshxc.http.download.apk.DialogInstallActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/photoDialog" />
+        <activity
+            android:name="com.yunhu.yhshxc.dialog.DialogLawActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyle" />
+        <activity
+            android:name="com.yunhu.yhshxc.dialog.DialogGetOrgActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/photoDialog" />
+        <activity
+            android:name="com.yunhu.yhshxc.dialog.CloseAppDialogActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/photoDialog" />
+        <activity
+            android:name="com.yunhu.yhshxc.dialog.DialogNoticeActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/photoDialog" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.RelayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.module.bbs.BBSMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.module.bbs.BBSGroupActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.module.bbs.BBSMessageListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.module.bbs.BBSPublishActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.module.bbs.BBSContentDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.google.zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.help.LoadingHelpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.help.QuestionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.help.QuestionActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.help.QuestionDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.help.HelpInstructionsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.widget.VideoPlayer"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.MenuOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.CreateOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.CreateOrderDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderQueryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderPurchaseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderPurchasePreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderReturnedListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderSaleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderSalePreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderReturnedActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderStockList"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order.OrderStockUpdate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.dragimage.PhotoPriviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.Order2MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.Order2WidgetMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.Order2LinkWidgetMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.OrderWidgetCreateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.OrderLinkWidgetCreateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.OrderCreateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.OrderSearchDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.OrderCreateEditActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.OrderSearchListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order2.OrderWidgetSearchListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.send.Order3SendActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.send.Order3SendPriviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3HomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3FuncActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3FuncDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3SearchActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3SyncInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.ShoppingCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.ProductDetailActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3SearDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.order3.Order3ManagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.CarSalesMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.manager.ApplyForReimbursementActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.manager.CarSalesSubmitManagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.manager.CarSalesSyncInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.statistics.CarSalesSaleStatisticsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.statistics.CarSalesDebtStatisticsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.carSales.statistics.CarSalesStockNewStatisticsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.submitManager.SubmitManagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.todo.TodoListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.style.DialogGetStyleActivity"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.synchrodata.SyncDataActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.addressBook.AddressBookActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.addressBook.AddressBookDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.CompanyWebActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.CompanyFilesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.ReportPreviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.workplan.WorkPlanActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.workplan.WorkPlanDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.workplan.WorkPlanNewPlanActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.workplan.WorkpLanTipActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar" />
+
+        <service android:name="com.yunhu.yhshxc.workplan.WorkPlanCheckService" />
+
+        <activity
+            android:name="com.yunhu.yhshxc.workSummary.WorkSummaryMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.workSummary.WorkSummaryCreateActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity android:name="com.yunhu.yhshxc.kt40.KT40ScanActivity" />
+        <activity android:name="com.yunhu.yhshxc.s200.ScanS200Activity" />
+        <activity android:name="com.yunhu.yhshxc.list.activity.ShowImageTableActivity" />
+        <activity android:name="com.yunhu.yhshxc.activity.NfcFuncActivity" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.WebBackStageActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.PersonalActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.PersonalSettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.ImageShowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.inspection.SmartInspectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.inspection.InspectionTaskActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.inspection.InspectionMenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.fragment.AddressDetailActivity"
+            android:screenOrientation="portrait" />
+        />
+        <activity
+            android:name="com.yunhu.yhshxc.visitors.ContractActivity"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.HomeSecondActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.HomepageWebViewActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" />
+        <service android:name="com.yunhu.yhshxc.aidl.AidlService" >
+            <intent-filter>
+                <action android:name="com.gcg.grirms.aidl.AidlServiceAction" />
+            </intent-filter>
+        </service>
+        <service android:name="com.yunhu.yhshxc.service.LocationService" />
+        <service android:name="com.yunhu.yhshxc.service.CheckExitAppService" />
+        <service android:name="com.yunhu.yhshxc.push.GetPushService" />
+        <service android:name="com.yunhu.yhshxc.http.download.apk.DownApkBackstageService" />
+        <service android:name="com.yunhu.yhshxc.location.backstage.BackstageLocationService" />
+        <service android:name="com.yunhu.yhshxc.weather.WeatherService" />
+        <service android:name="com.yunhu.yhshxc.submitManager.core.SubmitWorkService" />
+        <service android:name="com.yunhu.yhshxc.attendance.backstage.AttendanceLocationService" />
+        <service android:name="com.yunhu.yhshxc.attendance.backstage.AttendanceAutoLocationService" />
+
+        <receiver
+            android:name="com.yunhu.yhshxc.push.PushBroadcastReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.gcg.grirms.PNARRIVE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.yunhu.yhshxc.service.BootBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- JPush Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.gcg.grirms" />
+            </intent-filter>
+        </activity>
+        <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!-- Required SDK 核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+
+        <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="com.gcg.grirms" />
+            </intent-filter>
+        </service>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter android:priority="1000" >
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
+                <!-- Required  显示通知栏 -->
+                <category android:name="com.gcg.grirms" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required SDK核心功能 -->
+        <receiver android:name="cn.jpush.android.service.AlarmReceiver" />
+
+        <!-- User defined.  For test only  用户自定义的广播接收器 -->
+        <receiver
+            android:name="com.yunhu.yhshxc.activity.jpush.JPushBaseReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" />
+                <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.UNREGISTRATION" />
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+                <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" />
+                <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" />
+                <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" />
+                <!-- Optional 用户接受Rich Push Javascript 回调函数的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" />
+                <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.gcg.grirms" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="48b6b4bbe5cd2bf6ca3ff498" />
+        <!-- </>值来自开发者平台取得的AppKey -->
+        <service
+            android:name="com.yunhu.yhshxc.location.backstage.WatchLocationService1"
+            android:enabled="true" />
+        <service
+            android:name="com.yunhu.yhshxc.location.backstage.WatchLocationService2"
+            android:enabled="true"
+            android:process=":WatchLocationService2" />
+
+        <!-- 监听自定义广播来确保后台定位的运行 -->
+        <receiver android:name="com.yunhu.yhshxc.location.backstage.BackLocationReceiver" >
+            <intent-filter>
+                <action android:name="watchlocationservice1_destroy" />
+                <action android:name="watchlocationservice2_destroy" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.yunhu.yhshxc.service.StyleDownLoadService" />
+        <service android:name="com.yunhu.yhshxc.service.DownSlidePicService" />
+
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.MeetingagendaListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.MeetingBoomJumpActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/TranslucentTheme" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.AgendaPlanActivty"
+            android:screenOrientation="portrait" />
+        <!-- 提醒通知 -->
+        <service android:name="com.yunhu.yhshxc.MeetingAgenda.notification.NotificationServices" />
+        <service android:name="com.yunhu.yhshxc.MeetingAgenda.notification.NotificationSubmit" >
+            <intent-filter>
+                <action android:name="action.TIME_DELAY" />
+                <action android:name="action.TIME_CANCEL" />
+                <action android:name="action.TIME_OK" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.MeeTingDateActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.MeetingUserActivity"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.SearchChooseActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.ZRModuleActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.ZRMyBillsDetailsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.ZRMyBillsDetailsActivity_new"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.ZRMyBillsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.ZRModuleDetailActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.BuildingNewAgenda"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.NoticeMeetingTime"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.RecycleTimesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.BookingMeetingRoom"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.BookMroomDetails"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.yunhu.yhshxc.activity.ConfirmSupLibrayActivity" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.MeetingRoomDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.MeetingAgenda.AgendaDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.AssetDiscoveryActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.AssetInventoryActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.AssetAlterActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.zrmenu.AssetSurplusActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.stationReserve.StationReserveMainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name="com.yunhu.yhshxc.activity.stationReserve.StationMiddleActivity" />
+        <activity android:name="com.yunhu.yhshxc.activity.stationReserve.ReserveStationActivity" />
+        <activity
+            android:name="com.yunhu.yhshxc.visitors.TXRActivity"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.visitors.TXRListActivity"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yunhu.yhshxc.visitors.VisitorListActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.yunhu.yhshxc.visitors.VisitorDetailActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.yunhu.yhshxc.activity.ZRLoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+    </application>
+
+</manifest>

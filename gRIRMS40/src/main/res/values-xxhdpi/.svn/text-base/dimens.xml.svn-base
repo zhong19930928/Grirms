@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="table_col_heigh">100px</dimen>
+    <dimen name="table_col_width">240px</dimen>
+    <dimen name="table_del_width">100px</dimen>
+    <!-- 日历控件内文字大小 -->
+    <dimen name="wheel_text_size">52px</dimen>
+    <dimen name="constom_dropdown_list_bg_width">340dp</dimen>
+    <dimen name="constom_dropdown_list_bg_heigth">500dp</dimen>
+
+    <!-- Order3 -->
+    <dimen name="order3_xiadan_product_detail_name">20sp</dimen>
+    <dimen name="order3_xiadan_yulan_text_size">18sp</dimen>
+    <dimen name="order3_xiadan_home_product_text_size">16sp</dimen>
+
+    <!-- CarSales -->
+    <dimen name="carsales_qiankuan">16sp</dimen>
+    <dimen name="carsales_jilu">18sp</dimen>
+
+    <!-- 销售统计 -->
+    <dimen name="car_sales_debt">18sp</dimen>
+    <dimen name="car_sales_debt2">18sp</dimen>
+    <dimen name="car_sales_debt3">18sp</dimen>
+    <dimen name="car_sales_debt_data">6sp</dimen>
+    <dimen name="attendance_spinner">16dp</dimen>
+    <dimen name="car_sales_debt_rbt">16sp</dimen>
+    <dimen name="car_sales_debt_d">16sp</dimen>
+    
+</resources>

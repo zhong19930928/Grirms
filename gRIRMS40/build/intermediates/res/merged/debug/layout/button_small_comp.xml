@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dp"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:id="@+id/ll_button_comp_first"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginRight="3dp"
+        android:background="@drawable/func_new_detail_submit_btn"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tv_button_comp_content_first"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textColor="@color/orange" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_button_comp_second"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="3dp"
+        android:background="@drawable/func_new_detail_submit_btn"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tv_button_comp_content_second"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"        
+            android:textColor="@color/orange" />
+    </LinearLayout>
+
+</LinearLayout>

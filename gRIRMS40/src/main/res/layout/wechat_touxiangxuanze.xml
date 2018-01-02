@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|bottom"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/popupwindowbg"
+        android:orientation="vertical"
+        android:padding="20dp" >
+
+        <Button
+            android:id="@+id/btn_nearby_visit_store_info_check"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/nearby_btn_bg"
+            android:padding="5dp"
+            android:text="@string/take_photo"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:visibility="visible" />
+
+
+        <Button
+            android:id="@+id/btn_nearby_visit_store_info_update"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/nearby_btn_bg"
+            android:padding="5dp"
+            android:text="@string/photo_album"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:visibility="visible" />
+        <Button
+            android:id="@+id/btn_nearby_visit_store_info_cancel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/nearby_btn_bg"
+            android:padding="5dp"
+            android:text="@string/Cancle"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:visibility="visible" />
+    </LinearLayout>
+
+</LinearLayout>

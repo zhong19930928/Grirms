@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="${relativePackage}.${activityClass}" >
+
+   <!--  <com.gcg.grirms.widget.GCGScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="@null" > -->
+
+       <!--  <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="@null" > -->
+
+            <FrameLayout
+                android:id="@+id/frameLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+                <com.yunhu.yhshxc.widget.ParentListView
+                    android:id="@+id/lv_bumen_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scrollbars="@null"
+                    android:divider="@null"></com.yunhu.yhshxc.widget.ParentListView>
+            </FrameLayout>
+      <!--   </HorizontalScrollView> -->
+  <!--   </com.gcg.grirms.widget.GCGScrollView> -->
+
+</LinearLayout>

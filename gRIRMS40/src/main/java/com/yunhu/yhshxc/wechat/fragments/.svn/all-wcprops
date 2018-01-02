@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments
+END
+FocusFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/FocusFragment.java
+END
+ChatFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/ChatFragment.java
+END
+SingleChatFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/SingleChatFragment.java
+END
+NoticeFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/NoticeFragment.java
+END
+PersonalInformationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/PersonalInformationActivity.java
+END
+PersonalFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/PersonalFragment.java
+END
+HistoryTopicActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/HistoryTopicActivity.java
+END
+UserInfomationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/UserInfomationActivity.java
+END
+NoticeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/NoticeAdapter.java
+END
+CreateNoticeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/CreateNoticeActivity.java
+END
+PopMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/PopMenu.java
+END
+ToSeeAllTopicActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/ToSeeAllTopicActivity.java
+END
+EditNCDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/EditNCDialog.java
+END
+WechatNoticeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/WechatNoticeActivity.java
+END
+FocusActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/wechat/fragments/FocusActivity.java
+END

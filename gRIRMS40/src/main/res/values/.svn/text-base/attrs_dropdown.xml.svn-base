@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Dropdown">
+
+        <attr name="ddMode">
+            <flag name="single_choice" value="0x1" />
+            <flag name="single_choice_fuzzy_query" value="0x2" />
+            <flag name="multiple_choice" value="0x3" />
+        </attr>
+    </declare-styleable>
+
+</resources>

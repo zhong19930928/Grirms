@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order
+END
+OrderSalePreviewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderSalePreviewActivity.java
+END
+CreateOrderDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/CreateOrderDetailActivity.java
+END
+OrderReturnedActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderReturnedActivity.java
+END
+OrderSingleReturnedDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderSingleReturnedDialog.java
+END
+OrderBasicReturnedDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderBasicReturnedDialog.java
+END
+OrderConfirmDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderConfirmDialog.java
+END
+OrderStockList.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderStockList.java
+END
+CreateOrderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/CreateOrderActivity.java
+END
+OrderStockListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderStockListAdapter.java
+END
+MenuOrderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/MenuOrderActivity.java
+END
+OrderQueryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderQueryActivity.java
+END
+OrderMultiProductReturnedDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderMultiProductReturnedDialog.java
+END
+OrderStockUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderStockUpdate.java
+END
+OrderPurchaseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderPurchaseActivity.java
+END
+OrderPurchasePreviewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderPurchasePreviewActivity.java
+END
+OrderCalculate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderCalculate.java
+END
+OrderSaleActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderSaleActivity.java
+END
+OrderReturnedListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/order/OrderReturnedListActivity.java
+END

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AS\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_688b98faca9e1f8855ac7104c136203fd1250773\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_9628001fe7e98d2e5cf27c208a85ec212f19846e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_484f82e93736019acd36457bfe1df995cf20edca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\myslidingmenu.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="9b5aa4254ffc0ad8b01b39851e0a3bebb813ff09">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\myslidingmenu_cfb578cea5b38207056c544456903878f6546f0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6b6c42c0b81c07bf00b7f2766b8389f4a0e2f2bc">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_280b48684f65758a4654fd1c169b4c5613eef10a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\core.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\core_ff88701a9b9fc62d0705505ecb01942096bd9870\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_e75d4a4cce8f6bbc3c20c7818364ea3dd791b749\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_fcba0acae4c2ee4abed88ecb009a75a35051ac2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\crouton.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b3e3fd299e23b7181681508f13a49bb7ba468c62">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\crouton_4d9e7b761e291793b43189c72401442d71a0e8bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\slidingmenu.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="942c0d8b6512d787707afbe8293566c413cdb86a">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\slidingmenu_621e41841e2f0d20d53eda18dfabfb599420049e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.7\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\pl.droidsonroids.gif-android-gif-drawable-1.2.7_d4a5308e50221c526b268f6c6eccd049136c55ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_92a3c5b9a3a0a66276a6bd81554c779aaf55a0e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\hellocharts-library-1.5.8.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\hellocharts-library-1.5.8_ee9ad24ab9db4f0c379f167d7b1360b801ba1e7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\Base64.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d1ac35803ca78ff699c290e9dc09087d2432269e">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\Base64_3ba0d817ef37e5446446f42a0762b93237d2d5b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.0_267041fab24b6cba900c6a557407ee155c544e0b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V3.2.1_20160308_b34db1e805fe608bc96b83d5e0989e9c506587b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_6acfba97166e018f512886dea807a125497d8e7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\AMap_Location_V3.2.0_20161205.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="430455692ed706628086e4ae3604645949ef339e">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V3.2.0_20161205_921920d7bcd4154a8a9a1c8531e7c586613e2be2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_566a20d7d1ca5e03800cd67242937dfedcf2b3fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\photoview-library-1.2.2.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\photoview-library-1.2.2_11b8b873127c7ea3a2deceb411964cb90794c30a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\UPPayPlugin.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0729eb9819210b445fca70b9d07065ac318e6b11">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\UPPayPlugin_f826405185c3cabcefd0faaf492aaddcbfccc596\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6b4bea9346c80215b512728333faa001ee1d7c74">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c17a01f0f1d79b3d5c1a88bc560604d00b957137\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_c1c24d76523914ac19aba71a4c8e709d6c3f2d2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\UPPayAssist.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="cd3a9be6c67931c44e1004c29e8a8335430facbd">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\UPPayAssist_3d10beeba66f94654c819df5a62e6a5c4ea80529\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="9b64ebdbeb3e2c9a02e0b4acea8f286cf750a07a">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_ef7f46aa4101c9b3dd994267b083fa9bd06b1da1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_2e890a8e142b010839bb539450c0c3af6ac5609e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.0_e05b0fb18d5fa5e9352e0a2ce2b39f0d0e9fde86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\Bughd_android_sdk_v1.3.7.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="defde21f1d2b852279dcdc5f0911ae3688f86c0a">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\Bughd_android_sdk_v1.3.7_a5ed640544716d18bced53531998159627544a99\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\jpush-sdk-release1.8.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="828d3fc21bcbe0faf028786fa3a953293b302f7d">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-sdk-release1.8.1_6fc2c6ee3f99034471d13772b9e2e50ede018459\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.0_b87245ab0947ead0e020f9d0f0e6911dc989557a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_0d3ac792511df07ff4dbce8673fe7bbd4e15525b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_d79eae3bf0181ec7269a37723dde1b54063714dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_1f4267a6a2107d48b716d7d465a6522a471d0a8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_b959c4f52fb5c0ff124078ad19e04c831ba3c7bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_8435b8ae93e705e0033addafdb9bd86f5682ad48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_4a8789a719b0a0fa35fdc7795834d97a91637221\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\btmanager.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e0040c84c1d7dd6b77ef6a74d2b75e3d36a5d51c">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\btmanager_ee1de6d3ee6f9f552e197ee8bd3c55434546e66f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_fd90612bb059b9022bb8bddb6ca76cf3deba09ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\yh\Desktop\Grirms\gRIRMS40\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_713e8b737577e6f76c40b4181973c48bffe2faa7\classes.dex" />
+    </item>
+
+</items>

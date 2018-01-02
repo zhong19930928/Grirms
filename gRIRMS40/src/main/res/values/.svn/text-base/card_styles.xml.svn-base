@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="CalendarCard">
+        
+    </style>
+    
+    <style name="CalendarCard.Root">
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:background">@color/bg</item>
+    </style>
+    
+    <style name="CalendarCard.Day">
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/gray_sub</item>
+    </style>
+    
+    <style name="CalendarCard.Days">
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+    
+    <style name="CalendarCard.Title">
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <style name="CalendarCard.Grid">
+        <item name="android:background">@drawable/card_grid_bg</item>
+    </style>
+    
+    <style name="CalendarCard.Cell">
+        <item name="android:background">@drawable/card_item_bg</item>
+        <item name="android:gravity">center</item>
+    </style>
+  
+</resources>

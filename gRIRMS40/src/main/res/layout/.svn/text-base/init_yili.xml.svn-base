@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/login_main_bg"
+    android:padding="30dp">
+	
+    <FrameLayout android:id="@+id/fl"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_centerInParent="true"
+       android:paddingTop="40dp"
+       android:paddingBottom="20dp">
+      <ProgressBar
+          android:id="@+id/progressBar"
+          style="?android:attr/progressBarStyleHorizontal"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:max="100"
+          android:progress="0" />
+
+      <TextView
+          android:id="@+id/tv_pb"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:gravity="center_horizontal"
+          android:textColor="@color/white"
+          android:text="@string/p_bar" />
+    </FrameLayout>
+    <ImageView android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:src="@drawable/login_logo_yili"
+       android:layout_above="@id/fl"
+       android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/tv_info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/initTable"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/fl"/>
+
+</RelativeLayout>

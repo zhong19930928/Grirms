@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="5dp" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/ll_content_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/workplan_selctor"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:visibility="visible" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/workpan_item_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/work_plan_name"
+                android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+           
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/workpan_item_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical"
+            android:text="@string/work_plan_name1"
+            android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size"/>
+
+        <TextView
+            android:id="@+id/workpan_item_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical"
+            android:text="@string/work_plan_name2"
+           android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+        <TextView
+            android:id="@+id/workpan_item_beizhu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical"
+            android:text="@string/work_plan_name3"
+            android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/work_plan_name4"
+                android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+            <com.yunhu.yhshxc.workplan.RatingBar
+                android:id="@+id/rb_important"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:layout_height="match_parent"
+                app:starCount="5"
+                app:starEmpty="@drawable/star_empty"
+                app:starFill="@drawable/star_full"
+                app:starPadding="2dp"
+                app:starImageSize="20dp"
+                app:starStep="1"
+                app:stepSize="Full"
+                 >
+            </com.yunhu.yhshxc.workplan.RatingBar>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/work_plan_name5"
+               android:textColor="@color/work_plan_text_color"
+                android:textSize="@dimen/work_plan_content_text_size" />
+
+             <com.yunhu.yhshxc.workplan.RatingBar
+                 android:id="@+id/rb_jinji"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:layout_height="match_parent"
+                app:starCount="5"
+                app:starEmpty="@drawable/star_empty"
+                app:starFill="@drawable/star_full"
+                app:starPadding="2dp"
+                app:starImageSize="20dp"
+                app:starStep="1"
+                app:stepSize="Full"
+                 >
+            </com.yunhu.yhshxc.workplan.RatingBar>
+        </LinearLayout>
+    </LinearLayout>
+
+  
+
+</LinearLayout>

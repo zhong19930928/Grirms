@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_square_whitebg"
+        
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <LinearLayout
+            android:id="@+id/ll_compDialog"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp" >
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+          >
+
+            <Button
+                android:id="@+id/comp_dialog_confirmBtn"         
+                android:text="@string/confirm"
+                style="@style/dialogConfirmButton"
+                 />
+
+            <Button
+                android:id="@+id/comp_dialog_cancelBtn"               
+                android:layout_toLeftOf="@+id/comp_dialog_confirmBtn"
+                android:text="@string/cancel"
+                style="@style/dialogCancleButton"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

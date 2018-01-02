@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/att_bg_color_normal"
+    android:paddingBottom="10dp"
+    android:orientation="vertical" >
+
+    <HorizontalScrollView
+        android:id="@+id/hsv_search"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:fadingEdge="none" >
+
+        <LinearLayout
+            android:id="@+id/ll_search"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/att_bg_color_normal"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/replish_list_bg"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/iv_table_list_title_isExpanded"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dip"
+                    android:src="@drawable/att_puls"
+                    android:visibility="invisible" />
+
+                <ImageView
+                    android:id="@+id/iv_order_head_isSelected"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dip"
+                    android:src="@drawable/pay_n"
+                    android:visibility="invisible" />
+
+                <LinearLayout
+                    android:id="@+id/ll_search_list_header"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </LinearLayout>
+
+            <ExpandableListView
+                android:id="@+id/elv_search_list"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/att_bg_color_normal"
+                android:childDivider="@color/att_list_split"
+                android:divider="@color/att_list_split"
+                android:dividerHeight="1dip"
+                android:fadingEdge="none"
+                android:groupIndicator="@null"
+                android:scrollbars="none" >
+            </ExpandableListView>
+
+            <TextView
+                android:id="@+id/tv_search_list_empty"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/zhifu_no_search_data"
+                android:textSize="40sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_func_show_data"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/func_detail_submit_btn"
+        android:onClick="payOrder"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/zhifu"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+</LinearLayout>

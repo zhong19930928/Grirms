@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="@color/white">
+    <ImageView
+        android:id="@+id/iv_items"
+        android:layout_width="86dp"
+        android:layout_height="65dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/gridview_iv3"/>
+    <TextView
+        android:id="@+id/tv1_items"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="#333333"
+        android:layout_alignParentTop="true"
+        android:singleLine="true"
+        android:maxEms="15"
+        android:layout_toRightOf="@+id/iv_items"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="zhonghadkuadad"/>
+    <TextView
+        android:id="@+id/tv2_items"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="10sp"
+        android:textColor="#333333"
+        android:layout_toRightOf="@+id/iv_items"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/tv1_items"
+        android:layout_marginTop="8dp"
+        android:text="zhonghadkuadad"/>
+    <ImageView
+        android:layout_width="5dp"
+        android:layout_height="8dp"
+        android:src="@drawable/right"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="8dp"/>
+
+</RelativeLayout>

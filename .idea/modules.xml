@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Grirms_ZR.iml" filepath="$PROJECT_DIR$/Grirms_ZR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gRIRMS40/gRIRMS40.iml" filepath="$PROJECT_DIR$/gRIRMS40/gRIRMS40.iml" />
+    </modules>
+  </component>
+</project>

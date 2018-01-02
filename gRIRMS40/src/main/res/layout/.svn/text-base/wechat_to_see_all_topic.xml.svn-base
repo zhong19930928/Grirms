@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_shopping_car_order3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:padding="7dp"
+        android:orientation="horizontal" >
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/all_topic_list"
+            android:textColor="@color/white"
+            android:textSize="@dimen/wechat_title_text_size" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_to_see_topic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/order3_devider"
+        android:scrollbars="@null"
+        android:listSelector="#00000000" >
+    </ListView>
+
+</LinearLayout>

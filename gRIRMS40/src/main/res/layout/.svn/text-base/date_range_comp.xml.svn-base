@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <!-- <DatePicker -->
+        <!-- android:id="@+id/datePickerComp_first" -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" /> -->
+        <!-- <DatePicker -->
+        <!-- android:layout_marginTop="10dp" -->
+        <!-- android:id="@+id/datePickerComp_second" -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" /> -->
+
+        <LinearLayout
+            android:id="@+id/datePickerComp_first"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/start_date"
+                    android:textColor="@color/app_color"
+                    android:textSize="22sp" />
+
+                <LinearLayout
+                    android:id="@+id/ll_range_time_start"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:padding="0.5dp" >
+
+                    <TextView
+                        android:id="@+id/tv_range_time_start"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="2013-11-01"
+                        android:textColor="@color/orange"
+                        android:gravity="center"
+                        android:background="@color/white"
+                        android:textSize="22sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/end_date"
+                    android:textColor="@color/app_color"
+                    android:textSize="22sp" />
+
+                <LinearLayout
+                    android:id="@+id/ll_range_time_end"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:padding="0.5dp" >
+
+                    <TextView
+                        android:id="@+id/tv_range_time_end"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="2013-11-01"
+                        android:textColor="@color/orange"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:textSize="22sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/datePickerComp_second"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

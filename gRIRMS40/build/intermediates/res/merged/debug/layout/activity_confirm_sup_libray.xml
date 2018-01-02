@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EAEAEA">
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/app_color">
+
+        <RelativeLayout
+            android:id="@+id/meeting_back"
+            android:layout_width="50dp"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/activity_back" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="耗材入库确认"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/ruku_num_layout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            layout="@layout/libraycontent"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_deep" />
+
+        <include
+            android:id="@+id/ruku_adds"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            layout="@layout/libraycontent"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_deep" />
+
+        <include
+            android:id="@+id/ruku_time"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            layout="@layout/libraycontent"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_deep" />
+
+        <include
+            android:id="@+id/ruku_supply"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            layout="@layout/libraycontent"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_deep" />
+
+        <include
+            android:id="@+id/ruku_per"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            layout="@layout/libraycontent"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_deep" />
+
+        <include
+            android:id="@+id/ruku_datetime"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            layout="@layout/libraycontent"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_deep" />
+
+        <include
+            android:id="@+id/ruku_remarks"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            layout="@layout/libraycontent"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/ruku_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_content"
+        android:layout_marginTop="18dp"
+        android:layout_above="@+id/confirm_btn"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:background="@drawable/btn_selector_white"
+        >
+    </ListView>
+
+
+    <TextView
+        android:id="@+id/confirm_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:text="@string/confirm"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/white"
+        android:background="@drawable/btn_selector_blue1"
+        />
+
+
+</RelativeLayout>

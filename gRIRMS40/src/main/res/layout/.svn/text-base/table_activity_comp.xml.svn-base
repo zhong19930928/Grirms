@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <FrameLayout
+        android:id="@+id/ll_title"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:background="@color/app_color"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/normal_atcionbar_pading"
+        android:visibility="visible" >
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="@dimen/normal_title_back_width"
+            android:layout_height="@dimen/normal_title_back_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/back" />
+
+        <TextView
+            android:id="@+id/tv_titleName"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:singleLine="true"
+            android:text="@string/week_plan_report"
+            android:textColor="@color/gray"
+            android:textSize="@dimen/normal_format_text_size_title" />
+    </FrameLayout>
+
+    <com.yunhu.yhshxc.activity.MyHorizontalScrollView
+        android:id="@+id/hsl_table"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="@color/table_line"
+        android:fadingEdge="none"
+        android:gravity="center"
+        android:keepScreenOn="true"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll_tableContentTitle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <ScrollView
+                    android:id="@+id/sv_table"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:fadingEdge="none"
+                    android:scrollbars="none" >
+
+                    <LinearLayout
+                        android:id="@+id/ll_tableContent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </LinearLayout>
+    </com.yunhu.yhshxc.activity.MyHorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_btn_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bar_bg_form" >
+
+        <LinearLayout
+            android:id="@+id/btn_add"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/menu_onclick"
+            android:gravity="center"
+            android:padding="1dp" >
+
+            <Button
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_add_green" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/btn_add"
+                android:textColor="@color/black"
+                android:textSize="@dimen/normal_format_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_save"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/menu_onclick"
+            android:gravity="center"
+            android:padding="1dp" >
+
+            <Button
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_save_green" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/btn_save"
+                android:textColor="@color/black"
+                android:textSize="@dimen/normal_format_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_stencil"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/menu_onclick"
+            android:gravity="center"
+            android:padding="1dp" >
+
+            <Button
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_moban_green" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/btn_save_stencil"
+                android:textColor="@color/black"
+                android:textSize="@dimen/normal_format_text_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

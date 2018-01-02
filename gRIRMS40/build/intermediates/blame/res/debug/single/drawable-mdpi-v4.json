@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_chat_voice7.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\icon_chat_voice7.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_0.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_0.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_title.jpg",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_title.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tree_ec.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\tree_ec.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\replish_list_splt.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\replish_list_splt.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_msg_reflash2.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_msg_reflash2.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_image_demo.jpg",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_image_demo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_msg_reflash1.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_msg_reflash1.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo_bg.jpg",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\logo_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\file_wechat.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\file_wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_1.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_1.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\butn_open.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\butn_open.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_cut.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_cut.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\address_60.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\address_60.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_blue_r.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_blue_r.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\butn_close.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\butn_close.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_3.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_3.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tree_ex.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\tree_ex.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_message_icon.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_message_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_9.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pay_n.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\pay_n.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_orange.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\icon_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_review.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_review.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_4.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_4.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_10.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_10.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_do_not_disturb_alt_black_24dp.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_do_not_disturb_alt_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\replish_list_bg.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\replish_list_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_delete_in_menu2_hov.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\btn_delete_in_menu2_hov.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_msg_edit2.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_msg_edit2.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\wechat_send.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\wechat_send.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_main_icon.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_6.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_6.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_msg_location.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_msg_location.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_7.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_7.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_user.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_user.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_hand.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_hand.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\a4fd7ab9ec602b4cadb13c9b9053f2caec143f80\\output\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_delete_in_menu1.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\btn_delete_in_menu1.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_msg_edit1.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_msg_edit1.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_blue_l.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_blue_l.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_puls.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_puls.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_white_r.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_white_r.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_check_circle_black_24dp.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_edit.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\icon_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_white_l.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_white_l.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_menu_quanzi.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_menu_quanzi.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pay_y.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\pay_y.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_chattype_add7.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\icon_chattype_add7.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_back.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_delete_in_menu2.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\btn_delete_in_menu2.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_line.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_line.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_usr_head.jpg",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_usr_head.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_8.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_8.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_5.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_5.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_open_bg.jpg",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_open_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pause_black_24dp.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\att_split.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\att_split.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\yh\\.android\\build-cache\\208a7c1c3bd13cc181f1b8b7cc8f797cf7ed42b4\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bbs_leve_2.png",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\drawable-mdpi\\bbs_leve_2.png"
+    }
+]

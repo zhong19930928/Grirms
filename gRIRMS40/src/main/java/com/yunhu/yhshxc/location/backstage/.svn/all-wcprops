@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/location/backstage
+END
+WatchLocationService1.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/location/backstage/WatchLocationService1.java
+END
+WatchLocationService2.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/location/backstage/WatchLocationService2.java
+END
+SharedPrefsBackstageLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/location/backstage/SharedPrefsBackstageLocation.java
+END
+BackstageLocationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/location/backstage/BackstageLocationManager.java
+END
+BackLocationReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/location/backstage/BackLocationReceiver.java
+END
+BackstageLocationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/location/backstage/BackstageLocationService.java
+END

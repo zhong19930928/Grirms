@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\raw\\clock3.wav",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\raw\\clock3.wav"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\build\\intermediates\\res\\merged\\debug\\raw\\unlock1.wav",
+        "source": "C:\\Users\\yh\\Desktop\\Grirms_ZR\\gRIRMS40\\src\\main\\res\\raw\\unlock1.wav"
+    }
+]

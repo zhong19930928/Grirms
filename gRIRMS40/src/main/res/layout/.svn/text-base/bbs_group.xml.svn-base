@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/bbs_bg" >
+
+        <RelativeLayout
+            android:id="@+id/ll_bbs_group_top"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:padding="5dp" >
+
+            <ImageView
+                android:id="@+id/iv_bbs_main_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bbs_main_icon" />
+
+            <TextView
+                android:id="@+id/iv_bbs_main_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/iv_bbs_main_icon"
+                android:text="@string/BBS"
+                android:textColor="@color/white"
+                android:textSize="34sp" />
+        </RelativeLayout>
+
+       <!--  <RelativeLayout
+            android:id="@+id/ll_bbs_group_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/black" >
+
+            <include layout="@layout/back_view" />
+        </RelativeLayout> -->
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/ll_bbs_group_top"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/white"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/lv_group"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:cacheColorHint="@android:color/transparent"
+                android:dividerHeight="2dp"
+                android:fadingEdge="none"
+                android:padding="8dp" >
+            </ListView>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

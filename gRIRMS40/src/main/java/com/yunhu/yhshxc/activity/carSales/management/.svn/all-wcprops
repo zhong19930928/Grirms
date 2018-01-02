@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management
+END
+RegistrationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/RegistrationView.java
+END
+LoadingRecordView.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/LoadingRecordView.java
+END
+ReplenishmentView.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/ReplenishmentView.java
+END
+LoadingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/LoadingView.java
+END
+UnLoadingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/UnLoadingView.java
+END
+StockTakingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/StockTakingView.java
+END
+RegistrationListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/RegistrationListActivity.java
+END
+ReplenishmentListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/ReplenishmentListActivity.java
+END
+LoadingListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/LoadingListActivity.java
+END
+RegistrationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/RegistrationActivity.java
+END
+BaseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/BaseActivity.java
+END
+LoadingRecordActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/LoadingRecordActivity.java
+END
+UnLoadingListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/UnLoadingListActivity.java
+END
+StockTakingListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/StockTakingListActivity.java
+END
+ReplenishmentActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/ReplenishmentActivity.java
+END
+LoadingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/LoadingActivity.java
+END
+ULoadingRecordView.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/ULoadingRecordView.java
+END
+UnloadingRecordActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/UnloadingRecordActivity.java
+END
+UnloadingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/UnloadingActivity.java
+END
+StockTakingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/management/StockTakingActivity.java
+END

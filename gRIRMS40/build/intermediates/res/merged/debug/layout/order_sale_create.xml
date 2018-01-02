@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@android:color/white" >
+
+	<TextView
+		android:id="@+id/title"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:textSize="@dimen/order_title_text_size"
+	    android:textColor="@android:color/white"
+	    android:background="@color/app_color"
+	    android:padding="@dimen/order_padding_title" />
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/title"
+		android:layout_above="@+id/btn2">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:padding="@dimen/order_padding">
+
+			<LinearLayout
+			    android:id="@+id/container"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:gravity="left|top"
+				android:padding="10dp">
+
+				<TextView
+				    android:id="@+id/product"
+					android:layout_width="80dp"
+					android:layout_height="wrap_content"
+					android:text="@string/order_sale_product"
+					android:textColor="@android:color/black"
+					android:textSize="@dimen/order_default_text_size" />
+			</LinearLayout>
+			
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/order_sale_tip"
+				android:textSize="@dimen/order_default_text_size"
+				android:textColor="@android:color/black"
+				android:padding="@dimen/order_padding"
+				android:layout_marginTop="30dp" />
+
+			<View
+				android:layout_width="match_parent"
+				android:layout_height="1dp"
+				android:background="@android:color/darker_gray" />
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:gravity="left|top"
+				android:padding="10dp">
+
+				<TextView
+					android:layout_width="80dp"
+					android:layout_height="wrap_content"
+					android:text="@string/order_sale_price"
+					android:textColor="@android:color/black"
+					android:textSize="@dimen/order_default_text_size" />
+
+				<EditText
+					android:id="@+id/price"
+					android:layout_width="150dp"
+					android:layout_height="wrap_content"
+					android:inputType="number|text"
+					android:digits="0123456789."
+					android:text="0.0"
+					android:textCursorDrawable="@drawable/color_cursor"
+					android:background="@drawable/order_input" />
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:gravity="left|top"
+				android:padding="10dp">
+
+				<TextView
+					android:layout_width="80dp"
+					android:layout_height="wrap_content"
+					android:text="@string/order_sale_quantity"
+					android:textColor="@android:color/black"
+					android:textSize="@dimen/order_default_text_size" />
+
+				<EditText
+					android:id="@+id/quantity"
+					android:layout_width="150dp"
+					android:layout_height="wrap_content"
+					android:inputType="number"
+					android:textCursorDrawable="@drawable/color_cursor"
+					android:background="@drawable/order_input"
+					android:maxLength="10" />
+			</LinearLayout>
+	    </LinearLayout>
+	</ScrollView>
+
+	<Button
+		android:id="@+id/btn1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="@drawable/order_menu_click"
+		android:textSize="@dimen/order_default_text_size"
+		android:textColor="@android:color/white"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:paddingLeft="@dimen/order_padding_large"
+		android:paddingRight="@dimen/order_padding_large"
+		android:layout_toLeftOf="@+id/btn2"
+		android:layout_margin="@dimen/order_padding"
+		android:layout_alignParentBottom="true" />
+
+	<Button
+		android:id="@+id/btn2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="@drawable/order_menu_click"
+		android:textSize="@dimen/order_default_text_size"
+		android:textColor="@android:color/white"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:paddingLeft="@dimen/order_padding_large"
+		android:paddingRight="@dimen/order_padding_large"
+		android:layout_margin="@dimen/order_padding"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true" />
+</RelativeLayout>

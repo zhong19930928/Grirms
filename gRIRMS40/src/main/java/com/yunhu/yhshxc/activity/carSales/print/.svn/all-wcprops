@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/print
+END
+AbsCarSalesPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/print/AbsCarSalesPrint.java
+END
+CarSalesPrintForQianKuan.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/print/CarSalesPrintForQianKuan.java
+END
+CarSalesPrintForLoadingGoods.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/print/CarSalesPrintForLoadingGoods.java
+END
+CarSalesPrintForSellingGoods.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/print/CarSalesPrintForSellingGoods.java
+END
+CarSalesPrintForReturnGoods.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/yhshxc/activity/carSales/print/CarSalesPrintForReturnGoods.java
+END

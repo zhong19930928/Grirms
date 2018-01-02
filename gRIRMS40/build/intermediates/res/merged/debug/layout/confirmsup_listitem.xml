@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="30dp"
+    >
+
+    <ImageView
+        android:id="@+id/goods_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/goods_name"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="18dp"
+        android:background="@drawable/address_guabbi" />
+
+    <TextView
+        android:id="@+id/goods_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_toRightOf="@+id/goods_icon"
+        android:text="物品名称："
+        android:textColor="#676767"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/goods_name_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_toRightOf="@+id/goods_name"
+        android:text="胶带"
+        android:textColor="#676767"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/goods_name"
+        android:layout_marginTop="8dp"
+        android:background="@color/gray_deep" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/goods_name"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/goods_icon"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/ruku_goodsnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="入库数量："
+                android:textColor="#676767"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/ruku_goodsnum_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1300"
+                android:textColor="#676767"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/ruku_goodsprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="入库单价："
+                android:textColor="#676767"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/ruku_goodsprice_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="￥30"
+                android:textColor="#676767"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/ruku_goodsmeney"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="入库金额："
+                android:textColor="#676767"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/ruku_goodsmeney_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="￥1300"
+                android:textColor="#676767"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

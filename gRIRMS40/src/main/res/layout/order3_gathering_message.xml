@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_order3_gather"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="收款/留言"
+            android:textColor="@color/white"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_order3_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="联系人"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <com.yunhu.yhshxc.widget.DropDown
+            xmlns:dd="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/dropdown_order3_contracts"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spinner_dropdown_selector"
+            android:layout_weight="3"
+            dd:ddMode="single_choice_fuzzy_query" />
+
+        <Button
+            android:id="@+id/btn_syn_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="同步" />
+    </LinearLayout>
+
+    <include layout="@layout/order3_gethering_message_include" >
+    </include>
+
+</LinearLayout>

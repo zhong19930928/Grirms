@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SpecialKeyLib
+END
+SpecialKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SpecialKeyLib/SpecialKey.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SpecialKeyLib/Android.mk
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SpecialKeyLib/Log.h
+END
+tf_test_SpecialKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SpecialKeyLib/tf_test_SpecialKey.h
+END
+SpecialKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/jni/SpecialKeyLib/SpecialKey.cpp
+END

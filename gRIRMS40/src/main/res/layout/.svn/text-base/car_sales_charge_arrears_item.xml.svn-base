@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:paddingLeft="5dp" >
+
+            <TextView
+                android:id="@+id/tv_store_name"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:lines="2"
+                android:text="店面名称"
+                android:textColor="@color/black"
+                android:textSize="@dimen/carsales_qiankuan" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/tv_qiankuan"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:gravity="center_vertical"
+                    android:text="欠款"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/carsales_qiankuan" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="元"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/carsales_qiankuan" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:paddingRight="@dimen/carsales_qiankuan" >
+
+            <TextView
+                android:id="@+id/tv_time_charge"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical|right"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="时间"
+                android:textColor="@color/black"
+                android:textSize="@dimen/carsales_qiankuan" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="3"
+                    android:layout_marginTop="2dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:background="@color/carsales_biank"
+                    android:orientation="horizontal"
+                    android:padding="0.1dp" >
+
+                    <EditText
+                        android:id="@+id/et_bencishoukuan"
+                        android:layout_width="match_parent"
+                        android:layout_height="25dp"
+                        android:background="@color/white"
+                        android:gravity="center_vertical|right"
+                        android:inputType="number|numberDecimal"
+                        android:textCursorDrawable="@drawable/color_cursor"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/carsales_qiankuan" />
+                </LinearLayout>
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|right"
+                    android:text="元"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/carsales_qiankuan" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <CheckBox
+                android:id="@+id/cb_charge_arrears"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:button="@drawable/order3_checkbox_selector" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/carsales_divider" />
+
+</LinearLayout>

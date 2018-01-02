@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_pressed="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="5dp"/>
+            <solid android:color="@color/task_list_line"/>
+        </shape>
+    </item>
+    <item android:state_pressed="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="5dp"/>
+            <solid android:color="@color/main_bg"/>
+        </shape>
+    </item>
+    <!--<item android:state_selected="true">-->
+        <!--<shape>-->
+            <!--<corners android:radius="15dp"/>-->
+            <!--<solid android:color="@color/task_list_line"/>-->
+        <!--</shape>-->
+    <!--</item>-->
+    <!--<item>-->
+        <!--<shape>-->
+            <!--<corners android:radius="15dp"/>-->
+            <!--<solid android:color="@color/bbs_menu_blue"/>-->
+        <!--</shape>-->
+    <!--</item>-->
+
+</selector>

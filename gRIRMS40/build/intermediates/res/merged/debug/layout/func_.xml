@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/gray_sublight" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:id="@+id/ll_title"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/normal_actionbar_height"
+            android:background="@color/app_color"
+            android:gravity="center_horizontal"
+            android:paddingLeft="@dimen/normal_atcionbar_pading"
+            android:paddingRight="@dimen/normal_atcionbar_pading"
+            android:visibility="visible" >
+
+            <LinearLayout
+                android:id="@+id/ll_back"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/back"
+                    android:layout_width="@dimen/normal_title_back_width"
+                    android:layout_height="@dimen/normal_title_back_height"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/back" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_titleName"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:singleLine="true"
+                android:textColor="@color/gray"
+                android:textSize="@dimen/normal_title_text_size" />
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical" >
+
+                <LinearLayout
+                    android:id="@+id/ll_visit_checkIn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right|center_vertical"
+                    android:background="@drawable/visit_chickin_onclick"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:id="@+id/title_iv"
+                        android:layout_width="@dimen/normal_title_back_width"
+                        android:layout_height="@dimen/normal_title_back_height"
+                        android:background="@drawable/visit_checkin"
+                        android:layout_gravity="right|center_vertical"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:id="@+id/tv_query_clear"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:text="@string/clear_"
+                        android:textColor="@color/white"
+                        android:gravity="right|center_vertical"
+                        android:textSize="@dimen/normal_title_text_size"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <ImageView
+                    android:id="@+id/title_finish_iv"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="right|bottom"
+                    android:layout_marginBottom="1dp"
+                    android:layout_marginRight="1dp"
+                    android:background="@drawable/finish"
+                    android:visibility="gone" />
+            </FrameLayout>
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical" >
+
+                <LinearLayout
+                    android:id="@+id/ll_scan_add"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right|center_vertical"
+                    android:background="@drawable/visit_chickin_onclick"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:id="@+id/scan_add_iv"
+                        android:layout_width="@dimen/normal_title_back_width"
+                        android:layout_height="@dimen/normal_title_back_height"
+                        android:background="@drawable/home_scan"
+                        android:layout_gravity="right|center_vertical"
+                        android:gravity="center" />
+
+
+                </LinearLayout>
+
+
+            </FrameLayout>
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_expand"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:background="@drawable/func_menu_onclick"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/icon_orgnize" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="8dp"
+                android:gravity="center_vertical"
+                android:text="@string/subsidiary_organ"
+                android:textColor="@color/func_menu_button_click"
+                android:textSize="14dp" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <com.yunhu.yhshxc.widget.DropDown
+                xmlns:dd="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/sp_store_expand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="8dp"
+                android:background="@null"
+                android:gravity="right"
+                dd:ddMode="single_choice_fuzzy_query" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/line_new1" />
+
+        <ScrollView
+            android:id="@+id/func_scrollview"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="1dp"
+            android:layout_weight="1"
+            android:fadingEdge="none"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:id="@+id/ll_func"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:orientation="vertical">
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_addsacn"
+        android:layout_above="@+id/ll_btn_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical"
+        android:visibility="gone">
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</RelativeLayout>

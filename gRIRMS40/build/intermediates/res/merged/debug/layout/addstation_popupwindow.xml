@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/index_bgpop"
+    android:gravity="center_horizontal"
+    android:paddingBottom="8dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:id="@+id/station_reserve"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="预约工位"
+            android:textSize="14sp"
+            android:paddingLeft="15dp"
+            android:gravity="center_vertical"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/meettiempop_icon"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_gray_white_selector"
+            />
+
+        <View
+            android:layout_width="103dp"
+            android:layout_height="1dp"
+            android:layout_gravity="center_horizontal"
+            android:background="#BDBDBD" />
+        <TextView
+            android:id="@+id/put_stationreserve"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="扫一扫预约工位"
+            android:textSize="14sp"
+            android:paddingLeft="15dp"
+            android:gravity="center_vertical"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/meetputpop_icon"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_gray_white_selector"
+            />
+
+        <View
+            android:layout_width="103dp"
+            android:layout_height="1dp"
+            android:layout_gravity="center_horizontal"
+            android:background="#BDBDBD" />
+        <TextView
+            android:id="@+id/look_allsattion"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="工位查询"
+            android:textSize="14sp"
+            android:paddingLeft="15dp"
+            android:gravity="center_vertical"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/pop_look_icon"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_gray_white_selector"
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

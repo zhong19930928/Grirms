@@ -1,0 +1,3827 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/grirms4/!svn/ver/41188/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout
+END
+order_create_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_create_detail.xml
+END
+editrange_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/editrange_comp.xml
+END
+dialog_add_survey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_add_survey.xml
+END
+notifi_message_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40101/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/notifi_message_layout.xml
+END
+nearby_comp_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_comp_spinner.xml
+END
+home_listview_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/41135/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_listview_item.xml
+END
+activity_regist_company.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_regist_company.xml
+END
+activity_personal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_personal.xml
+END
+module_item_left3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/module_item_left3.xml
+END
+activity_fileupload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_fileupload.xml
+END
+dialog_notice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_notice.xml
+END
+exchange_gridview_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/exchange_gridview_item.xml
+END
+order3_gethering_message_include.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_gethering_message_include.xml
+END
+activity_wechat_content_voiceview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_wechat_content_voiceview.xml
+END
+message_itme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/message_itme.xml
+END
+notify_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/notify_list.xml
+END
+item_xiaomi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_xiaomi.xml
+END
+activity_visitor_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40996/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_visitor_list.xml
+END
+multi_choice_search_itme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/multi_choice_search_itme.xml
+END
+list_func_item_t1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40265/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/list_func_item_t1.xml
+END
+item_list_visitor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40996/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_list_visitor.xml
+END
+scheduling_search_result.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/scheduling_search_result.xml
+END
+record_audition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/record_audition.xml
+END
+nearby_visit_store_detail_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_store_detail_item.xml
+END
+activity_approval_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_approval_item.xml
+END
+comp_fuzzy_single_choice_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_fuzzy_single_choice_spinner.xml
+END
+order_sale_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_sale_preview.xml
+END
+web_view_util_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/web_view_util_activity.xml
+END
+pcode_info_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/pcode_info_item.xml
+END
+activity_workplan_create_new_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_workplan_create_new_item.xml
+END
+bbs_msg_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_msg_list_item.xml
+END
+home_gridview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/41121/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_gridview.xml
+END
+date_in_table_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/date_in_table_comp.xml
+END
+wechat_notice_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_notice_item.xml
+END
+layout_small_bbs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/layout_small_bbs.xml
+END
+select_comp_single.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/select_comp_single.xml
+END
+nearby_visit_search_result_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_search_result_item.xml
+END
+activity_mee_ting_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/41182/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_mee_ting_date.xml
+END
+activity_zrlogin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/41188/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_zrlogin.xml
+END
+record_button_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/record_button_view.xml
+END
+single_choice_view_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/single_choice_view_item.xml
+END
+order3_yulan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_yulan.xml
+END
+slidingmenu_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/slidingmenu_view.xml
+END
+activity_wechat_content_fileview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_wechat_content_fileview.xml
+END
+dialog_notice_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_notice_item.xml
+END
+wechat_popmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_popmenu.xml
+END
+func_view_list_one.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/40265/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/func_view_list_one.xml
+END
+report_time_range_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_time_range_dialog.xml
+END
+carsales_sale_condition_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/carsales_sale_condition_item.xml
+END
+activity_txr_contract.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40673/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_txr_contract.xml
+END
+activity_photoalbum_gridview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_photoalbum_gridview.xml
+END
+item_calendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/40103/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_calendar.xml
+END
+attendance_list_item_children.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_list_item_children.xml
+END
+init_yili.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/init_yili.xml
+END
+order3_shopping_car.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_shopping_car.xml
+END
+noticemeeting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/noticemeeting.xml
+END
+show_big_pic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/show_big_pic.xml
+END
+item_work_summary_assess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_work_summary_assess.xml
+END
+drag_priview_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/drag_priview_activity.xml
+END
+attend_card_item_simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_card_item_simple.xml
+END
+dialog_new_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_new_view.xml
+END
+item_zrmodule_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/40440/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_zrmodule_menu.xml
+END
+address_book_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_book_main.xml
+END
+activity_question_explain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_explain.xml
+END
+product_code_show_info_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/product_code_show_info_dialog.xml
+END
+car_sales_return_goods_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_sales_return_goods_item.xml
+END
+checkbox_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/checkbox_comp.xml
+END
+item_meetroom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/40934/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_meetroom.xml
+END
+comp_product_code_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_product_code_dialog.xml
+END
+order_search_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_search_item_view.xml
+END
+apply_for_reimbursement_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/apply_for_reimbursement_activity.xml
+END
+time_intable_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/time_intable_dialog.xml
+END
+login_4g_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/login_4g_activity.xml
+END
+login_for_free.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/login_for_free.xml
+END
+load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/load.xml
+END
+reprot_item_loudou.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/reprot_item_loudou.xml
+END
+fragment_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/fragment_2.xml
+END
+seatinfopop_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/40886/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/seatinfopop_layout.xml
+END
+wechat_spinner_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_spinner_item.xml
+END
+order3_gathering_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_gathering_message.xml
+END
+pay_order_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/pay_order_list_item.xml
+END
+select_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/select_comp.xml
+END
+date_selectview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/date_selectview.xml
+END
+select_photo_review.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/select_photo_review.xml
+END
+double_detail_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/double_detail_item.xml
+END
+search_list_dialogview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/search_list_dialogview.xml
+END
+address_drable_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_drable_item.xml
+END
+wechat_notice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_notice.xml
+END
+submit_fail_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/submit_fail_dialog.xml
+END
+order3_chanpinxinxi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_chanpinxinxi.xml
+END
+online_exam_content_item_radio_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_content_item_radio_button.xml
+END
+zrmodule_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/40370/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/zrmodule_dialog.xml
+END
+table_list_item_children_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_list_item_children_new.xml
+END
+notifi_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/40101/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/notifi_layout.xml
+END
+single_choice_view_white.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/single_choice_view_white.xml
+END
+wechat_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_group.xml
+END
+car_scale_selling_goods_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_scale_selling_goods_main.xml
+END
+activity_approval_myself_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_approval_myself_item.xml
+END
+address_book.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_book.xml
+END
+online_exam_content_item_view_one.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_content_item_view_one.xml
+END
+attendance_over.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_over.xml
+END
+replenish_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/replenish_list_item.xml
+END
+text_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/text_comp.xml
+END
+ggmm_check_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/ggmm_check_dialog.xml
+END
+address_title_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/40645/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_title_item.xml
+END
+date_range_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/date_range_comp.xml
+END
+activity_wechat_survey_checkbox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_wechat_survey_checkbox.xml
+END
+title_flow_indicator_v2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/title_flow_indicator_v2.xml
+END
+activity_approval_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_approval_dialog.xml
+END
+recorder_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/recorder_activity.xml
+END
+txr_item_listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40673/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/txr_item_listview.xml
+END
+push_progress_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/push_progress_dialog.xml
+END
+homepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/41188/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/homepage.xml
+END
+wechat_photo_items.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_photo_items.xml
+END
+attend_leave_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_leave_report.xml
+END
+meeting_address_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/40108/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/meeting_address_view.xml
+END
+activity_mybills.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/40792/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_mybills.xml
+END
+activity_comment_questions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_comment_questions.xml
+END
+func_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grirms4/!svn/ver/40405/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/func_.xml
+END
+item_work_plan_assess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_work_plan_assess.xml
+END
+car_sales_main_shopping_car.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_sales_main_shopping_car.xml
+END
+activity_exchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_exchange.xml
+END
+attend_for_leave_check.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_for_leave_check.xml
+END
+order_add_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_add_activity.xml
+END
+wechat_create_notice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_create_notice.xml
+END
+wechat_to_see_all_topic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_to_see_all_topic.xml
+END
+activity_homesecond.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/41121/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_homesecond.xml
+END
+shape_cycle_gray.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/shape_cycle_gray.xml
+END
+activity_work_summary_new_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_work_summary_new_item.xml
+END
+photo_in_table_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/photo_in_table_comp.xml
+END
+order3_shopping_car_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_shopping_car_item.xml
+END
+report_time_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_time_dialog.xml
+END
+online_exam_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_activity.xml
+END
+wechat_chat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_chat.xml
+END
+report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report.xml
+END
+order_returned_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_returned_list.xml
+END
+order_search_explain_fragmen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_search_explain_fragmen.xml
+END
+attendance_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_new.xml
+END
+apk_version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/40800/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/apk_version.xml
+END
+date_selectorview_number.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/date_selectorview_number.xml
+END
+list_func_view_t1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40283/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/list_func_view_t1.xml
+END
+wechat_create_group_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_create_group_item.xml
+END
+date_intable_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/date_intable_dialog.xml
+END
+question_common_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/question_common_item.xml
+END
+login_yili.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/login_yili.xml
+END
+card_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/card_row.xml
+END
+todo_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/todo_list.xml
+END
+attend_for_leave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_for_leave.xml
+END
+delete_prompt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/delete_prompt.xml
+END
+homepage_notice_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/41128/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/homepage_notice_item.xml
+END
+table_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_comp.xml
+END
+activity_car_sales.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_car_sales.xml
+END
+activity_survey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_survey.xml
+END
+syncdata_item_view_group_head.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/syncdata_item_view_group_head.xml
+END
+layout_menu_clock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/layout_menu_clock.xml
+END
+report_barchart_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_barchart_layout.xml
+END
+attend_leave_item_shenpi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_leave_item_shenpi.xml
+END
+wechat_dialog_edit_nc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_dialog_edit_nc.xml
+END
+address_fragment_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/40933/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_fragment_item_view.xml
+END
+online_exam_content_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_content_view.xml
+END
+activity_function_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_function_detail.xml
+END
+fragment_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/fragment_3.xml
+END
+home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grirms4/!svn/ver/41188/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home.xml
+END
+report_spinner_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_spinner_dialog.xml
+END
+activity_station_reserve_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/41122/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_station_reserve_main.xml
+END
+activity_smart_inspection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_smart_inspection.xml
+END
+bbs_loadview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_loadview.xml
+END
+activity_agendadetails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/40822/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_agendadetails.xml
+END
+report_date_range_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_date_range_comp.xml
+END
+report_date_range_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_date_range_dialog.xml
+END
+addpopup_window.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/40833/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/addpopup_window.xml
+END
+new_double_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/new_double_detail.xml
+END
+order3_now_dicount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_now_dicount.xml
+END
+popupwindow_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/popupwindow_group.xml
+END
+activity_qusetion_content_item_more_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_qusetion_content_item_more_button.xml
+END
+comp_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_dialog.xml
+END
+todo_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/todo_list_item.xml
+END
+car_sales_charge_arrears_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_sales_charge_arrears_list.xml
+END
+address_bumen_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_bumen_item_view.xml
+END
+activity_workplan_tip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_workplan_tip.xml
+END
+bluetooth_search_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bluetooth_search_list.xml
+END
+order3_take_photo_popupwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_take_photo_popupwindow.xml
+END
+item_gridview_inspection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_gridview_inspection.xml
+END
+activity_carsales_stock_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_carsales_stock_item.xml
+END
+online_exam_content_preview_after_sbumit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_content_preview_after_sbumit.xml
+END
+wechat_sigle_chat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_sigle_chat.xml
+END
+order3_send_combine_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_combine_list.xml
+END
+bbs_group_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_group_item.xml
+END
+module_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/module_item.xml
+END
+activity_company_files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_company_files.xml
+END
+choose_griditem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/choose_griditem.xml
+END
+order3_send.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send.xml
+END
+car_scale_shopping_car.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_scale_shopping_car.xml
+END
+activity_attendance_search_scheduling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_attendance_search_scheduling.xml
+END
+info_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/info_detail.xml
+END
+dialog_location_rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_location_rule.xml
+END
+item_mybills_listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40413/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_mybills_listview.xml
+END
+order3_zengpin_order_detail_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_zengpin_order_detail_item.xml
+END
+activity_question_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_preview.xml
+END
+card_popupwindow_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/card_popupwindow_title.xml
+END
+fragment_phone_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40139/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/fragment_phone_report.xml
+END
+nearby_visit_left_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_left_menu.xml
+END
+delelte_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/delelte_dialog.xml
+END
+activity_meetingagenda_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/41121/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_meetingagenda_list.xml
+END
+order3_xiadan_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_xiadan_item.xml
+END
+activity_questionnaire.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_questionnaire.xml
+END
+order_search_detail_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_search_detail_fragment.xml
+END
+activity_group_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_group_user.xml
+END
+table_list_item_children_unit_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_list_item_children_unit_new.xml
+END
+net_exception_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/net_exception_dialog.xml
+END
+item_company_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_company_file.xml
+END
+init_nearby_store_location_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/init_nearby_store_location_dialog.xml
+END
+order3_send_priview_list_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_priview_list_fragment.xml
+END
+wechat_topic_history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_topic_history.xml
+END
+videoplay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/videoplay.xml
+END
+menu_usable_tip_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/menu_usable_tip_fragment.xml
+END
+notify_list_loading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/notify_list_loading.xml
+END
+activity_group_user_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_group_user_view.xml
+END
+activity_wechat_exchange_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_wechat_exchange_list_item.xml
+END
+activity_confirm_sup_libray.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/40404/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_confirm_sup_libray.xml
+END
+home_view1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/40294/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_view1.xml
+END
+photo_popupwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/photo_popupwindow.xml
+END
+order_search_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_search_list_activity.xml
+END
+slide_view_merge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/slide_view_merge.xml
+END
+wechat_focus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_focus.xml
+END
+wechat_chat_notice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_chat_notice.xml
+END
+spinner_text_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/spinner_text_view.xml
+END
+address_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_view.xml
+END
+order_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_item_view.xml
+END
+order3_shopping_car_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_shopping_car_data.xml
+END
+activity_attendance_scheduling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_attendance_scheduling.xml
+END
+activity_survey_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_survey_dialog.xml
+END
+order3_send_kh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_kh.xml
+END
+timepickercomp_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/timepickercomp_comp.xml
+END
+splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/grirms4/!svn/ver/40800/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/splash.xml
+END
+info_detail_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/info_detail_item.xml
+END
+search_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/search_list.xml
+END
+table_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_list_item.xml
+END
+fragment_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/fragment_message.xml
+END
+order_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_detail_activity.xml
+END
+sprinner_check_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/sprinner_check_item.xml
+END
+pull_to_refresh_header_horizontal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/pull_to_refresh_header_horizontal.xml
+END
+activity_create_topic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_create_topic.xml
+END
+module_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/module_layout.xml
+END
+order3_send_detail_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_detail_list.xml
+END
+checkout_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/checkout_dialog.xml
+END
+comp_fuzzy_multi_choice_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_fuzzy_multi_choice_spinner.xml
+END
+photo_review_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/photo_review_item.xml
+END
+online_exam_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_content.xml
+END
+activity_exchange_wechat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_exchange_wechat.xml
+END
+activity_question_preview_item_select_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_preview_item_select_view.xml
+END
+address_drable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_drable.xml
+END
+activity_carsales_stock_statistics_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_carsales_stock_statistics_new.xml
+END
+activity_approval_others_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_approval_others_item.xml
+END
+activity_question_preview_item_selected_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_preview_item_selected_view.xml
+END
+time_in_table_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/time_in_table_comp.xml
+END
+activity_inspection_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_inspection_menu.xml
+END
+query_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/query_table.xml
+END
+page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/page.xml
+END
+help_question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/help_question.xml
+END
+activity_paint_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/40311/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_paint_view.xml
+END
+surecancle_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40886/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/surecancle_layout.xml
+END
+bbs_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_group.xml
+END
+show_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/show_image.xml
+END
+abs_nearby_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/abs_nearby_comp.xml
+END
+car_sales_charge_arrears.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_sales_charge_arrears.xml
+END
+activity_question_content_item_view_one.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_content_item_view_one.xml
+END
+wechat_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_contact.xml
+END
+location_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/location_dialog.xml
+END
+photoalbum_gridview_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/photoalbum_gridview_item.xml
+END
+nearby_visit_store_map_bd_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_store_map_bd_activity.xml
+END
+button_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/button_comp.xml
+END
+home_menu_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/40788/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_menu_item.xml
+END
+bbs_content_detail_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_content_detail_list_item.xml
+END
+get_push_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/get_push_dialog.xml
+END
+table_list_item_unit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_list_item_unit.xml
+END
+nearby_visit_store_map_mb_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_store_map_mb_activity.xml
+END
+activity_workplan_monthdetail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_workplan_monthdetail.xml
+END
+title_flow_indicator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/title_flow_indicator.xml
+END
+order_purchase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_purchase.xml
+END
+udb_tip_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/udb_tip_dialog.xml
+END
+nearby_comp_multiple_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_comp_multiple_spinner.xml
+END
+item_meetingname_gridview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/40348/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_meetingname_gridview.xml
+END
+submit_store_loc_fail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/submit_store_loc_fail.xml
+END
+card_cell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/card_cell.xml
+END
+online_exam_expalination.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_expalination.xml
+END
+mybills_items_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/40413/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/mybills_items_layout.xml
+END
+attend_leave_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_leave_item.xml
+END
+wechat_select_photo_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_select_photo_view.xml
+END
+popwindows_goback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40756/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/popwindows_goback.xml
+END
+activity_companyweb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_companyweb.xml
+END
+comp_multi_choice_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_multi_choice_spinner.xml
+END
+order3_xiadan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_xiadan.xml
+END
+dialog_download.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_download.xml
+END
+txr_item_contract.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40673/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/txr_item_contract.xml
+END
+order_product_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_product_item.xml
+END
+confirm_order_back_head.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/confirm_order_back_head.xml
+END
+activity_mybills_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/40413/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_mybills_details.xml
+END
+load_more.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/load_more.xml
+END
+car_scale_return_goods_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_scale_return_goods_list.xml
+END
+activity_wechat_content_videoview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_wechat_content_videoview.xml
+END
+edit_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/edit_comp.xml
+END
+report_edittext_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_edittext_dialog.xml
+END
+home_view2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/40294/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_view2.xml
+END
+activity_recycletimes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_recycletimes.xml
+END
+activity_qusetion_content_item_radio_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_qusetion_content_item_radio_button.xml
+END
+multi_choice_search_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/multi_choice_search_dialog.xml
+END
+datepickercomp_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/datepickercomp_comp.xml
+END
+table_pending_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_pending_item.xml
+END
+commom_back_btn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/commom_back_btn.xml
+END
+dialog_add_approval.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_add_approval.xml
+END
+activity_question_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_content.xml
+END
+car_scale_loading_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_scale_loading_main.xml
+END
+select_images_from_local1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/select_images_from_local1.xml
+END
+order3_info_sync_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_info_sync_item.xml
+END
+wechat_personal_edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_personal_edit.xml
+END
+attend_card_popupwindow_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_card_popupwindow_title.xml
+END
+activity_bookmroomdetails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/40934/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_bookmroomdetails.xml
+END
+slidingmenu_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/slidingmenu_item_view.xml
+END
+activity_attendtance_scheduling_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_attendtance_scheduling_item.xml
+END
+address_group_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_group_view.xml
+END
+order_create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_create.xml
+END
+custom_drop_down_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/custom_drop_down_list_item.xml
+END
+page_last.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/page_last.xml
+END
+add_approval_sub_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/add_approval_sub_view.xml
+END
+attendance_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_list.xml
+END
+attendance_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_spinner.xml
+END
+add_survey_sub_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/add_survey_sub_view.xml
+END
+item_trace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_trace.xml
+END
+home_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_menu.xml
+END
+address_xiangxi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_xiangxi.xml
+END
+item_trace_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_trace_title.xml
+END
+push_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/push_test.xml
+END
+order3_main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_main_activity.xml
+END
+activity_question_preview_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_preview_view.xml
+END
+order3_send_mark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_mark.xml
+END
+nfc_func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nfc_func.xml
+END
+delete_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/delete_dialog.xml
+END
+order_returned.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_returned.xml
+END
+attend_for_leave_do.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_for_leave_do.xml
+END
+order3_search_ordetail_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_search_ordetail_item.xml
+END
+double_way_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/double_way_list.xml
+END
+show_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/show_table.xml
+END
+record_priview_data_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/record_priview_data_comp.xml
+END
+order_explain_fragmen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_explain_fragmen.xml
+END
+attend_for_leave_report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attend_for_leave_report.xml
+END
+store_expand_priview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/store_expand_priview.xml
+END
+replenish_list_item_unit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/replenish_list_item_unit.xml
+END
+init.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grirms4/!svn/ver/40692/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/init.xml
+END
+order3_manager_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_manager_activity.xml
+END
+order3_search_ordetail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_search_ordetail.xml
+END
+address_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/41143/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_detail.xml
+END
+new_double_btn_more.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/new_double_btn_more.xml
+END
+table_list_item_children.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_list_item_children.xml
+END
+load_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/load_view.xml
+END
+link_priview_data_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/link_priview_data_comp.xml
+END
+wechat_attachment_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_attachment_view.xml
+END
+dialog_get_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_get_style.xml
+END
+summary_card_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/summary_card_view.xml
+END
+notify_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/notify_list_item.xml
+END
+loading_progressdialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/40511/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/loading_progressdialog.xml
+END
+activity_enter_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40800/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_enter_layout.xml
+END
+report_date_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_date_dialog.xml
+END
+photoalbum_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/photoalbum_item.xml
+END
+activity_report_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_report_preview.xml
+END
+report_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_detail.xml
+END
+item_asset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/40415/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_asset.xml
+END
+sprinner_check_item2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/sprinner_check_item2.xml
+END
+cbk_list_item_calendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/cbk_list_item_calendar.xml
+END
+popmenu_list_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40330/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/popmenu_list_menu.xml
+END
+module_layout_history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/module_layout_history.xml
+END
+activity_mybills_details_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/40413/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_mybills_details_new.xml
+END
+order3_location_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_location_bar.xml
+END
+sipnner_item_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/sipnner_item_comp.xml
+END
+activity_station_middle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/41122/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_station_middle.xml
+END
+address_book_zhiwei.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_book_zhiwei.xml
+END
+dialog_delte_tempstore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_delte_tempstore.xml
+END
+item_listview_inspection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_listview_inspection.xml
+END
+wechat_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_main.xml
+END
+radiobtn_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/radiobtn_comp.xml
+END
+online_exam_content_item_more_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_content_item_more_button.xml
+END
+chat_view_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/chat_view_left.xml
+END
+activity_txr_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40673/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_txr_list.xml
+END
+custom_toast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/custom_toast.xml
+END
+wechat_notice_item_fujian.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_notice_item_fujian.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/help.xml
+END
+order3_product_detai_discount_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_product_detai_discount_item.xml
+END
+activity_newlogin_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_newlogin_layout.xml
+END
+item_invebtory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/40491/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_invebtory.xml
+END
+confirmsup_listitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/40722/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/confirmsup_listitem.xml
+END
+car_sales_charge_arrears_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_sales_charge_arrears_item.xml
+END
+checkoutlayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/checkoutlayout.xml
+END
+online_exam_all_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_all_item.xml
+END
+activity_wechat_submit_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_wechat_submit_content.xml
+END
+home_view3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/40961/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_view3.xml
+END
+car_sales_loading_record_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_sales_loading_record_item.xml
+END
+address_all_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_all_view.xml
+END
+activity_question_content_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_content_view.xml
+END
+record_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/record_view.xml
+END
+titled_fragment_tab_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/titled_fragment_tab_activity.xml
+END
+wechat_create_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_create_group.xml
+END
+report_edittext_range_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_edittext_range_dialog.xml
+END
+new_double_btn_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/new_double_btn_view.xml
+END
+activity_asset_discovery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/40792/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_asset_discovery.xml
+END
+time_wheel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/time_wheel.xml
+END
+online_exam_content_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_content_preview.xml
+END
+carsales_debt_search_result_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/carsales_debt_search_result_item.xml
+END
+worksummar_add_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/worksummar_add_summary.xml
+END
+nearby_visit_store_map_gd_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_store_map_gd_activity.xml
+END
+activity_sales_statistics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_sales_statistics.xml
+END
+activity_image_show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_image_show.xml
+END
+bbs_content_detail_list_head.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_content_detail_list_head.xml
+END
+home_viewpager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/41134/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_viewpager.xml
+END
+dialog_get_org.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_get_org.xml
+END
+wechat_choose_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_choose_view.xml
+END
+titlebar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/titlebar.xml
+END
+image_grid_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/image_grid_fragment.xml
+END
+home_gridview2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/41153/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_gridview2.xml
+END
+visit_store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/visit_store.xml
+END
+nearby_visit_history_popupwindow2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_history_popupwindow2.xml
+END
+help_instructions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/help_instructions.xml
+END
+wechat_personal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_personal.xml
+END
+back_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/back_dialog.xml
+END
+order_detail_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_detail_fragment.xml
+END
+activity_search_choose.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/40330/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_search_choose.xml
+END
+activity_asset_alter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/40792/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_asset_alter.xml
+END
+scan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/scan.xml
+END
+comp_table_delete.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_table_delete.xml
+END
+sql_big_data_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/sql_big_data_item.xml
+END
+order3_send_combine_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_combine_view.xml
+END
+report_linechart_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_linechart_layout.xml
+END
+help_question_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/help_question_detail.xml
+END
+activity_webview_fillparens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/41134/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_webview_fillparens.xml
+END
+card_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/card_view.xml
+END
+nearby_visit_search_result_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_search_result_fragment.xml
+END
+loading_view_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/loading_view_layout.xml
+END
+order3_info_sync.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_info_sync.xml
+END
+address_bumen_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_bumen_content.xml
+END
+order3_zengpin_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_zengpin_item.xml
+END
+wechat_chat_topic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_chat_topic.xml
+END
+activity_workplan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_workplan.xml
+END
+table_stencil_prompt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_stencil_prompt.xml
+END
+comp_dialog_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_dialog_spinner.xml
+END
+module_item_gvitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/module_item_gvitem.xml
+END
+double_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/double_list_item.xml
+END
+nearby_visit_storeinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_storeinfo.xml
+END
+activity_survey_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_survey_item.xml
+END
+activity_poupwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_poupwindow.xml
+END
+confirm_order_unit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/confirm_order_unit.xml
+END
+activity_asset_surplus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/40692/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_asset_surplus.xml
+END
+order3_send_data_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_data_view.xml
+END
+other_select_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/other_select_comp.xml
+END
+online_exam_question_preview_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_exam_question_preview_item_view.xml
+END
+order3_send_p_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_p_list_item.xml
+END
+activity_zrmodule_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/40330/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_zrmodule_detail.xml
+END
+activity_property.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_property.xml
+END
+meetinglist_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/40784/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/meetinglist_item.xml
+END
+activity_meeting_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40108/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_meeting_user.xml
+END
+activity_scans200.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_scans200.xml
+END
+activity_newagenda.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/40781/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_newagenda.xml
+END
+tip_layout_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/tip_layout_dialog.xml
+END
+func_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/func_detail.xml
+END
+attendance_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_list_item.xml
+END
+video_priview_data_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/video_priview_data_comp.xml
+END
+web_report_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/web_report_activity.xml
+END
+wechat_location_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_location_bar.xml
+END
+photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/photo.xml
+END
+layout_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/layout_group.xml
+END
+page_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/page_comp.xml
+END
+screen_spinner_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/screen_spinner_item.xml
+END
+order_stock_control_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_stock_control_item.xml
+END
+double_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/double_detail.xml
+END
+nearby_visit_store_map_tuba_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_store_map_tuba_activity.xml
+END
+card_item_simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/card_item_simple.xml
+END
+nearby_comp_edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_comp_edit.xml
+END
+online_question_preview_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_question_preview_view.xml
+END
+home_view4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/40800/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_view4.xml
+END
+pull_refresh_empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/pull_refresh_empty.xml
+END
+scrollviewitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/41121/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/scrollviewitem.xml
+END
+actiity_question_result_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/actiity_question_result_item.xml
+END
+activity_inspection_task.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_inspection_task.xml
+END
+nearby_visit_left_menu_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_left_menu_item.xml
+END
+spinner_item_defined.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/spinner_item_defined.xml
+END
+order_menu_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_menu_item.xml
+END
+pay_order_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/pay_order_list.xml
+END
+single_choice_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/single_choice_view.xml
+END
+order_product_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_product_info.xml
+END
+wechat_chat_item_one.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_chat_item_one.xml
+END
+dialog_law.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_law.xml
+END
+bbs_message_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_message_list.xml
+END
+nearby_comp_distance_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_comp_distance_spinner.xml
+END
+activity_survey_myself_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_survey_myself_item.xml
+END
+nearby_visit_store_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_visit_store_detail_activity.xml
+END
+actiity_question_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/actiity_question_item.xml
+END
+visit_way.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/visit_way.xml
+END
+notify_attachment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/notify_attachment.xml
+END
+module_item_gvitem_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/module_item_gvitem_left.xml
+END
+notify_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/notify_detail.xml
+END
+order3_zengpin_zhekou_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_zengpin_zhekou_item.xml
+END
+nearby_comp_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_comp_date.xml
+END
+order3_send_data_view_c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_data_view_c.xml
+END
+ask_for_off_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/ask_for_off_dialog.xml
+END
+foot_listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/foot_listview.xml
+END
+pics_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/pics_preview.xml
+END
+dl_listview_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dl_listview_item.xml
+END
+activity_debt_statistics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_debt_statistics.xml
+END
+photo_review.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/photo_review.xml
+END
+replenish_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/replenish_detail.xml
+END
+bbs_location_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_location_dialog.xml
+END
+paging_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/paging_list_item.xml
+END
+card_popupwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/card_popupwindow.xml
+END
+item_list_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40996/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_list_message.xml
+END
+stationfloorlist_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40604/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/stationfloorlist_item.xml
+END
+ptr_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/ptr_list.xml
+END
+syncdata_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/syncdata_view.xml
+END
+visit_fuzz_query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/visit_fuzz_query.xml
+END
+meeting_address_group_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/40108/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/meeting_address_group_view.xml
+END
+manager_report_trip_detail_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/manager_report_trip_detail_item.xml
+END
+location_checkin_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/location_checkin_dialog.xml
+END
+activity_book_meetroom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/40701/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_book_meetroom.xml
+END
+new_double_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/new_double_list.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/test.xml
+END
+table_activity_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_activity_comp.xml
+END
+bbs_content_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_content_detail.xml
+END
+online_question_preview_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/online_question_preview_item_view.xml
+END
+activity_photoalbum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_photoalbum.xml
+END
+water_mark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/water_mark.xml
+END
+activity_workplan_newplan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_workplan_newplan.xml
+END
+order_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_menu.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_main.xml
+END
+order_sale_create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_sale_create.xml
+END
+near_visit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/near_visit.xml
+END
+help_popupwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/help_popupwindow.xml
+END
+home_gridview_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/41121/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_gridview_item.xml
+END
+attendance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance.xml
+END
+home_view5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/40294/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_view5.xml
+END
+table_list_item_children_unit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_list_item_children_unit.xml
+END
+zr_module_mine_item1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/40356/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/zr_module_mine_item1.xml
+END
+confirm_order_head.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/confirm_order_head.xml
+END
+order3_send_priview_avtivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_send_priview_avtivity.xml
+END
+attendance_info_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_info_view.xml
+END
+func_layout_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/func_layout_menu.xml
+END
+nearby_comp_edit_range.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/nearby_comp_edit_range.xml
+END
+activity_work_summary_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_work_summary_main.xml
+END
+module_item_right3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/module_item_right3.xml
+END
+report_piechart_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/report_piechart_layout.xml
+END
+order3_zengpin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_zengpin.xml
+END
+confirm_order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/confirm_order.xml
+END
+abs_car_sales_statistics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/abs_car_sales_statistics.xml
+END
+stationlist_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/40958/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/stationlist_item.xml
+END
+activity_question_preview_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_preview_item_view.xml
+END
+pull_to_refresh_header_vertical.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/pull_to_refresh_header_vertical.xml
+END
+attachment_priview_data_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attachment_priview_data_comp.xml
+END
+query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/query.xml
+END
+refresh_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/refresh_header.xml
+END
+activity_work_summary_new_create.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_work_summary_new_create.xml
+END
+comp_single_choice_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/comp_single_choice_spinner.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/login.xml
+END
+order_stock_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_stock_list.xml
+END
+work_summary_detail_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/work_summary_detail_view.xml
+END
+car_scale_gethering_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_scale_gethering_message.xml
+END
+wechat_pomenu_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_pomenu_item.xml
+END
+item_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/40415/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/item_dialog.xml
+END
+activity_zrmodule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/40792/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_zrmodule.xml
+END
+activity_survey_others_item_chenhui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_survey_others_item_chenhui.xml
+END
+sdcard_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/sdcard_dialog.xml
+END
+order_stock_update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_stock_update.xml
+END
+activity_question_result_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_result_preview.xml
+END
+fragment_address_book.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40645/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/fragment_address_book.xml
+END
+bbs_down_photo_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_down_photo_dialog.xml
+END
+address_book_all.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_book_all.xml
+END
+activity_reserve_station.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/40945/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_reserve_station.xml
+END
+activity_regist_explain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_regist_explain.xml
+END
+order_main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_main_activity.xml
+END
+bbs_publish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_publish.xml
+END
+location_gps_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/location_gps_dialog.xml
+END
+activity_kt40_scaning.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_kt40_scaning.xml
+END
+checkinlayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/checkinlayout.xml
+END
+addstation_popupwindow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/40945/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/addstation_popupwindow.xml
+END
+order_purchase_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_purchase_preview.xml
+END
+date__spinner_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/date__spinner_layout.xml
+END
+activity_asset_inventory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/40491/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_asset_inventory.xml
+END
+selector_btn_cycle_blue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/selector_btn_cycle_blue.xml
+END
+submit_manager_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/submit_manager_activity.xml
+END
+refresh_footer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/refresh_footer.xml
+END
+home_menu_item_topgridview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/40294/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_menu_item_topgridview.xml
+END
+button_small_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/button_small_comp.xml
+END
+txr_item_contract_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/40673/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/txr_item_contract_list.xml
+END
+wechat_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_photo.xml
+END
+search_result_item_t1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40265/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/search_result_item_t1.xml
+END
+attendance_calendar_card.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/attendance_calendar_card.xml
+END
+time_range_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/time_range_comp.xml
+END
+syncdata_item_view_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/syncdata_item_view_group.xml
+END
+priview_data_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/priview_data_comp.xml
+END
+scan_in_table_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/scan_in_table_comp.xml
+END
+order_query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order_query.xml
+END
+activity_question_content_item_edit_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_question_content_item_edit_text.xml
+END
+activity_wechat_exchange_gridview_tiem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_wechat_exchange_gridview_tiem.xml
+END
+order3_activity_main_shopping_car.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_activity_main_shopping_car.xml
+END
+order2_main_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order2_main_activity.xml
+END
+bbs_show_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_show_photo.xml
+END
+custom_drop_down_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/custom_drop_down_list.xml
+END
+wechat_touxiangxuanze.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/wechat_touxiangxuanze.xml
+END
+layout_camera_control.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/layout_camera_control.xml
+END
+car_sales_loading_record.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/car_sales_loading_record.xml
+END
+table_stencil_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/table_stencil_dialog.xml
+END
+activity_txr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/40673/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_txr.xml
+END
+activity_visitor_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/40996/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_visitor_detail.xml
+END
+task_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/task_list.xml
+END
+zrmodule_menu_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/grirms4/!svn/ver/40348/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/zrmodule_menu_list_item.xml
+END
+order3_da_yin_ding_dan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_da_yin_ding_dan.xml
+END
+home_view6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/40294/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/home_view6.xml
+END
+confirm_order_back.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/confirm_order_back.xml
+END
+zr_module_mine_item2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/40356/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/zr_module_mine_item2.xml
+END
+search_list_new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/search_list_new.xml
+END
+syncdata_item_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/syncdata_item_view.xml
+END
+login_45.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/login_45.xml
+END
+order3_location_bar_yulan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_location_bar_yulan.xml
+END
+func_btn_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/func_btn_menu.xml
+END
+dialog_add_store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_add_store.xml
+END
+fragment_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/fragment_1.xml
+END
+location_tip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/location_tip.xml
+END
+product_code_in_table_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/product_code_in_table_comp.xml
+END
+sql_big_data_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/sql_big_data_activity.xml
+END
+link_priview_data_item_comp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/link_priview_data_item_comp.xml
+END
+order3_products_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_products_list_item.xml
+END
+dialog_selet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/grirms4/!svn/ver/40415/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/dialog_selet.xml
+END
+activity_personal_setting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_personal_setting.xml
+END
+activity_approval.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_approval.xml
+END
+address_group_view_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/address_group_view_header.xml
+END
+order3_product_detai.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/order3_product_detai.xml
+END
+fragment_person_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/grirms4/!svn/ver/40702/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/fragment_person_info.xml
+END
+chat_view_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/chat_view_right.xml
+END
+activity_bookmroomdetails2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/grirms4/!svn/ver/40904/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_bookmroomdetails2.xml
+END
+bbs_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/bbs_main.xml
+END
+activity_survey_others_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/grirms4/!svn/ver/39953/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/activity_survey_others_item.xml
+END
+libraycontent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/grirms4/!svn/ver/40722/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/res/layout/libraycontent.xml
+END

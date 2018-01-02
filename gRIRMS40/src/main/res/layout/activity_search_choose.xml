@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_sublight"
+    android:orientation="vertical"
+    tools:context="com.yunhu.yhshxc.activity.SearchChooseActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/zr_asset_actionbar">
+
+        <ImageView
+            android:id="@+id/search_back"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/back_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="选择资产"
+            android:textColor="@color/white"
+            android:textSize="18dp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/btn_selector_white"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.SearchView
+            android:id="@+id/search_mSearchview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:queryBackground="@null"
+            app:queryHint="请输入搜索关键字" />
+
+        <TextView
+            android:id="@+id/search_searchtip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="搜索" />
+    </LinearLayout>
+
+    <com.yunhu.android.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/search_mListView"
+        android:divider="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:dividerHeight="8dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+    <Button
+        android:id="@+id/search_search_confir"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/btn_selector_blue1"
+        android:text="@string/confirm"
+        android:textColor="@color/white" />
+</LinearLayout>

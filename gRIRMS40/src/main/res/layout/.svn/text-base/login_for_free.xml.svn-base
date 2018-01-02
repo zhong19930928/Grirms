@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/login_free_bg"
+    android:orientation="vertical" >
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+     
+         >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="vertical"
+        android:padding="@dimen/normal_atcionbar_pading" >
+
+        <TextView
+            android:id="@+id/notice_type"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/login_4g_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+    </LinearLayout>
+
+   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="20dp"
+        
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp"
+       >
+
+        <TextView
+            android:singleLine="true"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            
+            android:gravity="center|left"
+            android:text="登录名："
+            android:textColor="@color/gray_main"
+            android:textSize="15dp"
+            />
+
+        <EditText
+            android:id="@+id/et_username"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="3"
+            android:background="@drawable/shape_rectangle_nosolid_blue"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textColorHint="@color/gray_sub"
+            android:textSize="16sp" >
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+       
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp"
+      >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            
+            android:gravity="center|left"
+            android:text="手机号："
+            android:singleLine="true"
+            android:textColor="@color/gray_main"
+            android:textSize="15dp"
+             />
+
+        <EditText
+            
+            android:id="@+id/et_phoneno"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="3"
+            android:background="@drawable/shape_rectangle_nosolid_blue"
+            android:ems="10"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:inputType="phone"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:textColorHint="@color/gray_sub"
+            android:textSize="16sp" >
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            
+            android:gravity="center|left"
+            android:text="密码："
+            android:textColor="@color/gray_main"
+            android:textSize="15dp"
+            />
+
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="3"
+            android:background="@drawable/shape_rectangle_nosolid_blue"
+            android:ems="10"
+            android:textCursorDrawable="@drawable/color_cursor"
+            android:paddingLeft="5dp"
+            android:password="true"
+            android:singleLine="true"
+            android:textColorHint="@color/gray_sub"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_re_blue"
+            android:padding="10dp"
+            android:text="激活"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+    </LinearLayout>
+     <TextView
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+     
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="账号激活信息需通过所在公司管理员注册后提供使用"
+        android:textColor="@color/black"
+        android:textSize="12dp" />
+
+</RelativeLayout>

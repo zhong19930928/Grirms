@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="btmanager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gRIRMS40/libs/btmanager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

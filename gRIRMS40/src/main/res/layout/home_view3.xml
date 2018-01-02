@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/home_hy" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_notice_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="会议日程·会议通知"
+                android:textColor="#666666"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/tv_time_meet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2017.08.10 17:14"
+                android:textColor="#666666"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/tv_meeting_top"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="会议通知·全体员工参加8月18日产品会议"
+                android:textColor="#666666"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/tv_meeting_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="地点:第三会议室"
+                android:textColor="#666666"
+                android:textSize="14dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#f9f9f9"
+        android:textColor="#666666"
+        android:textSize="14dp"
+        android:gravity="center"
+        android:text="查看详情" />
+
+</LinearLayout>

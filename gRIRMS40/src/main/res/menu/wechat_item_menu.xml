@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+     android:id="@+id/select_audit"  
+     android:title="@string/wechat_content67"
+     android:showAsAction="never"/>  
+ 
+    <item  
+        android:id="@+id/recall_msg"  
+        android:title="@string/wechat_content68"
+        android:showAsAction="never"/>  
+
+</menu>

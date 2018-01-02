@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UPPayAssist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gRIRMS40/libs/UPPayAssist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

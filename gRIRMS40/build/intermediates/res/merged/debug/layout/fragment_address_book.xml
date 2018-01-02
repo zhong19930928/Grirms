@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context=".activity.HomePageActivity">
+
+
+    <LinearLayout
+        android:id="@+id/ll_title_txl"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/normal_actionbar_height"
+        android:padding="@dimen/normal_atcionbar_pading"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="horizontal"
+        android:gravity="center_vertical" >
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/quxiao"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/leave_name_text_size"
+            android:visibility="gone"/>
+        <TextView
+            android:id="@+id/tv_title_address"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="请选择会议参与人"
+            android:textColor="@color/white"
+            android:textSize="@dimen/normal_title_text_size" />
+        <TextView
+            android:id="@+id/tv_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/confirm"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/leave_name_text_size"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <view.SearchEditText
+        android:id="@+id/activity_main_input_edittext"
+        style="@style/editTextStyle"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/ll_title_txl" />
+    <view.TestBarView
+        android:id="@+id/hs_book"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="vertical"
+        android:background="@color/zr_address_title_bg"
+        android:layout_below="@id/activity_main_input_edittext">
+    </view.TestBarView>
+
+    <ListView
+        android:id="@+id/address_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/gray_deep"
+        android:dividerHeight="1dp"
+        android:layout_below="@id/hs_book" />
+</RelativeLayout>

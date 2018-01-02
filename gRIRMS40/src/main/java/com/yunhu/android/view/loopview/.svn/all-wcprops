@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/grirms4/!svn/ver/40701/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview
+END
+InertiaTimerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview/InertiaTimerTask.java
+END
+MessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview/MessageHandler.java
+END
+LoopView.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/grirms4/!svn/ver/40701/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview/LoopView.java
+END
+LoopViewGestureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview/LoopViewGestureListener.java
+END
+OnItemSelectedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview/OnItemSelectedListener.java
+END
+OnItemSelectedRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview/OnItemSelectedRunnable.java
+END
+SmoothScrollTimerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/grirms4/!svn/ver/40281/GRIRMS4.0/00_Android/yhshxc_as/bracches/Grirms_ZR/gRIRMS40/src/main/java/com/yunhu/android/view/loopview/SmoothScrollTimerTask.java
+END

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/func_menu_bg">
+
+    <GridView
+        android:id="@+id/gv_photo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchMode="columnWidth"
+        android:numColumns="auto_fit"
+        android:columnWidth="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/ll_bottomBar">
+    </GridView>
+
+    <RelativeLayout
+        android:id="@+id/ll_bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/func_menu_enable"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/btn_edit_or_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/menu_button"
+            android:onClick="onClick"
+            android:text="@string/edit"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:layout_centerVertical="true" />
+
+        <Button
+            android:id="@+id/btn_all_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/menu_button"
+            android:onClick="onClick"
+            android:text="@string/all_delete"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_toRightOf="@+id/btn_edit_or_delete"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/menu_button"
+            android:onClick="onClick"
+            android:text="@string/back"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_alignParentRight="true"
+            android:gravity="center" />
+    </RelativeLayout>
+
+</RelativeLayout>

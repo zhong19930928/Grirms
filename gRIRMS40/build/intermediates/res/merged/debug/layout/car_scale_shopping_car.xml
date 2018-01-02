@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <LinearLayout
+        android:id="@+id/ll_shopping_car_order3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/app_color"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/order3_scan_selector"
+            android:visibility="invisible" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="购物车"
+            android:textColor="@color/white"
+            android:textSize="28sp" />
+
+        <ImageButton
+            android:id="@+id/ib_scanning"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/order3_scan_selector" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_shopping_car"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/tv_shopping_car_allmoney"
+        android:layout_below="@+id/ll_shopping_car_order3"
+        android:divider="@color/order3_search_divider"
+        android:dividerHeight="0.5dp" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/tv_shopping_car_allmoney"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:text="共计: ￥ 0.00"
+        android:textColor="@color/order3_search_num"
+        android:textSize="18sp" />
+
+</RelativeLayout>

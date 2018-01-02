@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/tv_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dip"
+        android:padding="15dip"
+        android:text="@string/load_more"
+        android:singleLine="true"
+        android:textSize="16sp"
+        android:textColor="@color/gray_sub" />
+
+    <!--
+         <ImageView
+        android:id="@+id/img_load"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dip"
+        android:background="@drawable/loadrefresh" />
+    -->
+
+    <ImageView
+        android:id="@+id/img_ling"
+        android:layout_width="2dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:gravity="center" >
+
+        <ImageView
+            android:id="@+id/img_load"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/icon_circleprogress" />
+    </RelativeLayout>
+
+        <ImageView
+        android:layout_width="2dp"
+        android:layout_height="fill_parent"
+        android:background="@color/gray" />
+    <RelativeLayout
+        android:id="@+id/img_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:padding="15dip"
+         >
+
+        <ImageView
+           
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/loadcancle1" />
+    </RelativeLayout>
+    
+
+</LinearLayout>

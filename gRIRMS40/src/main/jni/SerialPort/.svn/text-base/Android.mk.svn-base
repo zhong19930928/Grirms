@@ -1,0 +1,54 @@
+LOCAL_PATH:= $(call my-dir)
+include $(CLEAR_VARS)
+
+LOCAL_CFLAGS += -DHAVE_CONFIG_H -DKHTML_NO_EXCEPTIONS -DGKWQ_NO_JAVA
+LOCAL_CFLAGS += -DNO_SUPPORT_JS_BINDING -DQT_NO_WHEELEVENT -DKHTML_NO_XBL
+LOCAL_CFLAGS += -U__APPLE__
+
+LOCAL_MODULE_TAGS := optional
+
+ifeq ($(TARGET_ARCH), arm)
+	LOCAL_CFLAGS += -DPACKED="__attribute__ ((packed))"
+else
+	LOCAL_CFLAGS += -DPACKED=""
+endif
+
+ifeq ($(WITH_JIT),true)
+	LOCAL_CFLAGS += -DWITH_JIT
+endif
+
+ifneq ($(USE_CUSTOM_RUNTIME_HEAP_MAX),)
+  LOCAL_CFLAGS += -DCUSTOM_RUNTIME_HEAP_MAX=$(USE_CUSTOM_RUNTIME_HEAP_MAX)
+endif
+
+LOCAL_CFLAGS += -DGL_GLEXT_PROTOTYPES -DEGL_EGLEXT_PROTOTYPES
+
+LOCAL_SRC_FILES:= \
+	serialport.cpp
+
+LOCAL_C_INCLUDES += \
+	$(JNI_H_INCLUDE)
+
+LOCAL_SHARED_LIBRARIES := \
+	libcutils \
+	libutils \
+	libc
+
+LOCAL_LDLIBS += -lpthread -ldl
+
+ifeq ($(TARGET_SIMULATOR),true)
+ifeq ($(TARGET_OS)-$(TARGET_ARCH),linux-x86)
+LOCAL_LDLIBS += -lrt
+endif
+endif
+
+ifeq ($(WITH_MALLOC_LEAK_CHECK),true)
+	LOCAL_CFLAGS += -DMALLOC_LEAK_CHECK
+endif
+
+LOCAL_MODULE:= libtf_serialport
+LOCAL_PRELINK_MODULE:= false
+
+include $(BUILD_SHARED_LIBRARY)
+
+include $(call all-makefiles-under,$(LOCAL_PATH))
